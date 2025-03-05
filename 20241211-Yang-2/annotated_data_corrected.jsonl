@@ -1,0 +1,105 @@
+{"id":2,"text":"想買一台便攜的筆記本電腦，適合工作用。","label":"[[4, 6, 'ATTRIBUTE'], [7, 12, 'PRODUCT_NAME'], [15, 17, 'PURPOSE']]","Comments":"[]"}
+{"id":3,"text":"有沒有最新的iPhone手機推薦？","label":"[[6, 12, 'BRAND'], [12, 14, 'CATEGORY']]","Comments":"[]"}
+{"id":4,"text":"求推薦一款性價比高的平板電腦。","label":"[[5, 9, 'PRICE'], [10, 14, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":5,"text":"我需要一台適合剪輯視頻的高性能電腦。","label":"[[7, 11, 'PURPOSE'], [12, 15, 'ATTRIBUTE'], [15, 17, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":6,"text":"想找一部學生用的經濟型手機。","label":"[[4, 7, 'PURPOSE'], [11, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":7,"text":"哪些智能手錶適合運動記錄？","label":"[[2, 6, 'PRODUCT_NAME'], [8, 10, 'PURPOSE']]","Comments":"[]"}
+{"id":8,"text":"想買一副降噪效果好的耳機。","label":"[[4, 9, 'ATTRIBUTE'], [10, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":9,"text":"求推薦一個適合打遊戲的鍵盤和滑鼠套裝。","label":"[[7, 10, 'PURPOSE'], [11, 13, 'PRODUCT_NAME'], [14, 16, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":10,"text":"家裡的路由器壞了，有什麼穩定的Wi-Fi設備推薦嗎？","label":"[[3, 6, 'PRODUCT_NAME'], [12, 14, 'ATTRIBUTE'], [15, 22, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":11,"text":"我需要一個高效的藍牙音響，用於戶外聚會。","label":"[[5, 7, 'ATTRIBUTE'], [8, 12, 'PRODUCT_NAME'], [15, 19, 'PURPOSE']]","Comments":"[]"}
+{"id":12,"text":"有推薦用於辦公的雙屏顯示器嗎？","label":"[[5, 7, 'PURPOSE'], [10, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":13,"text":"我想買一個高清網絡攝像頭，適合遠程會議的。","label":"[[5, 7, 'ATTRIBUTE'], [7, 12, 'PRODUCT_NAME'], [15, 19, 'PURPOSE']]","Comments":"[]"}
+{"id":14,"text":"求一款適合拍風景的專業相機。","label":"[[5, 8, 'ATTRIBUTE'], [11, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":15,"text":"有沒有推薦可以長時間續航的無線耳機？","label":"[[7, 12, 'ATTRIBUTE'], [13, 17, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":16,"text":"找一款適合居家用的投影儀。","label":"[[5, 8, 'PURPOSE'], [9, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":18,"text":"想買一件冬天保暖的羽絨服，有什麼品牌推薦？","label":"[[6, 8, 'ATTRIBUTE'], [9, 12, 'PRODUCT_NAME'], [16, 18, 'CATEGORY']]","Comments":"[]"}
+{"id":19,"text":"求推薦一款適合夏天穿的涼鞋。","label":"[[11, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":20,"text":"我需要一套正裝，參加面試用。","label":"[[5, 7, 'PRODUCT_NAME'], [10, 12, 'PURPOSE']]","Comments":"[]"}
+{"id":21,"text":"有沒有推薦適合跑步的運動鞋？","label":"[[7, 9, 'PURPOSE'], [10, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":22,"text":"想買一個百搭的黑色背包。","label":"[[7, 9, 'ATTRIBUTE'], [9, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":23,"text":"找一款好看的手錶，可以日常戴。","label":"[[6, 8, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":24,"text":"我需要一條舒服的瑜伽褲，有推薦嗎？","label":"[[8, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":25,"text":"有沒有適合情侶穿的休閒服裝？","label":"[[5, 7, 'ATTRIBUTE'], [9, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":26,"text":"想買一雙適合登山的鞋子。","label":"[[6, 8, 'PURPOSE'], [9, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":27,"text":"我需要一副質量好的防藍光眼鏡。","label":"[[9, 14, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":28,"text":"求一頂適合遮陽的帽子。","label":"[[8, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":29,"text":"有推薦的防水運動外套嗎？","label":"[[4, 6, 'ATTRIBUTE'], [6, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":30,"text":"想買一個皮質的手提包，適合上班用。","label":"[[4, 6, 'ATTRIBUTE'], [7, 10, 'PRODUCT_NAME'], [13, 16, 'PURPOSE']]","Comments":"[]"}
+{"id":31,"text":"我需要一條適合冬天用的圍巾。","label":"[[11, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":32,"text":"有什麼適合夏天的透氣襯衫嗎？","label":"[[8, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":34,"text":"家裡需要一個新的掃地機器人，有推薦嗎？","label":"[[8, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":35,"text":"想買一個好用的電飯煲。","label":"[[7, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":36,"text":"求推薦一款容量大的冰箱。","label":"[[5, 8, 'ATTRIBUTE'], [9, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":37,"text":"我需要一個快速加熱的熱水壺。","label":"[[10, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":38,"text":"有沒有推薦的空氣清淨機？","label":"[[6, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":39,"text":"想找一台安靜的洗衣機。","label":"[[4, 6, 'ATTRIBUTE'], [7, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":40,"text":"家裡缺一個小型烤箱，有什麼性價比高的推薦嗎？","label":"[[5, 9, 'PRODUCT_NAME'], [13, 17, 'PRICE']]","Comments":"[]"}
+{"id":41,"text":"求推薦一個實用的折疊式晾衣架。","label":"[[8, 14, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":42,"text":"想買一個加濕器，適合冬天用。","label":"[[4, 7, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":43,"text":"我需要一盞適合書桌用的護眼燈。","label":"[[7, 10, 'PURPOSE'], [11, 14, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":44,"text":"有沒有推薦的廚房用菜刀套裝？","label":"[[6, 9, 'PURPOSE'], [9, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":45,"text":"找一張結實的電腦桌，適合小空間。","label":"[[6, 9, 'PRODUCT_NAME'], [12, 15, 'PURPOSE']]","Comments":"[]"}
+{"id":46,"text":"想買一個智能電視，適合看電影的。","label":"[[4, 8, 'PRODUCT_NAME'], [11, 14, 'PURPOSE']]","Comments":"[]"}
+{"id":47,"text":"求一款實用的電子門鎖。","label":"[[6, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":48,"text":"有推薦的可攜帶式手持吸塵器嗎？","label":"[[4, 8, 'ATTRIBUTE'], [8, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":50,"text":"想買一個好用的電動牙刷。","label":"[[7, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":51,"text":"我需要一個按摩椅，有什麼好選擇嗎？","label":"[[5, 8, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":52,"text":"求推薦一款溫和的洗面奶。","label":"[[5, 7, 'ATTRIBUTE'], [8, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":53,"text":"想買一台便攜式血壓計。","label":"[[4, 6, 'ATTRIBUTE'], [7, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":54,"text":"有推薦防脫髮的洗髮水嗎？","label":"[[3, 6, 'ATTRIBUTE'], [7, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":55,"text":"找一款適合敏感肌用的防曬霜。","label":"[[5, 8, 'ATTRIBUTE'], [10, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":56,"text":"想買一個迷你空氣清淨器，放在車裡用。","label":"[[6, 11, 'PRODUCT_NAME'], [14, 17, 'PURPOSE']]","Comments":"[]"}
+{"id":57,"text":"求推薦一台家用電子秤。","label":"[[7, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":58,"text":"我需要一瓶滋潤型的護手霜，有推薦嗎？","label":"[[5, 8, 'PURPOSE'], [9, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":59,"text":"有沒有推薦的肩頸按摩器？","label":"[[6, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":60,"text":"想買一台可以用來檢測睡眠質量的智能手環。","label":"[[8, 14, 'PURPOSE'], [15, 19, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":61,"text":"求一瓶適合旅行攜帶的小型洗髮乳。","label":"[[5, 7, 'PURPOSE'], [10, 15, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":62,"text":"有推薦的可調節睡眠枕頭嗎？","label":"[[4, 9, 'PURPOSE'], [9, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":63,"text":"想買一款清爽型的面霜。","label":"[[4, 7, 'ATTRIBUTE'], [8, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":64,"text":"求推薦一個安全可靠的紫外線消毒燈。","label":"[[10, 16, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":66,"text":"想買一盒高蛋白的即食早餐。","label":"[[4, 7, 'ATTRIBUTE'], [8, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":67,"text":"有推薦適合減肥的代餐嗎？","label":"[[5, 7, 'PURPOSE'], [8, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":68,"text":"我需要一種低糖的咖啡豆，有什麼好選擇？","label":"[[5, 7, 'ATTRIBUTE'], [8, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":69,"text":"找一個耐泡的高品質茶葉。","label":"[[3, 5, 'ATTRIBUTE'], [9, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":70,"text":"想買一瓶適合送禮的紅酒。","label":"[[6, 8, 'PURPOSE'], [9, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":71,"text":"求推薦一款好吃的速食拉麵。","label":"[[8, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":72,"text":"想買一些無添加的健康零食。","label":"[[4, 7, 'PURPOSE'], [8, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":73,"text":"有推薦的進口奶酪嗎？","label":"[[4, 8, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":74,"text":"我需要一個口感好的巧克力禮盒。","label":"[[9, 14, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":75,"text":"有什麼適合孩子的健康果汁推薦？","label":"[[8, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":76,"text":"想買一包耐儲存的堅果零食。","label":"[[4, 7, 'ATTRIBUTE'], [8, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":77,"text":"求推薦一款高鈣的牛奶品牌。","label":"[[5, 7, 'ATTRIBUTE'], [8, 12, 'BRAND']]","Comments":"[]"}
+{"id":78,"text":"找一種適合熬湯用的中藥材。","label":"[[5, 7, 'PURPOSE'], [9, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":79,"text":"想買一些方便攜帶的能量棒。","label":"[[4, 8, 'ATTRIBUTE'], [9, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":80,"text":"有沒有推薦的低脂沙拉醬？","label":"[[6, 8, 'ATTRIBUTE'], [8, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":82,"text":"想買一副好用的繪畫工具套裝。","label":"[[7, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":83,"text":"有推薦的電子書閱讀器嗎？","label":"[[4, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":84,"text":"我需要一副舒適的耳罩式耳機，適合看電影用。","label":"[[5, 7, 'ATTRIBUTE'], [8, 13, 'PRODUCT_NAME'], [16, 20, 'PURPOSE']]","Comments":"[]"}
+{"id":85,"text":"找一款耐玩的益智拼圖。","label":"[[6, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":86,"text":"想買一套適合戶外露營的裝備。","label":"[[6, 10, 'PURPOSE'], [11, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":87,"text":"有什麼適合送孩子的桌遊嗎？","label":"[[5, 8, 'PURPOSE'], [9, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":88,"text":"想買一把性價比高的民謠吉他。","label":"[[4, 8, 'PRICE'], [9, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":89,"text":"求推薦一副專業的單筒望遠鏡。","label":"[[5, 7, 'ATTRIBUTE'], [8, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":90,"text":"我需要一個實用的釣魚箱。","label":"[[8, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":91,"text":"找一套可以手工DIY的模型套裝。","label":"[[5, 10, 'PURPOSE'], [11, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":93,"text":"想買一個耐咬的狗玩具。","label":"[[4, 6, 'PURPOSE'], [7, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":94,"text":"有推薦適合貓咪吃的健康零食嗎？","label":"[[5, 8, 'PURPOSE'], [9, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":95,"text":"我需要一個防水的寵物床墊。","label":"[[5, 8, 'ATTRIBUTE'], [8, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":96,"text":"求一款可以定時餵食的智能寵物餵食器。","label":"[[5, 9, 'PURPOSE'], [10, 17, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":97,"text":"想買一個便於攜帶的寵物背包。","label":"[[4, 8, 'PURPOSE'], [9, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":98,"text":"有什麼適合小型犬的衣服推薦？","label":"[[5, 8, 'PURPOSE'], [9, 11, 'CATEGORY']]","Comments":"[]"}
+{"id":99,"text":"找一個實用的自動寵物飲水器。","label":"[[6, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":100,"text":"想買一些天然成分的狗糧。","label":"[[4, 8, 'ATTRIBUTE'], [9, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":101,"text":"求推薦一個可以折疊的貓抓板。","label":"[[7, 9, 'ATTRIBUTE'], [10, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":102,"text":"有推薦的貓咪專用梳毛刷嗎？","label":"[[4, 6, 'PURPOSE'], [8, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":104,"text":"想買一張結實的折疊椅。","label":"[[7, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":105,"text":"我需要一個適合旅行的防盜背包。","label":"[[7, 9, 'PURPOSE'], [10, 14, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":106,"text":"找一個便宜又實用的充電寶。","label":"[[9, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":107,"text":"想買一個多功能工具刀。","label":"[[4, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":108,"text":"求一款適合學生用的文具套裝。","label":"[[5, 8, 'PURPOSE'], [9, 11, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":109,"text":"有推薦的防水運動手套嗎？","label":"[[4, 6, 'ATTRIBUTE'], [6, 10, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":110,"text":"想找一個性價比高的行李箱。","label":"[[4, 8, 'PRICE'], [9, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":111,"text":"我需要一個便攜式USB風扇。","label":"[[5, 7, 'ATTRIBUTE'], [8, 13, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":112,"text":"求一套適合家庭用的急救箱。","label":"[[5, 8, 'PURPOSE'], [9, 12, 'PRODUCT_NAME']]","Comments":"[]"}
+{"id":113,"text":"想買一個輕便的可折疊雨傘。","label":"[[4, 6, 'ATTRIBUTE'], [7, 12, 'PRODUCT_NAME']]","Comments":"[]"}
