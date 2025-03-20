@@ -69,17 +69,17 @@ def save_data(output):
         key = key.strip()
         value = value.strip()
 
-        # 若欄位屬於基本資訊，存入 basic_data
+        # 基本資訊和其他需求存入
         if key in ["品牌", "價格", "顏色", "用途"]:
             data["basic_data"][key] = value
-        else:  # 其他需求存入 extra_data
+        else:  
             data["extra_data"].append(f"{key}：{value}")
 
-    # 儲存為 JSON 檔案
+    # 儲存為JSON檔案
     with open("shopping_data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-    print("需求已儲存至 shopping_data.json")
+    print("需求已儲存")
 
 
 def response(user_input):
@@ -101,13 +101,11 @@ def response(user_input):
 
 
 def main():
-    """主程式執行流程"""
     print("AI : 你好！請描述你的購物需求")
 
     for _ in range(3):
         user_input = input("使用者 : ")
         output = response(user_input)
-
         print(f"AI : {output}")
 
         if "？" not in output:
