@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI SHOP</title>
+  <script src="https://unpkg.com/htmx.org@1.9.5"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-800 text-gray-800">
+
+  <div class="flex h-screen">
+
+    <!-- 左側側邊欄 -->
+    <aside class="w-60 bg-gray-800 text-white flex flex-col p-4">
+      <div class="text-2xl font-bold mb-6">Logo</div>
+      <nav class="flex flex-col gap-4 text-sm">
+        <a href="#" class="hover:text-yellow-300" 
+           hx-get="/set_category?cat=推薦商城" hx-target="#response" hx-swap="beforeend">
+           🏬 推薦商城</a>
+        <a href="#" class="hover:text-yellow-300" 
+           hx-get="/set_category?cat=收藏" hx-target="#response" hx-swap="beforeend">
+           ⭐ 收藏</a>
+        <a href="#" class="flex items-center justify-between hover:text-yellow-300"
+           hx-get="/set_category?cat=AI篩選" hx-target="#response" hx-swap="beforeend">
+          🧠 AI 篩選 <span class="bg-red-500 text-xs px-2 py-0.5 rounded-full">5</span>
+        </a>
+        <a href="#" class="text-yellow-400 font-bold" 
+           hx-get="/set_category?cat=對話列表" hx-target="#response" hx-swap="beforeend">
+           💬 對話列表</a>
+        <a href="#" class="hover:text-yellow-300" 
+           hx-get="/set_category?cat=訂單文件" hx-target="#response" hx-swap="beforeend">
+           📄 訂單文件</a>
+        <a href="#" class="hover:text-yellow-300" 
+           hx-get="/set_category?cat=設定" hx-target="#response" hx-swap="beforeend">
+           ⚙️ 設定</a>
+        <a href="#" class="text-blue-400 mt-auto hover:underline" 
+           hx-get="/set_category?cat=Logout" hx-target="#response" hx-swap="beforeend">
+           Logout</a>
+      </nav>
+    </aside>
+
+    <!-- 中間聊天區塊 -->
+    <main class="flex flex-1">
+
+      <section class="flex-1 flex justify-center items-start bg-gray-900 p-10">
+        <div class="w-full max-w-3xl bg-gray-800 rounded-xl p-6 shadow-lg">
+          <h1 class="text-2xl font-bold mb-4">AI 購物推薦助手</h1>
+
+          <!-- 對話區：AI 回應（商品卡片或系統訊息） -->
+          <div id="response" class="space-y-4 flex flex-col overflow-y-auto max-h-[70vh]">
+            <!-- 這裡會透過 HTMX 插入訊息 -->
+          </div>
+
+          <!-- HTMX 聊天表單 -->
+          <form class="flex gap-2"
+            hx-post="/chat"
+            hx-target="#response"
+            hx-swap="beforeend"
+            hx-on::after-request="this.reset(); this.querySelector('input[name=user_input]').focus();">
+          <input type="text" name="user_input" placeholder="請輸入你的購物需求"
+            class="flex-1 p-2 rounded bg-gray-700 text-white border border-gray-600" />
+          <button type="submit" class="bg-green-500 px-4 py-2 rounded text-white">送出</button>
+          </form>
+        </div>
+      </section>
+
+      <!-- 右側收藏清單 -->
+      <aside class="w-72 bg-gray-100 p-4">
+        <div class="flex justify-between items-center mb-4">
+          <h3 class="text-md font-semibold">篩選商品收藏列表</h3>
+          <a href="#" class="text-xs text-blue-500 hover:underline">See all</a>
+        </div>
+        <!-- 收藏清單區域，動態更新 -->
+        <div id="collection_list">
+          <ul class="space-y-2 text-sm">
+            <!-- 收藏的商品會顯示在這裡 -->
+          </ul>
+        </div>
+      </aside>
+
+    </main>
+
+  </div>
+
+</body>
+</html>
