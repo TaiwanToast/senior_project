@@ -33,12 +33,12 @@ class MyTFIDFModel(Processer):
             fileIndex = {}
         return vectorizer, matrix, fileIndex
 
-    def addPDF(self, filePath: str, tokenizedText: str) -> None:
+    def addPDF(self, filePath: str) -> None:
         if not os.path.exists(filePath):
             raise FileNotFoundError(f"File not found: {filePath}")
         print(f"Processing {filePath}...")
-        # text = super()._extractTextFromPdf(filePath)
-        # tokenizedText = super()._ckip_tokenize(text)
+        text = super().extractTextFromPdf(filePath)
+        tokenizedText = super().ckip_tokenize(text)
         vectorizer, matrix, fileIndex = self.__load_data()
         if filePath in fileIndex:
             print(f"File {filePath} already exists.")

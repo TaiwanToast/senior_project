@@ -40,7 +40,7 @@ class MyChromaAndTFIDF(object):
             )
         return
     
-    def __tfidfStoreData(self, vectorizer, matrix, fileIndex):
+    def __tfidfStoreData(self, vectorizer, matrix, fileIndex) -> None:
         joblib.dump(vectorizer, self.__tfidfVectorizerPath)
         joblib.dump(matrix, self.__tfidfMatrixPath)
         with open(self.__fileIndexPath, 'w') as f:
@@ -77,7 +77,7 @@ class MyChromaAndTFIDF(object):
         short = clean(ws[0], pos[0])
         return short
     
-    def addPDF(self, pdf_path: str):
+    def addPDF(self, pdf_path: str) -> None:
         def extractTextFromPdf(pdf_path: str) -> str:
             text = ""
             with open(pdf_path, 'rb') as file:
@@ -85,7 +85,7 @@ class MyChromaAndTFIDF(object):
                 for page in reader.pages:
                     text += page.extract_text() or ""
             return text
-        def textSpliter(text: str, chunkSize = 250, chunkOverlap = 20) -> list:
+        def textSpliter(text: str, chunkSize: int = 250, chunkOverlap: int = 20) -> list:
             chunks = []
             flag = False
             for i in range(0, len(text), chunkSize):
@@ -139,7 +139,7 @@ class MyChromaAndTFIDF(object):
 
     def search(self, query: str, top_k: int = 10, hybridSearch: bool = False, chroma_weight: float = 0.4, tfidf_weight: float = 0.6):
         tokenizedQuery = self.__ckip_tokenize(query)
-        print('tokenized query: ', tokenizedQuery)
+        # print('tokenized query: ', tokenizedQuery)
         queryVector = self.__sentenceModel.encode(tokenizedQuery)
         vectorizer, matrix, fileIndex = self.__tfidfLoadData()
         tfidfQueryVector = vectorizer.transform([tokenizedQuery])
