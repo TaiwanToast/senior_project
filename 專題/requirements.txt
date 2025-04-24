@@ -1,6 +1,0 @@
-Flask
-Flask-SQLAlchemy
-Werkzeug
-openai
-requests
-beautifulsoup4
