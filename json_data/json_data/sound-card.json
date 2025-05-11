@@ -1,0 +1,1465 @@
+[
+  {
+    "name": "Creative Labs Sound BlasterX AE-5 Plus 32-bit 384 kHz Sound Card",
+    "price": 161.49,
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound BlasterX AE-5 Plus",
+      "Part #": "70SB174000003",
+      "Channels": "5.1",
+      "Digital Audio": "32-bit",
+      "Signal-To-Noise Ratio": "122 dB",
+      "Sample Rate": "384 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(15 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/77VBD3/creative-labs-sound-blasterx-ae-5-plus-32-bit-384-khz-sound-card-70sb174000003",
+    "comments": [
+      "Exceptional sound quality. If you’re using on board sound this is the equivalent of going from on board graphics to a discreet GPU! It’s like hearing properly for the first time.",
+      "I tried going to onboard audio. It lasted a few minutes. I've been using the same Sound Blaster Z for about a decade. I figured I'd switch it for this.\nNaturally the audio on this card is excellent. You have a lot of control, and a decent EQ. I use it for casual gaming. It goes plenty loud too. I did not connect the molex power, as I am not using the included RGB strip. I did choose to turn on the internal card lighting, but only white light.\nI shoved a piece of rubber to clean up the look of the unused RGB header on the side of the card.",
+      "Added this to my build to Overcome Issues with the Line in Levels on the Asus Rog Strix Z690-F Motherboard I have SO far Its been a wonderful soundcard for what I need it for my only complaint is that the RGB on the card has to be run from the Creative app and the RGB header on the card requires Molex power. I left the molex off and opted not to run the ARGB strip included with the card. I wish I could sync the RGB on this to my Motherboard. Also the ARGB on the Back of the card the colours are off as the plastic it is made of filters the light somewhat so the Front side of the card and the Top back of the card don't match.",
+      "Amazing at what it does, it just sometimes disconnects and I have to restart to get it functioning again. That also might be a separate issue involving a different part/software etc.",
+      "Great sound and RGB! I am never satisfied with onboard sound and the new boards still don't compete. Very clean and quality sound that makes games and music come to life!",
+      "Yes, I bought a sound card and yes, I use it. I have two different speaker setups (Kanto YU6 & Logitech Z906) for my battle station and the sound card allows me to add a second optical speaker source. Also, the wired headphones sound quality from the BlasterX AE-5 is so much better than the onboard sound. The desktop app has different presets for different games and they actually sound great. I'd keep it for my wired headphones even if I didn't have multiple speaker devices. It's that good.\nThose Kanto Audio YU6 bookshelf speakers are also powered. Plugging them into the onboard audio inputs causes a whining noise when the GPU is under load. No whining noise from the bookshelf speakers when using the Sound Blaster card.",
+      "Crisp, sharp sounds is all I get from this sound card. I had no idea was I was getting when I bought this card, but it over delivered.",
+      "Perfect sound card, and very gratuitous of Creative Labs to include an RGB controller and 4 LED strips along with the sound card. Looks great, and sounds perfect.",
+      "Had an issue with MB sound @ 5.1 giving random pops, this fixed it. Also has RGB header!",
+      "No matter how good onboard audio has become, it's still light-years away from dedicated sound solutions. Wasn't sure about going with an internal sound card or an external DAC/AMP, but when I saw the AE-5 came with a very cool, matching white/black backplate, went that way. Creative drivers always have their quirks. In this case, you're forced to choose between a more than one-year old driver package (with SoundBlaster Connect) that will allow you to control the card fully, including RGB, or a much more recent, different package (with SoundBlaster Command), which resolves issues, and adds a much better UI, but lacks some controls, like RGB. Stuck with Red LED for the moment. Sound quality is amazing though. Highly recommend."
+    ]
+  },
+  {
+    "name": "Creative Labs ZXR 24-bit 192 kHz Sound Card",
+    "price": 498.0,
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "ZXR",
+      "Part #": "70SB151000000",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "124 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(8 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/BVxfrH/creative-labs-sound-card-70sb151000000",
+    "comments": [
+      "Sounds great, good list of features, but the drivers are the worst I've ever dealt with. Takes 50 tries each time I want to install them after a fresh wipe and re-installation of windows. It barely gets supported by Creative anymore. Gets a 1 star for user-friendliness, 4 stars for everything else.",
+      "I bought this sound card for my old PC that didn't have DTS encoding. This is a great soundcard and I could tell a major difference between this card and the onboard realtek of my old PC. However I probably wouldn't have bought this card since my Asus MB has the Supreme FX build in. The control module is really handy and I appreciate that it has an actual analogue dial. Using Foobar 2000 and WASPI drivers this card was able to compete with my $700 CD player.",
+      "Just a bunch of fancy digital audio hardware, that works well without being tubular"
+    ]
+  },
+  {
+    "name": "Creative Labs Sound Blaster AE-9 32-bit 384 kHz Sound Card",
+    "price": 393.7,
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster AE-9",
+      "Part #": "70SB178000000\nSB1780\nAE-9",
+      "Channels": "7.1",
+      "Digital Audio": "32-bit",
+      "Signal-To-Noise Ratio": "129 dB",
+      "Sample Rate": "384 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1",
+      "Color": "Gray"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/btK2FT/creative-labs-sound-blaster-ae-9-32-bit-384-khz-sound-card-70sb178000000",
+    "comments": [
+      "In terms of quality, this is a top-notch sound card and definitely beyond overkill for what I bought it for. I imagine that this is intended for professional sound design and musicians and the like but what I wanted out of this was amazing surround sound for entertainment and gaming as well as streaming and the like and it is more than capable of delivering in this regard.\nThe biggest issue with this sound card as of now, more than 8 months after purchase, is that the card will completely shut off if my computer enters sleep mode or any situation where my computer is off or hibernating for a short time before re-starting the computer. I don't know if this is an issue with the card itself or if it's an issue with a driver or motherboard or something else. The issue can be resolved if I restart the computer completely (in other words, not a quick restart) but that's not a guaranteed fix. I think some recent driver updates have reduced the frequency of this issue (as in sometimes the card will turn on after waking up from sleep mode) so this isn't something I see as often. This also makes me more strongly suspect that this isn't an issue with the sound card so I'm not going to knock the product rating down for that.\nMy OBS program prevents the computer from entering so that's something I can run to prevent my computer from entering sleep mode. So between the aforementioned driver updates and OBS, it's more of an occasional irritation that will force me to switch my headphones to the MoBo's headphone connectors."
+    ]
+  },
+  {
+    "name": "Asus Xonar SE 24-bit 192 kHz Sound Card",
+    "price": 44.99,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Xonar SE\n90YA00T0-M0UA00",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "120 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(3 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/HDHRsY/asus-xonar-se-24-bit-192-khz-sound-card-xonar-se",
+    "comments": [
+      "A reasonable price, fits small form-factor cases, and it (mostly) works with Linux. Can't say for certainty if it actually has a meaningful difference in audio quality over the built-in chip in a motherboard, but if you can hear the difference or if your board just doesn't have enough audio output jacks or ones of the right type (this has an optical output), then you may want to hook your PC directly to a sound system of some sort if there are no other alternatives (i.e. motherboard audio jacks or HDMI/DP audio).\nUPDATE: The difference in quality is indeed noticeable, especially with a sound system of some kind. Audio is much richer, even with lower-quality files (i.e. MP3). However, the improvement is most significant with the analog 3.5mm ports, not too much with the digital TOSLINK output, but there's a little bit there, although that might just be the placebo effect.\nI will note that I couldn't get the front panel audio header to work on Linux, although that may just be due to incorrect audio settings on my part or the distro I used (LibreELEC for Kodi), so I won't dock any points for that, especially since it doesn't claim Linux support at all.",
+      "Plug and play on Linux and Windows, works as you would expect a sound card to."
+    ]
+  },
+  {
+    "name": "Creative Labs Sound Blaster Audigy Rx 24-bit 192 kHz Sound Card",
+    "price": 58.0,
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Audigy Rx",
+      "Part #": "70SB155000001",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "106 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "Creative E-MU",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(14 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/LXxfrH/creative-labs-sound-blaster-audigy-rx-24-bit-192-khz-sound-card-70sb155000001",
+    "comments": [
+      "Not the best sound card out there, but has fixed the occasional cracking and dropping I had with on board audio.",
+      "Don't sleep on your audio card. This one has a ton of ports, including toslink optical, two mic inputs, front audio out, and more.",
+      "Drivers are hard to install, but it works pretty well. There's definitely a noticeable difference from a mobo's onboard audio.",
+      "An incredible sound card. Honestly one of the best cheap upgrades you can do to a pc if you are a big sound person. You're not going to notice the difference if you don't also have quality speakers or headphones, but if you do, you should for sure get a sound card like this. I am very very happy with the quality that I get out of this! For sure recommend!",
+      "Recycled from previous build (Sans). Obviously, it beats every integrated sound card.",
+      "Very nice sound card that really helped open up my Razer Kraken Pro V2 gaming headset. The sounds are crisp and clear, and I can hear little nuances in games and music that I didn't notice before. Creative ALchemy and EAX are the cherries on top. I gave it 4 stars however, because of the lack of driver updates.",
+      "Good sound quality and supports my surround speakers which is always nice",
+      "This is an absolutely brilliant sound card. I downloaded the most recent stable drivers from Daniel_K's blogspot and performed a full installation. My speakers were up and running in no time and I was shown a full range of programs, including a coherent sound equalizer, speaker setup, MIDI sound-font program, and a program that handles EAX. The user interface is very friendly and allowed me to tune the sound precisely to my liking.\nNow, I cannot praise this card enough for its sound. I thought the onboard audio was great with the Asus Maximus VII Hero, but it does not even compare to this sound card. It added much needed depth and clarity to my 5.1 speaker setup, while also balancing the lows, mids, and highs, even at extreme levels of volume. My rear two speakers sounded extremely muddy and had degraded sound quality with my previous onboard audio setup, but now the Audigy Rx makes them shine. You can hear the smallest details of intricate instruments in them now. I can also say that the subwoofer packs a much heavier punch as well.\nThis card also drives my Sennheiser headphones with ease and really brings them to life. Overall, I am very satisfied with this purchase and would definitely recommend it to anyone trying to get more out of their speaker/headphone setup.",
+      "Sounds great!",
+      "Simply put, after the X-Fi, this series of card is pretty much necessary for complete, and full hardware audio acceleration for both modern (OpenAL) and legacy (Directsound / Creative EAX ) games.\nSince the Core3D based sound cards all have to do EAX in software, and are a net downgrade, this is pretty much the latest card that can do it in full hardware. And it's much cheaper. Still don't know how this model can do 7.1 audio output, though. Apparently it has something to do with Creative specific adapter cables."
+    ]
+  },
+  {
+    "name": "Asus STRIX RAID PRO 24-bit 192 kHz Sound Card",
+    "price": 129.99,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "STRIX RAID PRO\n90YB00I0-M1UA00\n90YB00I0-M0UA00",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "116 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/92mxFT/asus-strix-raid-pro-24-bit-192-khz-sound-card-strix-raid-pro",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Sound Blaster AE-7 32-bit 384 kHz Sound Card",
+    "price": 198.99,
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster AE-7",
+      "Part #": "SB1800\nAE-7",
+      "Channels": "5.1",
+      "Digital Audio": "32-bit",
+      "Signal-To-Noise Ratio": "127 dB",
+      "Sample Rate": "384 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1",
+      "Color": "Gray"
+    },
+    "rating": "(4 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/nNNgXL/creative-labs-sound-blaster-ae-7-32-bit-384-khz-sound-card-sb1800",
+    "comments": [
+      "Produces excellent sound quality. I know most motherboards have great on-board sound but this is definitely a step up.",
+      "Amazing! Totally buying for every PC!",
+      "A significant upgrade over motherboard sound, but go for the AE-5 if your purposes don't include something audio-related.",
+      "amazing sound compare to my old SoundBlaster z the Audio Control Module is only for headphone and mics, not for master volume control :("
+    ]
+  },
+  {
+    "name": "Creative Labs Sound Blaster Z SE 24-bit 192 kHz Sound Card",
+    "price": 101.46,
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Z SE",
+      "Part #": "70SB150000004",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "116 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1",
+      "Color": "Red / Black"
+    },
+    "rating": "(5 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/H97G3C/creative-labs-sound-blaster-z-se-24-bit-192-khz-sound-card-70sb150000004",
+    "comments": [
+      "Excellent sound card for the price and performs as good as the more expensive cards out there. The sound quality when I use musical production programs, paired with the Creative T100 speakers, is very good and clear at most ranges. The software is also easy to use and has some handy pre set gaming profiles such as RDR2, COD, Fortnite, Cyberpunk, etc.",
+      "good but, Software and drivers is always a creative thing",
+      "I tested the original sound form motherboard. While it sounded fine, it simply does not compare to this soundcard. I carried this over from a previous build. I hate the red lights that come with it, so used black fingernail polish to turn those off.",
+      "Really good sound card, works fine on windows 11.",
+      "The sound quality blows away my mobo's onboard Realtek junk. Paired with Razer headphones, it sounds great!"
+    ]
+  },
+  {
+    "name": "Creative Labs Sound Blaster Audigy Fx V2 24-bit 192 kHz Sound Card",
+    "price": 56.99,
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Audigy Fx V2",
+      "Part #": "70SB187000000\nSB1870",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "120 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/wVM48d/creative-labs-sound-blaster-audigy-fx-v2-24-bit-192-khz-sound-card-70sb187000000",
+    "comments": [
+      "Wow what an improvement over the built in sound card!! These built in sound cards are poor quality. I could immediately tell the sound difference in games and music, coming from a Alienware R12 (and I am not a audiophile). In addition in Windows Sound Settings, 5.1 surround is not available. I read it is something to do with the built ins don't have a Dolby Digital THX license. I ended up purchasing a sound blaster for $50 and 5.1 is now available and the sound is MUCH better…especially in games. Great $50 investment for your rig"
+    ]
+  },
+  {
+    "name": "Asus Xonar Essence STX 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Xonar Essence STX\n90-YAA0C0-0UAN00Z\n90-YAA0C0-0AAN0BZ",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "124 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "ASUS AV100",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(18 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/WCTmP6/asus-sound-card-xonaressencestx",
+    "comments": [
+      "So old that Libertarians are starting to lose interest in it. Still rocks out hard.",
+      "Still going strong after a decade.",
+      "A pricey impulse purchase. Definitely better than onboard audio and can drive higher impedance headphones. I'd recommend an external DAC for anyone looking to get serious with audio quality though.",
+      "Was a brilliant sound card when it released and is still amazing today.",
+      "This is the only component that has transferred from my old build, aside from my SSD and PSU, both of which will be removed when I get the M.2 drive and new PSU. I like the way this soundcard performs. It pairs very well with my Sennheisers, and I've played around with the opamps to tailor the sound more to my liking. The backplate is purely cosmetic, but it cleans up the appearance.",
+      "Makes sounds",
+      "I actually bought this card back in 2010 as I used a pair of sennheiser hd600s on my PC at the time and I wanted a card to properly drive them. Years later, it still works and still sounds way way better than any onboard sound. Best 200 euros (or so) I've spent.",
+      "The software that comes with this is fairly ugly but it all preforms great. I'd suggest prioritizing all other parts of your build before spending much on sound. It's very subjective how good something sounds.",
+      "This is the best headphone driving sound card around."
+    ]
+  },
+  {
+    "name": "Asus Xonar AE 24-bit 192 kHz Sound Card",
+    "price": 79.98,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Model": "Xonar AE",
+      "Part #": "90YA00P0-M0UA00\nXonar AE",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "110 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1",
+      "Color": "Black / White"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/pngzK8/asus-xonar-ae-24-bit-192-khz-sound-card-90ya00p0-m0ua00",
+    "comments": []
+  },
+  {
+    "name": "Asus STRIX SOAR 24-bit 192 kHz Sound Card",
+    "price": 135.16,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "STRIX SOAR\n90YB00J0-M1UA00",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "116 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(3 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/LmkwrH/asus-sound-card-strixsoar",
+    "comments": [
+      "Seemed to work well but could not get the drivers to install so was very glitchy. Ended up replacing with different one.",
+      "I don't remember why I bought this 2 years ago. It definitely improved the audio quality of my headphones (598SE) but I'm not really sure if it was worth the $100.",
+      "Makes a loud click whenever you switch outputs, but is otherwise a very nice card. ASIO 2.0 support, 7.1 speaker support, 116dB SNR, a strong headphone amplifier, and has good Windows 10 support. You'll need an extra 6-pin PCIe connector to power it."
+    ]
+  },
+  {
+    "name": "Creative Labs Sound BlasterX AE-5 Plus Pure 32-bit 384 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound BlasterX AE-5 Plus Pure",
+      "Part #": "70SB174000004",
+      "Channels": "5.1",
+      "Digital Audio": "32-bit",
+      "Signal-To-Noise Ratio": "122 dB",
+      "Sample Rate": "384 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1",
+      "Color": "White / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/sJ6p99/creative-labs-sound-blasterx-ae-5-plus-pure-32-bit-384-khz-sound-card-70sb174000004",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs 70SB157000000 Sound Card",
+    "price": 78.2,
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Part #": "70SB157000000",
+      "Channels": "5.1",
+      "Signal-To-Noise Ratio": "106 dB",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(3 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/Tz2kcf/creative-labs-sound-card-70sb157000000",
+    "comments": [
+      "Not needed but nice sound quality"
+    ]
+  },
+  {
+    "name": "Asus STRIX RAID DLX 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "STRIX RAID DLX\n90YB00H0-M0UA00\n90YB00H0-M1UA00",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "124 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/4sL7YJ/asus-sound-card-strixraiddlx",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Sound Blaster Zx 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Zx",
+      "Part #": "70SB150600000",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "116 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(24 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/3nxfrH/creative-labs-sound-blaster-zx-24-bit-192-khz-sound-card-70sb150600000",
+    "comments": [
+      "A noticeable difference compared to my onboard audio and does a fantastic job of eliminating electronic noise that can seep into the output. I compose orchestral music and this really seems to bring out the low frequencies that I really love to hear. It was a much better deal back when I bought it in 2019 for sure. I'm not sure what has affected the price so much, but I'm sure I wouldn't buy it at it's current price for what you get out of it.",
+      "If you can pick one up for a song and hate your onboard DAC I haven't gotten any whine or noise coming through this at any point. Don't know how much longer driver support will last, and the mic built into the volume dial has to be VERY close, picking up mechanical keyboard sounds as a result. In 2021 you should be looking at a fast USB DAC but this is an alternative if you can catch one on clearance.",
+      "Pretty decent DAC amp for the computer. Pairs well with my studio speakers. I disabled all audio enhancements for true sound. The best feature is a toggle between my studio speakers and headphones with a hotkey.",
+      "good for most ... garbage if you care about what you listen too.. only 2 stars because it's better than on board audio",
+      "Wonderful sound even from modest speakers.",
+      "Tricky to install, sound quality is gorgeous.",
+      "Amazing sound card! Adds a whole new depth to the audio for the audiophile. The ACM is incredibly smooth and precise, and the equalizer program works wonderfully.",
+      "Awesome sound card, especially paired with Logitech 5500",
+      "This thing is awesome, it's hard for me to try games without this, just because it sounds so good compared to the on board sound my MOBA has. Especially when paired with my Hyper X Cloud 2, it makes Battlefield 1 sound amazing.",
+      "Was not able to use on my recent build due to MB audio conflicts but it did work and work very well. Saving for another build."
+    ]
+  },
+  {
+    "name": "Creative Labs Sound Blaster X-Fi Titanium HD 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster X-Fi Titanium HD",
+      "Part #": "70SB127000002\nSBXFI-TITAN-HD",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "122 dB",
+      "Sample Rate": "96 kHz",
+      "Chipset": "X-Fi",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(10 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/2nzv6h/creative-labs-sound-card-70sb127000002",
+    "comments": [
+      "Moved over from my old build. The X-Fi Titanium works great with my Sennheiser set."
+    ]
+  },
+  {
+    "name": "Asus Essence STX II 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Essence STX II\nXonar Essence STX II",
+      "Channels": "2.0",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "124 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "ASUS AV100",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(7 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/2rH48d/asus-essence-stx-ii-24-bit-192-khz-sound-card-essencestxii",
+    "comments": [
+      "Salvaged from old computer. Was gonna get a RME but I ain't got that kind of money right now. This card is timeless and works fine (especially with Burson mods) so I decided not to sell it.",
+      "I love my soundcard, very subjective of course. Adjustable gain, channels and sample rate. Switch between headphones and speakers without going to the wires. With that said i keep the equalizer neutral and don't use any of the gimmicks@ dolby etc. The sound is great, could it be cheaper, could the inbuilt chip compete, perhaps, i don't know, this is my card and it will go to every machine i ever build.",
+      "Awesome sound, must have. It lasts for a long time too.",
+      "Makes my vizio surround system actually sound good, has 5.1 surround sound and a bunch of other sound goodies"
+    ]
+  },
+  {
+    "name": "Creative Labs Sound Blaster Audigy Fx 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Audigy Fx",
+      "Part #": "30SB157000001",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "106 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(5 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/yTvRsY/creative-labs-sound-blaster-audigy-fx-24-bit-192-khz-sound-card-30sb157000001",
+    "comments": [
+      "No issues with this soundcard! Does its job perfectly and its cheap.",
+      "I've been using this since 2017 paired w/ Sennheiser's HD 598 CS and it sounds great!",
+      "Nice sound card, works well, provides a good enough output to sound good through an old stereo system on reasonable PC volume. Would recommend if your motherboard doesn't have good audio or if you need an extra sound interface for some reason.",
+      "This is a great sound card it delivers on the sound and bass through my headphones and my on desk speakers. Definitely a good purchase if you want even better sound whilst playing games. Also it has helped my Mic to record my voice perfectly.",
+      "I broke the jack on my motherboard and this soundcard was a lot cheaper than a new motherboard, i know it's useless."
+    ]
+  },
+  {
+    "name": "Creative Labs Sound Blaster Z w/Shield 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Z w/Shield",
+      "Part #": "70SB150000000",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "116 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1",
+      "Color": "Red / Black"
+    },
+    "rating": "(35 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/HnxfrH/creative-labs-sound-blaster-z-wshield-24-bit-192-khz-sound-card-70sb150000000",
+    "comments": [
+      "It sounds good. Much better than onboard. Like a lot. The two annoying red LED's are bright. I cut one of them off.",
+      "Been using this card for so many years, through different PC builds. Great sound and beats on board every time.",
+      "I've had this card over several PC platform changes. It still beats onboard sound. The two BRIGHT red led's are a bit dated and unsightly, but I may cut one or both out one day.",
+      "awesome movie quality sound...",
+      "I snipped out the annoying red LEDs and painted the case black. Much better.",
+      "I thought sound difference between mobo and this sound card wouldn't be noticeable, but I was wrong. Sound is really crisp, deep bass, higher volume. And it looks gorgeous. At this price, I couldn't let this offer pass through.",
+      "This unit takes the sound in my PC to a whole new level. Blows the max volume out of the water, and maintains beautiful audio clarity when paired with a suitable driver/speaker. The customization options are pretty robust. My only complaints with using this unit stem from figuring out what everything does. The included software has a ton of optional features, but it doesn't suitably explain what some of these proprietary features can do. I strongly urge any user to familiarize yourself with setting default audio and recording devices in the volume mixer, as well as using stereo mix. These were all things that I did not know about and really caused a collection of headaches when trying to get the most out of this sound card. With all of that behind me, I can strongly recommend this card to anyone looking to enhance their audio experience on PC.",
+      "This unit takes the sound in my PC to a whole new level. Blows the max volume out of the water, and maintains beautiful audio clarity when paired with a suitable driver/speaker. The customization options are pretty robust. My only complaints with using this unit stem from figuring out what everything does. The included software has a ton of optional features, but it doesn't suitably explain what some of these proprietary features can do. I strongly urge any user to familiarize yourself with setting default audio and recording devices in the volume mixer, as well as using stereo mix. These were all things that I did not know about and really caused a collection of headaches when trying to get the most out of this sound card. With all of that behind me, I can strongly recommend this card to anyone looking to enhance their audio experience on PC.",
+      "If sound and Voice recording is important for it just go for it. It will make the difference.",
+      "I like this sound card as an affordable solution to quality hi fi sound from a computer."
+    ]
+  },
+  {
+    "name": "Creative Labs Sound BlasterX AE-5 32-bit 384 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound BlasterX AE-5",
+      "Part #": "70SB174000000",
+      "Channels": "5.1",
+      "Digital Audio": "32-bit",
+      "Signal-To-Noise Ratio": "122 dB",
+      "Sample Rate": "384 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/CyjBD3/creative-labs-sound-blasterx-ae-5-32-bit-384-khz-sound-card-70sb174000000",
+    "comments": []
+  },
+  {
+    "name": "Asus Xonar DGX 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Xonar DGX\n90-YAA0Q0-0UAN0BZ\n90-YAA0Q1-0UAN0BZ",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "105 dB",
+      "Sample Rate": "96 kHz",
+      "Chipset": "C-Media CMI8786",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(24 Ratings, 4.3 Average)",
+    "link": "https://pcpartpicker.com/product/zRckcf/asus-sound-card-xonardgx",
+    "comments": [
+      "Good for its price, although it can suffer from some noise when being used with 3.5mm connection. Works perfectly on optical though. Allows for signal to be mixed down 7.1 to 2 channels with Dolby Headphone via optical, which is not a matter of course. Can't live without that for games so I just use it for that as a DSP.\nInstalling the UNI Xonar audio driver is recommended since that provides some more options. Beware though, there are some buggy versions out. Make sure to read up on its website.",
+      "Great soundcar. Weird driver problems (****** asus drivers, so im using alternative drivers) This card was also used in my 2 older builds.",
+      "I'm so incredibly happy with this card. Its affordable and is a great introduction to working with audio. Its a huge improvement over the on-board sound and I feel like this card should be in every PC. Great for the money. I still would've been happy if I paid double. Improves sound 10 fold. Lets you enable surround and supports 5.1 and 7.1 audio.",
+      "I wasn't sure I really needed a sound card, but having finished the build, man am I glad I picked this up! The difference in audio output is laughable. Not that the motherboard's built-in audio is anything to sneeze at, but this card just cranks everything up to 11. Awesome buy for the price, and honestly it would probably still have been worth it at double the cost I got it for.",
+      "Would give 5 if the driver wasn't such a pain to find and install. I spent nearly 3 days working on it to get audio working for any length of time. After I got that sorted out everything works great and my audio throughput is super clear.",
+      "Sound quality was great",
+      "It's a great little sound card. Gives 5.1 audio, plus controls for multichannel audio. Helpful if you want surround sound, or true 5.1 audio for games/movies.",
+      "Paired with the Logitech z506, my whole room shakes when I play games.",
+      "Software takes a bit of getting used to but easy install and great sound quality.",
+      "I really don't need one of these, but I will say that it makes my ATH-M40X's sound a bit better and add more bass to them."
+    ]
+  },
+  {
+    "name": "Asus Essence STX II 7.1 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Essence STX II 7.1\nXONAR ESSENCE STX II 7.1\n90YA00MN-M0UA00\n90YA00NN-M0UA00",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "124 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "ASUS AV100",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/8Pbp99/asus-sound-card-essencestxii71",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Sound BlasterX AE-5 Pure 32-bit 384 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound BlasterX AE-5 Pure",
+      "Part #": "70SB174000001",
+      "Channels": "5.1",
+      "Digital Audio": "32-bit",
+      "Signal-To-Noise Ratio": "122 dB",
+      "Sample Rate": "384 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1",
+      "Color": "White / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/ccJgXL/creative-labs-sound-blasterx-ae-5-pure-32-bit-384-khz-sound-card-70sb174000001",
+    "comments": []
+  },
+  {
+    "name": "EVGA NU AUDIO PRO 32-bit 384 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "EVGA",
+      "Model": "NU AUDIO PRO",
+      "Part #": "712-P1-AN11-KR",
+      "Channels": "2.0",
+      "Digital Audio": "32-bit",
+      "Signal-To-Noise Ratio": "123 dB",
+      "Sample Rate": "384 kHz",
+      "Interface": "PCIe x1",
+      "Color": "Orange / Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Hy9tt6/evga-nu-audio-pro-32-bit-384-khz-sound-card-712-p1-an11-kr",
+    "comments": [
+      "Gargantuanly superior to on-board sound, including ALC-1220.\nMakes enemies easy to place in the game world, in a genre like first person shooters, just by the sound they make. It's like an echo location advantage.\nThis thing gets out of the way of the sound, allowing sound to be heard much like the way it should.\nMakes music, TV shows, and movies have a massive sound stage. Many many more details can be heard in any audio source, especially if that source is high resolution. More clarity, more bass, more euphoric and satisfying overall. Make sure you buy quality speakers however... Probably $200 usd and up. I've tried this with several speakers sets.\nVery good with Edifier R1850DB. Spectacular with Edifier S2000MKIII."
+    ]
+  },
+  {
+    "name": "SIIG DP SoundWave Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "SIIG",
+      "Model": "DP SoundWave",
+      "Part #": "IC-510211-S1",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/vfH48d/siig-dp-soundwave-sound-card-ic-510211-s1",
+    "comments": []
+  },
+  {
+    "name": "Asus Xonar DX 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Xonar DX\n90-YAA060-1UAN00Z",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "116 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "ASUS AV100",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(20 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/9p6BD3/asus-sound-card-xonardx",
+    "comments": [
+      "Very good Linux support.",
+      "The sound is great, nowadays motherboards have better onboard audio but this one still rocks.",
+      "The sound of this card is PHENOMENAL. My only gripe is the pesky floppy power connector. When I switched to the Sennheiser HD598s, the sound quality improved even further. I absolutely can't go back to \"normal\" on-board audio. It can't be used to power high impedance headphones like the Sennheiser HD 6XX without investing in a dedicated amplifier. I took a star off because of the TERRIBLE floppy power connector. I would even prefer molex power to this thing",
+      "It has 7.1 speaker support, 116dB SNR, ASIO 2.0 support, and an optional low-profile bracket. The only real detractions are that it doesn't have a headphone amp and requires an outdated floppy power connector.\nDrivers and software work fine in Windows 10.",
+      "The sound of this card is PHENOMENAL. My only gripe is the pesky floppy power connector. When I switched to the Sennheiser HD598s, the sound quality improved even further. I absolutely can't go back to \"normal\" on-board audio.",
+      "The sound of this card is PHENOMENAL. My only gripe is the pesky floppy power connector. When I switched to the Sennheiser HD598s, the sound quality improved even further. I absolutely can't go back to \"normal\" on-board audio."
+    ]
+  },
+  {
+    "name": "EVGA NU 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "EVGA",
+      "Model": "NU",
+      "Part #": "712-P1-AN01-KR",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "123 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1",
+      "Color": "Silver / Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/6fQG3C/evga-nu-24-bit-192-khz-sound-card-712-p1-an01-kr",
+    "comments": [
+      "Ill give it a five but I am new to sound cards. It was a noticeable upgrade from my onboard mobo sound card so that is a plus. I have not tried to drive any high ohm headphones with it yet. RGB is pretty cool. has some neat preloaded features."
+    ]
+  },
+  {
+    "name": "Asus Xonar Phoebus 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Xonar Phoebus",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "118 dB",
+      "Sample Rate": "96 kHz",
+      "Chipset": "C-Media CMI8888DHT",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(5 Ratings, 3.2 Average)",
+    "link": "https://pcpartpicker.com/product/QNtCmG/asus-sound-card-xonarphoebus",
+    "comments": [
+      "Got this second hand for £50. Has stopped a nasty interference issue I was having before."
+    ]
+  },
+  {
+    "name": "Creative Labs Sound Blaster Z 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Z",
+      "Part #": "70SB150200000",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "116 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1",
+      "Color": "Black / Red"
+    },
+    "rating": "(8 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/Dmbp99/creative-labs-sound-blaster-z-24-bit-192-khz-sound-card-70sb150200000",
+    "comments": [
+      "Sound quality is great. Not as great as my AudioQuest Dragonfly though. So I rarely use this card. Still 5/5.",
+      "Absolutely outstanding. Every single thing sounds so much better compared to on board audio. Never going back to onboard audio. The mic that comes with this is a dud though"
+    ]
+  },
+  {
+    "name": "Diamond XtremeSound XS51 16-bit 48 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Diamond",
+      "Model": "XtremeSound XS51",
+      "Part #": "XS51",
+      "Channels": "5.1",
+      "Digital Audio": "16-bit",
+      "Sample Rate": "48 kHz",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Y7V48d/diamond-sound-card-xs51",
+    "comments": []
+  },
+  {
+    "name": "Asus Xonar DG 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Model": "Xonar DG",
+      "Part #": "XONAR_DG\n90-YAA0K0-0UAN0BZ",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "105 dB",
+      "Sample Rate": "96 kHz",
+      "Chipset": "C-Media CMI8786",
+      "Interface": "PCI"
+    },
+    "rating": "(32 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/HLGkcf/asus-sound-card-xonardg",
+    "comments": [
+      "Good external sound card for old PCI slot",
+      "Nice sound card for gaming !",
+      "Bought this because for $25 I figured why not. Wanted to drive the 558s a little better and I think this did a solid job. I actually like the software so I can adjust the EQ. I do believe an AMP/DAC would be better however.",
+      "Great sound card for 30 bucks and it sounds even better.",
+      "It was a great sound card until windows 10 came out and I upgraded it to that then it stopped working for around 3~ months time until I was able to get a third party work around going and it finally started up again.",
+      "Great sound card for those needing basic needs. It has a built in audio amp but Ive never used it so i cant attest to how good it is. The drivers are somewhat unstable though.",
+      "Nice soundcard and is very cheap.",
+      "sound quality is great , nothing bad here",
+      "Asus Xonar DG: Bought this because I was hearing noise from my motherboard when using the onboard sound. Sounds great and no complaints about it.",
+      "Originally I wasn't even going to bother with one of these but then I did some research on my headset and found out that it was unlikely my mobo had enough juice to power it properly. So I grabbed this since it was inexpensive and had good reviews. So far, it's been great and everything sounds amazing through it."
+    ]
+  },
+  {
+    "name": "Asus Xonar DSX 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Xonar DSX",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "107 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "ASUS AV66",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(13 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/NjTmP6/asus-sound-card-xonardsx",
+    "comments": [
+      "Nice sound card.",
+      "Nice sound."
+    ]
+  },
+  {
+    "name": "Creative Labs Sound Blaster Audigy2 ZS 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Audigy2 ZS",
+      "Part #": "SB0350",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "192 kHz",
+      "Chipset": "Audigy2",
+      "Interface": "PCI",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/sbsmP6/creative-labs-sound-blaster-audigy2-zs-24-bit-192-khz-sound-card-sb0350",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Recon3D Fatal1ty Professional 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Recon3D Fatal1ty Professional",
+      "Part #": "70SB135600000\nSB-RECON3D-FPRO",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "102 dB",
+      "Sample Rate": "96 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(4 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/R69KHx/creative-labs-sound-card-70sb135600000",
+    "comments": [
+      "This was a gift. It sounds absolutely incredible. I'm very happy to have it.\nIf I had to buy it, I probably would not have. It's a definite improvement over the integrated audio output of my motherboard, but my money would be better spent on other things.",
+      "If can get it cheap, it's well worth it. Otherwise, don't bother.",
+      "Badass soundcard!"
+    ]
+  },
+  {
+    "name": "Creative Labs Sound Blaster X-Fi Xtreme Audio 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster X-Fi Xtreme Audio",
+      "Part #": "SB1042VP",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "100 dB",
+      "Sample Rate": "96 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(2 Ratings, 2.5 Average)",
+    "link": "https://pcpartpicker.com/product/fjTmP6/creative-labs-sound-card-sb1042vp",
+    "comments": []
+  },
+  {
+    "name": "Asus Xonar Essence ST 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Xonar Essence ST",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "124 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "ASUS AV100",
+      "Interface": "PCI"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/hxw323/asus-sound-card-xonaressencest",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Sound Blaster Z OEM 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Z OEM",
+      "Part #": "30SB150200000",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "116 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1",
+      "Color": "Black / Red"
+    },
+    "rating": "(4 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/8PR48d/creative-labs-sound-blaster-z-oem-24-bit-192-khz-sound-card-30sb150200000",
+    "comments": [
+      "Great soundcard! I even use it for working on my sounds/video. Not for recording of course, therefore i use an usb interface. If you change from onboard sound to this card, you will feel the music!",
+      "I had this on my previous build and it never let me down so didn't feel the need to replace at all. Use regularly with my Beyerdynamic DT 770's and the sound is the best I've heard. Software is simple, easy to use and functions without any fuss. Highly recommend."
+    ]
+  },
+  {
+    "name": "Creative Labs 70SB135A00002 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Part #": "70SB135A00002",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "102 dB",
+      "Sample Rate": "96 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(1 Rating, 1.0 Average)",
+    "link": "https://pcpartpicker.com/product/hZ6BD3/creative-labs-sound-card-70sb135a00002",
+    "comments": [
+      "Sigh sound crackles a bunch in Windows 7 64bit when you use voicechat programs like Mumble or Teamspeak with games (World of Tanks, Battlefield 3, etc)... turns out the Windows 10 64bit drivers suffer the same issue... that combined with Creative Labs failing to provide proper drivers for Linux? 1/5. AVOID! Just get a USB DAC if anything or just enjoy onboard sound which is more reliable. Never again will I buy anything Creative Labs... tbh I'm back on my onboard Realtek HD Audio with Windows 10 64bit and no crackling sound issues at all."
+    ]
+  },
+  {
+    "name": "Creative Labs SB X-Fi Xtreme Audio 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "SB X-Fi Xtreme Audio",
+      "Part #": "70SB104000000",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "100 dB",
+      "Sample Rate": "96 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(2 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/Kb3RsY/creative-labs-sound-card-70sb104000000",
+    "comments": []
+  },
+  {
+    "name": "Syba SD-PEX63034 24-bit 48 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SD-PEX63034",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "48 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/qX8Zxr/syba-sound-card-sdpex63034",
+    "comments": []
+  },
+  {
+    "name": "HT Omega eClaro 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "HT Omega",
+      "Part #": "eClaro",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "192 kHz",
+      "Chipset": "C-Media CMI8788",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/7Hckcf/ht-omega-sound-card-eclaro",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Sound Blaster Audigy Rx OEM 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Audigy Rx OEM",
+      "Part #": "30SB155000001",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "106 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "Creative E-MU",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/bYH48d/creative-labs-sound-blaster-audigy-rx-oem-24-bit-192-khz-sound-card-30sb155000001",
+    "comments": []
+  },
+  {
+    "name": "HT Omega Claro Halo XT 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "HT Omega",
+      "Part #": "Claro Halo XT",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "192 kHz",
+      "Chipset": "C-Media CMI8788",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/gNtCmG/ht-omega-sound-card-clarohaloxt",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Recon3D PCIe 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Recon3D PCIe",
+      "Part #": "70SB135000000\nSB-RECON3D-PCIE",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "102 dB",
+      "Sample Rate": "96 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(4 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/mvrG3C/creative-labs-sound-card-70sb135000000",
+    "comments": [
+      "Okay, before I get blasted by the pcpartpicker community on this one. . . I did not have any intentions of using a sound card. I actually had trouble with the front panel audio, using the onboard sound. The back panel worked perfectly, but I could never get the front panel to work with my speaker, or headset! (I spent a few hours researching Google/Youtube with no avail)! So I took this out of my first build, installed it, and BAM, all working perfectly now! (and truth be told, it does provide some nice sound for my needs). But since there are more modern, better sound card choices these days, this will probably become my first \"upgrade\" item. . . when my wallet allows me to do so :)",
+      "top notch sound quality"
+    ]
+  },
+  {
+    "name": "SIIG IC-510111-S2 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "SIIG",
+      "Part #": "IC-510111-S2",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "90 dB",
+      "Sample Rate": "96 kHz",
+      "Chipset": "VIA VT1723",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/ZDYXsY/siig-sound-card-ic510111s2",
+    "comments": []
+  },
+  {
+    "name": "PowerColor DEVIL HDX 7.1 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "PowerColor",
+      "Model": "DEVIL HDX 7.1",
+      "Part #": "SCM888-DHDX",
+      "Channels": "7.1",
+      "Signal-To-Noise Ratio": "124 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/jP38TW/powercolor-devil-hdx-71-192-khz-sound-card-scm888-dhdx",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Sound Blaster X-Fi 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster X-Fi",
+      "Part #": "SB0670",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "109 dB",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCI",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Dnyqqs/creative-labs-sound-blaster-x-fi-24-bit-192-khz-sound-card-sb0670",
+    "comments": []
+  },
+  {
+    "name": "Asus Xonar Essence 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Model": "Xonar Essence",
+      "Part #": "90-YAA0E0-0UAN00Z",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "124 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "ASUS AV100",
+      "Interface": "PCI"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/y7V48d/asus-sound-card-90yaa0e00uan00z",
+    "comments": []
+  },
+  {
+    "name": "HT Omega Claro Halo 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "HT Omega",
+      "Part #": "Claro Halo",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "192 kHz",
+      "Chipset": "C-Media CMI8788",
+      "Interface": "PCI"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/nrK7YJ/ht-omega-sound-card-clarohalo",
+    "comments": []
+  },
+  {
+    "name": "StarTech PCISOUND4LP 16-bit 48 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "PCISOUND4LP",
+      "Channels": "4.0",
+      "Digital Audio": "16-bit",
+      "Sample Rate": "48 kHz",
+      "Chipset": "C-Media CMI8738",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/rX8Zxr/startech-sound-card-pcisound4lp",
+    "comments": []
+  },
+  {
+    "name": "M-Audio US41500C 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "M-Audio",
+      "Model": "US41500C",
+      "Part #": "AUDIOPHILE2496",
+      "Channels": "2.0",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "104 dB",
+      "Sample Rate": "96 kHz",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/j6Gkcf/m-audio-sound-card-audiophile2496",
+    "comments": []
+  },
+  {
+    "name": "HT Omega FENIX 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "HT Omega",
+      "Part #": "FENIX",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/crx9TW/ht-omega-sound-card-fenix",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Sound Blaster X-Fi Xtreme Audio 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster X-Fi Xtreme Audio",
+      "Part #": "30SB079200000",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "108 dB",
+      "Sample Rate": "96 kHz",
+      "Interface": "PCI"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/sBCwrH/creative-labs-sound-card-30sb079200000",
+    "comments": []
+  },
+  {
+    "name": "HT Omega CLARO II 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "HT Omega",
+      "Part #": "CLARO II",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "120 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "C-Media CMI8788",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/J2PfrH/ht-omega-sound-card-claroii",
+    "comments": []
+  },
+  {
+    "name": "StarTech PCISOUND4CH 16-bit 48 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "PCISOUND4CH",
+      "Channels": "4.0",
+      "Digital Audio": "16-bit",
+      "Sample Rate": "48 kHz",
+      "Chipset": "C-Media CMI8738",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/JZphP6/startech-sound-card-pcisound4ch",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Recon3D Fatal1ty Champion 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Recon3D Fatal1ty Champion",
+      "Part #": "70SB135400000\nSB-RECON3D-FAC",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "102 dB",
+      "Sample Rate": "96 kHz",
+      "Chipset": "Sound Core3D",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/bDYXsY/creative-labs-sound-card-70sb135400000",
+    "comments": []
+  },
+  {
+    "name": "Asus Xonar DS 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Xonar DS",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "107 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "ASUS AV200",
+      "Interface": "PCI"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Xp6BD3/asus-sound-card-xonards",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Sound Blaster Audigy SE OEM 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Audigy SE OEM",
+      "Part #": "30SB057000000",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "100 dB",
+      "Sample Rate": "96 kHz",
+      "Interface": "PCI",
+      "Color": "Black"
+    },
+    "rating": "(5 Ratings, 3.4 Average)",
+    "link": "https://pcpartpicker.com/product/f4zv6h/creative-labs-sound-blaster-audigy-se-oem-24-bit-96-khz-sound-card-30sb057000000",
+    "comments": []
+  },
+  {
+    "name": "SIIG LP-000022-S2 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "SIIG",
+      "Part #": "LP-000022-S2",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "90 dB",
+      "Sample Rate": "96 kHz",
+      "Chipset": "VIA VT1723",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/QvrG3C/siig-sound-card-lp000022s2",
+    "comments": []
+  },
+  {
+    "name": "Rosewill RC-703 44.1 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Rosewill",
+      "Part #": "RC-703",
+      "Channels": "7.1",
+      "Sample Rate": "44.1 kHz",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/fWg323/rosewill-sound-card-rc703",
+    "comments": []
+  },
+  {
+    "name": "SIIG IC-510012-S2 Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "SIIG",
+      "Part #": "IC-510012-S2",
+      "Channels": "5.1",
+      "Digital Audio": "16-bit",
+      "Signal-To-Noise Ratio": "68 dB",
+      "Interface": "PCI"
+    },
+    "rating": "(2 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/Vyh9TW/siig-sound-card-ic510012s2",
+    "comments": [
+      "5.1 surround works as should."
+    ]
+  },
+  {
+    "name": "SIIG IC-710012-S2 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "SIIG",
+      "Part #": "IC-710012-S2",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "92 dB",
+      "Sample Rate": "96 kHz",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/XNtCmG/siig-sound-card-ic710012s2",
+    "comments": []
+  },
+  {
+    "name": "Creative Labs Sound Blaster Audigy SE 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Creative Labs",
+      "Model": "Sound Blaster Audigy SE",
+      "Part #": "70SB057000001",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "96 kHz",
+      "Chipset": "Audigy SE",
+      "Interface": "PCI",
+      "Color": "Black"
+    },
+    "rating": "(5 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/cPCwrH/creative-labs-sound-blaster-audigy-se-24-bit-96-khz-sound-card-70sb057000001",
+    "comments": [
+      "This is definitely a good card, I have used it in my build for a while. I definitely don't need it anymore because of my motherboard and or my Sound Blaster Zx",
+      "Not usually a believer in the need for sound cards but I had to buy one when my mobo's built in sound broke. Does the job but it restricts airflow to my gpu.",
+      "This relatively cheap sound card improved my sound quality so much! I now can hear the bass, mids and highs clearly through my cheap speakers."
+    ]
+  },
+  {
+    "name": "PPA International 1431v Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "PPA International",
+      "Part #": "1431v",
+      "Channels": "5.1",
+      "Digital Audio": "16-bit",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/FrK7YJ/ppa-international-sound-card-1431v",
+    "comments": []
+  },
+  {
+    "name": "Encore ENM232-6VIA 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Encore",
+      "Part #": "ENM232-6VIA",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "96 kHz",
+      "Chipset": "VIA VT1723",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/gHckcf/encore-sound-card-enm2326via",
+    "comments": []
+  },
+  {
+    "name": "HT Omega STRIKER Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "HT Omega",
+      "Part #": "STRIKER",
+      "Channels": "7.1",
+      "Chipset": "C-Media CMI8770",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/yRckcf/ht-omega-sound-card-striker",
+    "comments": []
+  },
+  {
+    "name": "Vantec UGT-S100 48 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Vantec",
+      "Part #": "UGT-S100",
+      "Channels": "7.1",
+      "Sample Rate": "48 kHz",
+      "Interface": "PCI"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/pp6BD3/vantec-sound-card-ugts100",
+    "comments": [
+      "Well, it's a sound card, that's for sure. Nothing remarkable. It works.\nI have no idea why I bought this lol"
+    ]
+  },
+  {
+    "name": "Rosewill RC-701 Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Rosewill",
+      "Part #": "RC-701",
+      "Channels": "5.1",
+      "Chipset": "C-Media CMI8738",
+      "Interface": "PCI"
+    },
+    "rating": "(1 Rating, 3.0 Average)",
+    "link": "https://pcpartpicker.com/product/HKw323/rosewill-sound-card-rc701",
+    "comments": []
+  },
+  {
+    "name": "Asus Xonar D1 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "Xonar D1\n90-YAA0B0-0UAN00Z",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "116 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "ASUS AV100",
+      "Interface": "PCI"
+    },
+    "rating": "(5 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/vCTmP6/asus-sound-card-xonard1",
+    "comments": [
+      "It got the job done and was better than the onboard audio, but the software is horrible and I hate it. On windows 10 one of the applications associated with it comes up with errors every time windows reboots. The only fix I could find from searching the net was to disable the offending app in msconfig.\nAlso the inputs on the back of the card are all gold so when youre reaching down and trying to plug your speakers back in with a flashlight through bunch of cables, its effectively trial and error.\nGoing forward I will spend money on a motherboard with a decent onboard audio before dealing with this anymore.",
+      "I am an audiophile and I love this card. I would love to upgrade it, but for my current sound setup this does the job. Not only is it good for my music but for my games nothing but 5.1 will do. This card ships with support for all the latest Dolby technolgoes as well as DTS. This card can output 7.1 over analog and 5.1 over SPDIF using Dolby's Digital Live technology."
+    ]
+  },
+  {
+    "name": "StarTech PCISOUND5CH 24-bit 48 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "PCISOUND5CH",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "48 kHz",
+      "Chipset": "C-Media CMI8738",
+      "Interface": "PCI"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/h8Gkcf/startech-sound-card-pcisound5ch",
+    "comments": [
+      "Excellent for the price, easy to install, and zero driver issues. The general volume is louder and the sound is clearer than the on-board audio."
+    ]
+  },
+  {
+    "name": "Diamond XtremeSound XS71 16-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Diamond",
+      "Model": "XtremeSound XS71",
+      "Part #": "XS71",
+      "Channels": "7.1",
+      "Digital Audio": "16-bit",
+      "Sample Rate": "96 kHz",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/tqtCmG/diamond-sound-card-xs71",
+    "comments": []
+  },
+  {
+    "name": "Encore ENM232-8VIA 24-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Encore",
+      "Part #": "ENM232-8VIA",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "96 kHz",
+      "Chipset": "VIA VT1723",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/CkYXsY/encore-sound-card-enm2328via",
+    "comments": []
+  },
+  {
+    "name": "Asus Xonar DS 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Model": "Xonar DS",
+      "Part #": "90-YAA0F0-0UAN00Z",
+      "Channels": "7.1",
+      "Digital Audio": "24-bit",
+      "Signal-To-Noise Ratio": "107 dB",
+      "Sample Rate": "192 kHz",
+      "Chipset": "ASUS AV200",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/jCTmP6/asus-sound-card-90yaa0f00uan00z",
+    "comments": []
+  },
+  {
+    "name": "Rosewill RC-702 16-bit 96 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Rosewill",
+      "Part #": "RC-702",
+      "Channels": "7.1",
+      "Digital Audio": "16-bit",
+      "Sample Rate": "96 kHz",
+      "Chipset": "C-Media CMI8768",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/xjTmP6/rosewill-sound-card-rc702",
+    "comments": []
+  },
+  {
+    "name": "M-Audio Audiophile 192 24-bit 192 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "M-Audio",
+      "Model": "Audiophile 192",
+      "Part #": "9900-50768-00",
+      "Channels": "4.0",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "192 kHz",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/c7V48d/m-audio-sound-card-99005076800",
+    "comments": []
+  },
+  {
+    "name": "Turtle Beach TBS-3429 24-bit 48 kHz Sound Card",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Turtle Beach",
+      "Part #": "TBS-3429",
+      "Channels": "5.1",
+      "Digital Audio": "24-bit",
+      "Sample Rate": "48 kHz",
+      "Interface": "PCI"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/6ZphP6/turtle-beach-sound-card-tbs3429",
+    "comments": []
+  }
+]

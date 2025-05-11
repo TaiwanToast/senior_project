@@ -1,0 +1,1308 @@
+[
+  {
+    "name": "StarTech ST10GPEXNDPI 2 x 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": 438.65,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST10GPEXNDPI",
+      "Interface": "PCIe x4",
+      "Color": "Black / Silver"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/tqJgXL/startech-st10gpexndpi-2-x-10-gbs-ethernet-pcie-x4-network-adapter-st10gpexndpi",
+    "comments": []
+  },
+  {
+    "name": "TP-Link TG-3468 Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": 14.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TG-3468",
+      "Interface": "PCIe x1",
+      "Features": "Auto-Negotiation and Auto MDI/MDIX\nSupports power down/link down power saving\nDOS/Win98SE/Me/2000/XP/Vista/Linux/Novell Netware"
+    },
+    "rating": "(17 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/dQmLrH/tp-link-wired-network-card-tg3468",
+    "comments": [
+      "Motherboard LAN did not work with Windows or Linux. I can only assume it is defective, considering the forums I found online. Small, and does what it should.",
+      "a cheap NIC that works as expected and I haven't faced any driver issues just plug and play",
+      "a cheap NIC that works as expected and I haven't faced any driver issues just plug and play",
+      "Great ethernet card, no problems with it yet",
+      "Not currently installed as I am plugged into my 1gig modem but I tested it and it works. Seems good.",
+      "My wifi is really slow, so i get why I have 400 ping some days and others 30.",
+      "Extremely good for price I got.",
+      "My VM's now have 1 GBit connection to rest of my network and helps a lot to reduce load on my main network card.",
+      "Again had to buy because the LAN port on my MOBO gave out on me. Works perfectly fine and didn't cost an arm and a leg. I've bought quite a few of TP-Links products, and they make some good stuff in my opinion",
+      "6 stars. Does the job well"
+    ]
+  },
+  {
+    "name": "Intel X540-T2 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter",
+    "price": 90.0,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Model": "X540-T2",
+      "Part #": "X540T2\nAXX10GBTWLIOM3",
+      "Interface": "PCIe x8",
+      "Features": "Product Type:10Gigabit Ethernet Card"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/BRkwrH/intel-x540-t2-2-x-10-gbs-ethernet-pcie-x8-network-adapter-x540t2",
+    "comments": [
+      "Reliable and simple card. Running on a restricted x4 bus (vs. the intended PCIe 2.0 x8) yields approximately 8Gbps per port, which is quite usable too."
+    ]
+  },
+  {
+    "name": "Asus XG-C100C 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": 99.99,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "XG-C100C\n90IG0440-MO0R00\n90IG0760-MO0B00",
+      "Interface": "PCIe x4"
+    },
+    "rating": "(7 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/7z4NnQ/asus-xg-c100c-network-adapter-xg-c100c",
+    "comments": [
+      "God Tier Network Pcie Card",
+      "My ping and Download rate are insane using this and my Cat8 cable plus 10gb network switch nuff said ***** like but it is kinda extra",
+      "I bought this card thinking I'd prepare for the future. I have a 2.5Gbps router hard wired via CAT8 cable to the card and I get the advertised router max speeds of 2.5Gbps on the LAN but my 1Gbps WAN fiber connection isn't ready in the Republic of Ireland to upgrade to faster speeds in any direction in the near future so have yet to test its limits. We will see as time progresses if this was a worthwhile investment.",
+      "Not this exact model (I used the Asus XG-C100F) but I assume it's more or less the same thing save for the SFP+ cage on the F model.\nBased on the Aquantia AQC107 chipset. Tested it with a few different SFPs and it appears to like all of them, so no vendor locking here. Can run at both 1G and 10G speeds. Picked this one because it is a fairly compact card thus not really blocking off the airflow to the GPU and has a decent heatsink.",
+      "A good entry to 10 gigabit networking, assuming you have disks fast enough to make use of it."
+    ]
+  },
+  {
+    "name": "TP-Link TX201 2.5 Gb/s Ethernet PCIe x1 Network Adapter",
+    "price": 26.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TX201",
+      "Interface": "PCIe x1",
+      "Color": "Black / Gold"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/y93gXL/tp-link-tx201-25-gbs-ethernet-pcie-x1-network-adapter-tx201",
+    "comments": [
+      "A nice NIC to have an additional 2.5 Gbps port.",
+      "Great 2.5Gbps NIC. If you're experiencing any i225/i226-v issues on Z490/Z590/Z690/Z790/B550/X570, grab this and use it instead. Realtek drivers have come a long way and I've had zero dropouts compared to my onboard Intel NIC + I still get my maximum speeds."
+    ]
+  },
+  {
+    "name": "StarTech ST1000SPEX42 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": 448.56,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST1000SPEX42",
+      "Interface": "PCIe x4",
+      "Features": "Product Type:Gigabit Ethernet Card"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/zVxfrH/startech-wired-network-card-st1000spex42",
+    "comments": []
+  },
+  {
+    "name": "Intel X550-T2 2 x 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": 116.72,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "X550-T2",
+      "Interface": "PCIe x4"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/cpndnQ/intel-x550-t2-network-adapter-x550-t2",
+    "comments": []
+  },
+  {
+    "name": "TP-Link TX401 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": 69.98,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TX401",
+      "Interface": "PCIe x4",
+      "Color": "Red"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/wzmFf7/tp-link-tx401-10-gbs-ethernet-pcie-x4-network-adapter-tx401",
+    "comments": []
+  },
+  {
+    "name": "Intel X710-T2L 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter",
+    "price": 256.99,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Model": "X710-T2L",
+      "Part #": "X710T2L",
+      "Interface": "PCIe x8",
+      "Color": "Green / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/FFH8TW/intel-x710-t2l-2-x-10-gbs-ethernet-pcie-x8-network-adapter-x710t2l",
+    "comments": []
+  },
+  {
+    "name": "Intel X520-DA1 10 Gb/s Ethernet PCIe x8 Network Adapter",
+    "price": 99.0,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Model": "X520-DA1",
+      "Part #": "E10G41BTDAG1P5",
+      "Interface": "PCIe x8",
+      "Color": "Green"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/3KWzK8/intel-x520-da1-10-gbs-ethernet-pcie-x8-network-adapter-e10g41btdag1p5",
+    "comments": [
+      "Old reliable! Been using this NIC since 1974, it seems like. Might upgrade to 100G in the next build."
+    ]
+  },
+  {
+    "name": "Intel EXPI9301CTBLK Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": 54.24,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "EXPI9301CTBLK",
+      "Interface": "PCIe x1",
+      "Features": "High performance and reliability; low power\nDelivers increased performance while significantly reducing CPU usage"
+    },
+    "rating": "(9 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/xsdqqs/intel-wired-network-card-expi9301ctblk",
+    "comments": [
+      "A lifesaver for all those boards with crummy builtin NICs",
+      "Does what it's supposed to, and probably spies on you internet traffic since it's Intel.",
+      "Getting 2 MBS+, good for the price."
+    ]
+  },
+  {
+    "name": "TP-Link UE306 Gigabit Ethernet USB Type-A Network Adapter",
+    "price": 9.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "UE306",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/bGH7YJ/tp-link-ue306-gigabit-ethernet-usb-type-a-network-adapter-ue306",
+    "comments": []
+  },
+  {
+    "name": "TRENDnet TRENDnet TEG-10GECTX 10 Gigabit PCIe Network Adapter 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": 74.98,
+    "specs": {
+      "Manufacturer": "TRENDnet",
+      "Model": "TRENDnet TEG-10GECTX 10 Gigabit PCIe Network Adapter",
+      "Part #": "TEG-10GECTX",
+      "Interface": "PCIe x4",
+      "Color": "Green / Silver"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/bBCD4D/trendnet-trendnet-teg-10gectx-10-gigabit-pcie-network-adapter-pcie-x4-10-gbits-network-adapter-teg-10gectx",
+    "comments": []
+  },
+  {
+    "name": "Syba SD-PEX24066 2 x 2.5 Gb/s Ethernet PCIe x1 Network Adapter",
+    "price": 30.61,
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SD-PEX24066",
+      "Interface": "PCIe x1",
+      "Color": "Green / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/ZYcG3C/syba-sd-pex24066-2-x-25-gbs-ethernet-pcie-x1-network-adapter-sd-pex24066",
+    "comments": []
+  },
+  {
+    "name": "Intel E1G44HTBLK 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": 60.0,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "E1G44HTBLK",
+      "Interface": "PCIe x4",
+      "Features": "Processor : Intel 82580"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/4sdqqs/intel-wired-network-card-e1g44htblk",
+    "comments": []
+  },
+  {
+    "name": "TRENDnet TEG-25GECTX 2.5 Gb/s Ethernet PCIe x1 Network Adapter",
+    "price": 24.99,
+    "specs": {
+      "Manufacturer": "TRENDnet",
+      "Part #": "TEG-25GECTX",
+      "Interface": "PCIe x1",
+      "Color": "Blue"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/xxfnTW/trendnet-teg-25gectx-25-gbs-ethernet-pcie-x1-network-adapter-teg-25gectx",
+    "comments": []
+  },
+  {
+    "name": "Intel E1G42ETBLK 2 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": 51.0,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "E1G42ETBLK",
+      "Interface": "PCIe x4"
+    },
+    "rating": "(2 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/2mXfrH/intel-wired-network-card-e1g42etblk",
+    "comments": []
+  },
+  {
+    "name": "Gigabyte GC-AQC107 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Gigabyte",
+      "Part #": "GC-AQC107",
+      "Interface": "PCIe x4",
+      "Color": "Black / White"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/QHx2FT/gigabyte-gc-aqc107-network-adapter-gc-aqc107",
+    "comments": [
+      "Works great. I needed to install the driver before it works however, a bit ironic if you don't already have an ethernet port."
+    ]
+  },
+  {
+    "name": "Syba SD-PEX24055 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": 71.37,
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SD-PEX24055",
+      "Interface": "PCIe x4",
+      "Color": "Green / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/bXDJ7P/syba-sd-pex24055-pcie-x4-10-gbits-network-adapter-sd-pex24055",
+    "comments": []
+  },
+  {
+    "name": "Belkin F5D5000 100 Mb/s Ethernet PCI Network Adapter",
+    "price": 8.83,
+    "specs": {
+      "Manufacturer": "Belkin",
+      "Part #": "F5D5000",
+      "Interface": "PCI",
+      "Features": "Sets up quickly with included Belkin software\nKeeps resources available, even in sleep mode\nLets your PC share an Internet-access account\nAdds your desktop PC to your home or office network\nInstalls easily into an available PCI slot\nConfigures using any web browser"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/hk2kcf/belkin-wired-network-card-f5d5000",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST10GSPEXNB2 10 Gb/s Ethernet PCIe x2 Network Adapter",
+    "price": 162.18,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST10GSPEXNB2",
+      "Interface": "PCIe x2",
+      "Color": "Silver / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/PtcG3C/startech-st10gspexnb2-10-gbs-ethernet-pcie-x2-network-adapter-st10gspexnb2",
+    "comments": []
+  },
+  {
+    "name": "Intel E1G44ET2BLK 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": 355.2,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "E1G44ET2BLK",
+      "Interface": "PCIe x4"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/VwLypg/intel-wired-network-card-e1g44et2blk",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST10GSPEXNDP2 2 x 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": 285.39,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST10GSPEXNDP2",
+      "Interface": "PCIe x4",
+      "Color": "Black / Silver"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/JvH7YJ/startech-st10gspexndp2-2-x-10-gbs-ethernet-pcie-x4-network-adapter-st10gspexndp2",
+    "comments": []
+  },
+  {
+    "name": "QNAP QXG5G1T111C 5 Gb/s Ethernet PCIe x1 Network Adapter",
+    "price": 99.0,
+    "specs": {
+      "Manufacturer": "QNAP",
+      "Part #": "QXG5G1T111C",
+      "Interface": "PCIe x1",
+      "Color": "Blue / Silver"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Kgytt6/qnap-qxg5g1t111c-5-gbs-ethernet-pcie-x1-network-adapter-qxg5g1t111c",
+    "comments": []
+  },
+  {
+    "name": "Intel I226T1 2.5 Gb/s Ethernet PCIe x1 Network Adapter",
+    "price": 76.09,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "I226T1",
+      "Interface": "PCIe x1",
+      "Color": "Green"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/xKGhP6/intel-i226t1-25-gbs-ethernet-pcie-x1-network-adapter-i226t1",
+    "comments": []
+  },
+  {
+    "name": "Monoprice 112909 Gigabit Ethernet USB Type-C Network Adapter",
+    "price": 16.32,
+    "specs": {
+      "Manufacturer": "Monoprice",
+      "Part #": "112909",
+      "Interface": "USB Type-C 3.2 Gen 2",
+      "Color": "White"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/sYytt6/monoprice-112909-gigabit-ethernet-usb-type-c-network-adapter-112909",
+    "comments": []
+  },
+  {
+    "name": "Syba SI-PEX24042 4 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": 39.09,
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SI-PEX24042",
+      "Interface": "PCIe x1",
+      "Color": "Green / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/X4zkcf/syba-si-pex24042-pcie-x1-1000-mbits-network-adapter-si-pex24042",
+    "comments": []
+  },
+  {
+    "name": "Asus USB-C2500 2.5 Gb/s Ethernet USB Type-A Network Adapter",
+    "price": 37.72,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "USB-C2500\n90IG0650-MO0R0T",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Gray"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/BXQcCJ/asus-usb-c2500-25-gbs-ethernet-usb-type-a-network-adapter-usb-c2500",
+    "comments": []
+  },
+  {
+    "name": "QNAP QXG2G2TI225 2 x 2.5 Gb/s Ethernet PCIe x2 Network Adapter",
+    "price": 79.0,
+    "specs": {
+      "Manufacturer": "QNAP",
+      "Part #": "QXG2G2TI225",
+      "Interface": "PCIe x2",
+      "Color": "Green / Copper"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/LW92FT/qnap-qxg2g2ti225-2-x-25-gbs-ethernet-pcie-x2-network-adapter-qxg2g2ti225",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST10GSPEXNB 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST10GSPEXNB",
+      "Interface": "PCIe x4",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/s2zXsY/startech-st10gspexnb-10-gbs-ethernet-pcie-x4-network-adapter-st10gspexnb",
+    "comments": []
+  },
+  {
+    "name": "Intel EXPI9301CT Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": 57.92,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "EXPI9301CT",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(2 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/k94gXL/intel-wired-network-card-expi9301ct",
+    "comments": [
+      "VMware has a limited list of network drivers so had to add."
+    ]
+  },
+  {
+    "name": "Syba SY-ADA24029 Gigabit Ethernet USB Type-A Network Adapter",
+    "price": 9.99,
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SY-ADA24029",
+      "Interface": "USB Type-A 2.0",
+      "Features": "Compliant with Universal Serial Bus 3.0 Specification, Revision 1.0\nCompatible with USB Specification, Revision 2.0\nSupports Full Duplex Operation with IEEE 802.3x Flow Control and Half Duplex Operation with Back-pressure Flow Control\nSupports IEEE 802.3az (Energy Efficient Ethernet)\nSupports Crossover Detection and Auto-correction\nSupports Advanced Link Down Power Saving When Ethernet Cable is Unplugged\nSupports Wake-on-LAN\nAdapter Cable Length: 19\""
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/YgvRsY/syba-wired-network-card-syada24029",
+    "comments": []
+  },
+  {
+    "name": "Intel X520-T2 10 Gb/s, Gigabit Ethernet PCIe x8 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "X520-T2",
+      "Interface": "PCIe x8",
+      "Color": "Green / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/hdyV3C/intel-x520-t2-pcie-x8-10-gbits-network-adapter-x520-t2",
+    "comments": []
+  },
+  {
+    "name": "QNAP QXG-10G1T 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": 139.0,
+    "specs": {
+      "Manufacturer": "QNAP",
+      "Part #": "QXG-10G1T",
+      "Interface": "PCIe x4"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/n3ndnQ/qnap-qxg-10g1t-network-adapter-qxg-10g1t",
+    "comments": []
+  },
+  {
+    "name": "Intel E10G42BT 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "E10G42BT",
+      "Interface": "PCIe x8",
+      "Features": "This 10 Gigabit X520-T2 Ethernet Server Adapter showcases Intel's third-generation standards-based 10GBASE-T adapter in a low profile PCI Express form factor.\nThis new dual port adapter provides bandwidth-intensive applications highly affordable 10 Gigabit Ethernet (10GbE) network performance with cost-effective RJ-45 connections for distances up to 100 meters."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/78phP6/intel-wired-network-card-e10g42bt",
+    "comments": []
+  },
+  {
+    "name": "QLogic QLE3242-CU-CK 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "QLogic",
+      "Part #": "QLE3242-CU-CK",
+      "Interface": "PCIe x8",
+      "Features": "Card Height: Low-profile\nForm Factor: Internal\nOperating systems: Microsoft Windows Server; Red Hat Linux; Novell SLES; VMware ESX/ESXi; Oracle Solaris, OpenSolaris; Citrix XenServer.\nThroughput: 10Gbps full-duplex line rate per port.\nEthernet Frame: 1500 byte or 9600 byte (jumbo frame).\nStateless Offload: IP, TCP, and UDP checksum offloads.\nLarge and giant send offload (LSO, GSO).\nLarge receive offload (LRO).\nReceive side scaling (RSS).\nInterrupt coalescing.\nVMware NetQueue and Microsoft VMQ.\nCompliance: IEEE: 802.3ae (10Gb Ethernet), 802.1q (VLAN), 802.3ad (Link Aggregation), 802.1p (Priority Encoding), 802.3x (Flow Control), IPv4 (RFQ 791), IPv6 (RFC 2460)."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/QWg323/qlogic-wired-network-card-qle3242cuck",
+    "comments": []
+  },
+  {
+    "name": "SIIG LB-GE0311-S1 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter",
+    "price": 218.5,
+    "specs": {
+      "Manufacturer": "SIIG",
+      "Part #": "LB-GE0311-S1",
+      "Interface": "PCIe x8",
+      "Color": "Black / Green"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/XR2bt6/siig-lb-ge0311-s1-2-x-10-gbs-ethernet-pcie-x8-network-adapter-lb-ge0311-s1",
+    "comments": []
+  },
+  {
+    "name": "Intel EXPI9404PTLBLK-1PK 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "EXPI9404PTLBLK-1PK",
+      "Interface": "PCIe x4",
+      "Features": "Product Type:Gigabit Ethernet Card"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/v3Lypg/intel-wired-network-card-expi9404ptlblk1pk",
+    "comments": [
+      "A great deal for a server NIC with lots of ports. The only good choice for low profile builds."
+    ]
+  },
+  {
+    "name": "StarTech USB32000SPT 2 x Gigabit Ethernet USB Type-A Network Adapter",
+    "price": 64.34,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "USB32000SPT",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Features": "Product Type:Gigabit Ethernet Card"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/nKW9TW/startech-wired-network-card-usb32000spt",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST2GPEX 2.5 Gb/s Ethernet PCIe x1 Network Adapter",
+    "price": 33.08,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST2GPEX",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/mGjNnQ/startech-st2gpex-25-gbs-ethernet-pcie-x1-network-adapter-st2gpex",
+    "comments": []
+  },
+  {
+    "name": "TP-Link UE300 Gigabit Ethernet USB Type-A Network Adapter",
+    "price": 11.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "UE300",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Features": "Fastest USB 3.0 and Gigabit solution ensure high speed transfer rate\nPlug and Play in Windows (XP / Vista / 7 / 8 / 8.1), Mac OS X (10.9 / 10.10), Linux OS. Note: Driver required for Mac OS X (10.5-10.8)\nFoldable and Portable design ideally suits your Ultrabook"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/3p8H99/tp-link-ue300-network-adapter-ue300",
+    "comments": []
+  },
+  {
+    "name": "TP-Link UE300C Gigabit Ethernet USB Type-C Network Adapter",
+    "price": 12.27,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "UE300C",
+      "Interface": "USB Type-C",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/DcQfrH/tp-link-ue300c-gigabit-ethernet-usb-type-c-network-adapter-ue300c",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST1000SPEX2L Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": 23.06,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST1000SPEX2L",
+      "Interface": "PCIe x1",
+      "Features": "Chipset ID: Realtek RTL8111E\nCard Type: Low Profile (SP bracket incl.)\nAuto MDIX: Yes\nFull Duplex Support: Yes\nSupported Protocols: CSMA/CD\nOS Compatibility: Windows 8 (32/64bit), 7 (32/64), Vista(32/64), XP(32/64), 2000\nWindows Server 2008 R2, 2003(32/64)\nMac OS X (Intel based, tested up to 10.8)\nLinux\nA single 10/100/1000Mbps compatible RJ45 Ethernet port\nGigabit detection and Link/Activity LED indicators\nFully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3x and IEEE 802.3ab standards\nSupports IEEE 802.1Q VLAN tagging, IEEE 802.1P Layer 2 Priority Encoding and IEEE 802.3x Full Duplex Flow Control\nJumbo frame support\nFull and half duplex support\nSupports Wake-on-LAN function\nCrossover Detection & Auto-Correction (Auto MDI/MDI-X)"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/kFQypg/startech-wired-network-card-st1000spex2l",
+    "comments": []
+  },
+  {
+    "name": "Intel EXPI9402PTG2P20 2 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": 69.61,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "EXPI9402PTG2P20",
+      "Interface": "PCIe x4",
+      "Color": "Green / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/CwGxFT/intel-expi9402ptg2p20-pcie-x4-1000-mbits-network-adapter-expi9402ptg2p20",
+    "comments": []
+  },
+  {
+    "name": "Lenovo 7ZT7A00482 2 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": 112.36,
+    "specs": {
+      "Manufacturer": "Lenovo",
+      "Part #": "7ZT7A00482",
+      "Interface": "PCIe x1",
+      "Color": "Green / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/bgbCmG/lenovo-7zt7a00482-pcie-x1-1000-mbits-network-adapter-7zt7a00482",
+    "comments": []
+  },
+  {
+    "name": "Asus ROG AREION 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "AREION 10G\nROG AREION 10G",
+      "Interface": "PCIe x4",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/bNMTwP/asus-rog-areion-10-gbs-ethernet-pcie-x4-network-adapter-areion-10g",
+    "comments": []
+  },
+  {
+    "name": "Intel E1G44HT 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": 106.0,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "E1G44HT",
+      "Interface": "PCIe x4",
+      "Features": "Processor : Intel 82580"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/TnPfrH/intel-wired-network-card-e1g44ht",
+    "comments": []
+  },
+  {
+    "name": "Asus PCE-C2500 100 Mb/s Ethernet PCIe x1 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-C2500",
+      "Interface": "PCIe x1",
+      "Color": "Red"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/hRdrxr/asus-pce-c2500-100-mbs-ethernet-pcie-x1-network-adapter-pce-c2500",
+    "comments": []
+  },
+  {
+    "name": "Syba SY-PEX24045 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": 69.98,
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SY-PEX24045",
+      "Interface": "PCIe x4",
+      "Color": "Green / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/WD97YJ/syba-sy-pex24045-pcie-x4-1000-mbits-network-adapter-sy-pex24045",
+    "comments": []
+  },
+  {
+    "name": "Verification",
+    "price": "N/A",
+    "specs": {},
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/NqYQzy/supermicro-aoc-stg-i2t-pcie-x8-10-gbits-network-adapter-aoc-stg-i2t",
+    "comments": []
+  },
+  {
+    "name": "Verification",
+    "price": "N/A",
+    "specs": {},
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/WxD7YJ/gigabyte-gc-aqc113c-10g-10-gbs-ethernet-pcie-x4-network-adapter-gc-aqc113c-10g",
+    "comments": []
+  },
+  {
+    "name": "Verification",
+    "price": "N/A",
+    "specs": {},
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/C6Gkcf/intel-wired-network-card-expi9404ptlblk",
+    "comments": []
+  },
+  {
+    "name": "Verification",
+    "price": "N/A",
+    "specs": {},
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/wF7p99/siig-lb-ge0211-s1-10-gbs-ethernet-pcie-x4-network-adapter-lb-ge0211-s1",
+    "comments": []
+  },
+  {
+    "name": "Verification",
+    "price": "N/A",
+    "specs": {},
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/MC7wrH/d-link-dub-e100-usb-20-100-mbits-network-adapter-dub-e100",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST2000PEXPSE 2 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": 141.18,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST2000PEXPSE",
+      "Interface": "PCIe x1",
+      "Features": "Product Type:Gigabit Ethernet Card"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/cqCwrH/startech-wired-network-card-st2000pexpse",
+    "comments": []
+  },
+  {
+    "name": "Rosewill RC-NIC416Dual 2 x 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Rosewill",
+      "Part #": "RC-NIC416Dual",
+      "Interface": "PCIe x4",
+      "Color": "Black / Silver"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/R2Jtt6/rosewill-rc-nic416dual-pcie-x4-10-gbits-network-adapter-rc-nic416dual",
+    "comments": []
+  },
+  {
+    "name": "EDUP EP-9602GS Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "EDUP",
+      "Part #": "EP-9602GS",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/kbkgXL/edup-ep-9602gs-pcie-x1-1000-mbits-network-adapter-ep-9602gs",
+    "comments": []
+  },
+  {
+    "name": "QNAP QXG-2G1T-I225 2.5 Gb/s Ethernet PCIe x1 Network Adapter",
+    "price": 69.0,
+    "specs": {
+      "Manufacturer": "QNAP",
+      "Part #": "QXG-2G1T-I225",
+      "Interface": "PCIe x1",
+      "Color": "Green / Silver"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/93qPxr/qnap-qxg-2g1t-i225-25-gbs-ethernet-pcie-x1-network-adapter-qxg-2g1t-i225",
+    "comments": []
+  },
+  {
+    "name": "StarTech US2GC30 2.5 Gb/s Ethernet USB Type-C Network Adapter",
+    "price": 42.99,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "US2GC30",
+      "Interface": "USB Type-C 3.2 Gen 1",
+      "Color": "Silver"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/D9zXsY/startech-us2gc30-25-gbs-ethernet-usb-type-c-network-adapter-us2gc30",
+    "comments": []
+  },
+  {
+    "name": "Syba SY-PEX24030 Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": 22.65,
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SY-PEX24030",
+      "Interface": "PCIe x1",
+      "Features": "Realtek RTL8111C Chipset\nSingle-Lane (x1) PCI-Express with Transfer Rate 2.5Gb/s Full Duplex Channel\nSupports 10/100/1000 Base-T Networking with Auto-Negotiation\nCompatible with IEEEE 802.3, 802.3ab, 802.3u, 802.3x, 802.1Q, VLAN\nSupports Full Duplex Flow Control (IEEE 802.3x)\nAutomatic Crossover Detection and Correction Supported\nTransmit and Receiving FIFO of 1024 Package Buffer Each for Fast Operation\nCompliant with PCI-Express Revision 1.0a\nPCI Express x1 Interface, Compatible with PCI Express x1, x4, x8, x16 Slot\nSupports Jumbo Frame\nFully Plug and Play."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/4dyFf7/syba-wired-network-card-sypex24030",
+    "comments": []
+  },
+  {
+    "name": "Syba SY-HUB24047 4 x Gigabit Ethernet USB Type-A Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SY-HUB24047",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/7m97YJ/syba-sy-hub24047-usb-30-1000-mbits-network-adapter-sy-hub24047",
+    "comments": []
+  },
+  {
+    "name": "Intel E1G42ET 2 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "E1G42ET",
+      "Interface": "PCIe x4"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/rDPfrH/intel-wired-network-card-e1g42et",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST1000SPEX2 Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": 23.06,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST1000SPEX2",
+      "Interface": "PCIe x1",
+      "Features": "Product Type:Gigabit Ethernet Card"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/DZV48d/startech-wired-network-card-st1000spex2",
+    "comments": []
+  },
+  {
+    "name": "TRENDnet TEG-PCITXR Gigabit Ethernet PCI Network Adapter",
+    "price": 26.04,
+    "specs": {
+      "Manufacturer": "TRENDnet",
+      "Part #": "TEG-PCITXR",
+      "Interface": "PCI",
+      "Features": "Protocol: CSMA/CD\nPower Consumption: 3.7watts\nCertification: CE, FCC\nBuilt-in FIFO (8K/64K) buffers reduce overhead of memory transfers.\nPlug and Play"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Kp7wrH/trendnet-wired-network-card-tegpcitxr",
+    "comments": []
+  },
+  {
+    "name": "Edimax EU-4208 100 Mb/s Ethernet USB Type-A Network Adapter",
+    "price": 10.99,
+    "specs": {
+      "Manufacturer": "Edimax",
+      "Part #": "EU-4208",
+      "Interface": "USB Type-A 2.0",
+      "Features": "Operating System: Microsoft Windows XP / 2000 / Vista / 7\nMac OS X 10.x\nRAM: Embedded 20KB SRAM for RX and 20KB SRAM for TX packet buffering\nNo external power adapter required\nLow power consumption in idle mode and low traffic conditions.\nThe Edimax EU-4208 USB 2.0 Fast Ethernet Adapter is specifically designed to give Fast Ethernet connectivity to your ultrabook, or any computer without an Ethernet port."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/9MLypg/edimax-wired-network-card-eu4208",
+    "comments": []
+  },
+  {
+    "name": "D-Link DXE-820T 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "D-Link",
+      "Part #": "DXE-820T",
+      "Interface": "PCIe x8",
+      "Features": "Product Type:10Gigabit Ethernet Card"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/LmgPxr/d-link-dxe-820t-network-adapter-dxe-820t",
+    "comments": []
+  },
+  {
+    "name": "Edimax EN-9130TXL 100 Mb/s Ethernet PCI Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Edimax",
+      "Part #": "EN-9130TXL",
+      "Interface": "PCI",
+      "Features": "10/100Mbps Auto-Negotiation - Support Nway Auto-Negotiation technology and makes it simple and cost effective to install and upgrade your network in the future. Support Full-Duplex mode for maximum bandwidth up to 200Mbps in a switched network.\nWeb-Based Management - Turn your PC into a remotely and locally manageable PC with Edimax WedDESK Manager. Collect all the PCs' critical information and even take a snapshot of the Client PC's screen through the Internet browser. Managing network has never been easier.\nACPI / Wake On LAN - When the adapter receives a wake-up frame or magic packet from the network management station, it will work with the system's ACPI interface to power up the PC and enable the PC to be remotely managed by the administrator"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/tQ8Zxr/edimax-wired-network-card-en9130txl",
+    "comments": []
+  },
+  {
+    "name": "Lenovo 4X90E51405 Gigabit Ethernet USB Type-A Network Adapter",
+    "price": 29.06,
+    "specs": {
+      "Manufacturer": "Lenovo",
+      "Part #": "4X90E51405",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Features": "Product Type:Gigabit Ethernet Card"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/NjPfrH/lenovo-wired-network-card-4x90e51405",
+    "comments": []
+  },
+  {
+    "name": "TRENDnet TUC-ET2G 2.5 Gb/s Ethernet USB Type-C Network Adapter",
+    "price": 21.99,
+    "specs": {
+      "Manufacturer": "TRENDnet",
+      "Part #": "TUC-ET2G",
+      "Interface": "USB Type-C 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/zryV3C/trendnet-tuc-et2g-usb-type-c-25-gbits-network-adapter-tuc-et2g",
+    "comments": []
+  },
+  {
+    "name": "Edimax EN-9320TX-E 10 Gb/s Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Edimax",
+      "Part #": "EN-9320TX-E",
+      "Interface": "PCIe x4",
+      "Color": "Silver / Green"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/D2BhP6/edimax-en-9320tx-e-pcie-x4-10-gbits-network-adapter-en-9320tx-e",
+    "comments": []
+  },
+  {
+    "name": "Syba SY-PEX24028 2 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": 92.87,
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SY-PEX24028",
+      "Interface": "PCIe x1",
+      "Features": "Designed to Meet PCI Express Specification Revision 1.0a\nSingle-lane (or x1) PCI Express Throughput Supports Rate of 2.5Gbps\nFully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab\n10/100/1000M Data Auto-negotiation\nLEDs Indicate the Status of Data Transmission\nSupport Wake On Lan (WOL) Power Management (Optional)\nFull Duplex Mode Doubles the Network Connections Speed.\nOS: Windows 7 (32/64 bit)\nVista (32/64 bit)\nWindows XP (32/64 bit)\nMac OS X 10.5 or later"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/fPw323/syba-sy-pex24028-pcie-x1-1-gbits-network-adapter-sy-pex24028",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST1000SPEXD3 2 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST1000SPEXD3",
+      "Interface": "PCIe x1",
+      "Features": "Card Type: Standard Profile (LP bracket incl.)\nChipset ID: Realtek RTL8111E & PLX PEX8608\nIndustry Standards: PCI Express Base Specification 2.0\nBuffer Size: 48 KB\nAuto MDIX: Yes\nFull Duplex Support: Yes\nOS Compatibility: Windows 8 (32/64bit), 7 (32/64), Vista(32/64), XP(32/64), 2000\nWindows Server 2008 R2, 2003(32/64)\nMac OS 10.4 - 10.8\nLinux\nTwo 10/100/1000Mbps compatible RJ-45 Ethernet ports\nJumbo Frame support up to 9k bytes\nCompatible with PCI Express Base Specification 2.0 (backward compatible with 1.0a/1.1)\nRealtek RTL8111 Rev. E chipset provides improved compatibility with Intel Series 6 chips\nFully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, and supports IEEE 802.1Q VLAN tagging, IEEE 802.1P Layer 2 Priority Encoding and IEEE 802.3x Full Duplex Flow Control\nSupports Microsoft NDIS5 Checksum Offload (IP, TCP, UDP) and Large send Offload\nWake-on-LAN / Remote Wake-up support\nConfigured with standard profile bracket, low profile/half-height bracket included\nSupports Pair Swap / Polarity / Skew Correction\nMetal RJ45 connectors."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/WvPfrH/startech-wired-network-card-st1000spexd3",
+    "comments": []
+  },
+  {
+    "name": "Belkin F2CU040btBLK Gigabit Ethernet USB Type-C Network Adapter",
+    "price": 22.39,
+    "specs": {
+      "Manufacturer": "Belkin",
+      "Model": "F2CU040btBLK",
+      "Part #": "F2CU040BTBLK",
+      "Interface": "USB Type-C 3.2 Gen 1",
+      "Features": "Product Type: Gigabit Ethernet Card\nHarness the reliability of Ethernet for your USB-C device with the USB-C to Gigabit Ethernet Adapter. Where wireless connectivity is inconsistent, overextended, or even non-existent, this adapter allows you to connect seamlessly and with confidence. With the speed and reliability of Gigabit Ethernet, even the largest downloads can be possible without fear of interruption."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/dp2rxr/belkin-f2cu040btblk-network-adapter-f2cu040btblk",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST10GSPEXNDP 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST10GSPEXNDP",
+      "Interface": "PCIe x8",
+      "Color": "Black / Silver"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/9ttKHx/startech-st10gspexndp-2-x-10-gbs-ethernet-pcie-x8-network-adapter-st10gspexndp",
+    "comments": []
+  },
+  {
+    "name": "Intel EXPI9404PTL 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "EXPI9404PTL",
+      "Interface": "PCIe x4",
+      "Features": "Two Intel 82571GB Gigabit Controllers\nLow-profile\nLoad balancing on multiple CPUs\nIntel I/OAT\nVirtualization\nInterrupt moderation\nCompatible with x4, x8, and x16 standard and low-profile PCI Express slots\nSupport for most network operating systems (NOS)\nRemote management support\nCategory-5 unshielded twisted pair (UTP), 4-pair cabling\nRoHS compliant, lead-free technology\nIntel PROSet Utility for Windows\nAdvanced cable diagnostics\nIntel backing"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Lsdqqs/intel-wired-network-card-expi9404ptl",
+    "comments": []
+  },
+  {
+    "name": "StarTech USB21000S2 Gigabit Ethernet USB Type-A Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "USB21000S2",
+      "Interface": "USB Type-A 2.0",
+      "Features": "Chipset ID: SMSC - LAN7500\nConnector Type(s): 1 - RJ-45 Female, 1 - USB A (4 pin) Male\nMaximum Data Transfer Rate: 480 Mbps (USB 2.0)\nType and Rate: USB 2.0 - 480 Mbit/s\nBuffer Size: 20 KB\nOS Compatibility: Windows XP(32/64-bit)/ Server 2003(32/64-bit)/ Server 2008 R2/ Vista(32/64-bit)/ 7(32/64-bit)/ 8 (32/64-bit)\nMac OS 10.6/ 10.7/ 10.8\nLinux\nColor: Black\nEnclosure Type: Plastic\nPower: USB Powered\nPowered directly from the USB ports\nJumbo Frame support up to 9 KB\nSupports Microsoft NDIS 6.2 Checksum Offload (IPv4, IPv6, TCP, UDP) and Large send Offload\nCrossover Detection & Auto-Correction (Auto MDIX)\nIEEE 802.1Q VLAN Tagging support\nEmbedded 20KB SRAM for packet buffering\nActivity and Gigabit Link LED indicators\nCompact, lightweight design for maximum portability."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/yk2kcf/startech-wired-network-card-usb21000s2",
+    "comments": []
+  },
+  {
+    "name": "Intel PWLA8391GTBLK-1PK Gigabit Ethernet PCI Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "PWLA8391GTBLK-1PK",
+      "Interface": "PCI",
+      "Features": "PRO/1000 GT Desktop Adapter provide a maximize system performance and increase end-user productivity for mainstream PCs.\nThis adapter bandwidth makes quick work of these network applications with power to spare."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/VWg323/intel-wired-network-card-pwla8391gtblk1pk",
+    "comments": []
+  },
+  {
+    "name": "Intel PWLA8391GTBLK Gigabit Ethernet PCI Network Adapter",
+    "price": 32.0,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "PWLA8391GTBLK",
+      "Interface": "PCI",
+      "Features": "Processor:Intel 82541PI\nACPI support\nAuto-negotiation\nFlow control\nFull duplex capability\nManageable\nVLAN support\nWake on LAN (WOL)\nRemote management support DMI 2.0, SNMP\nCompliant with BSMI CNS 13438 Class B, CE, FCC Class B certified, Plug and Play, VCCI Class B ITE"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/yKzv6h/intel-wired-network-card-pwla8391gtblk",
+    "comments": []
+  },
+  {
+    "name": "VisionTek Bigfoot Killer 2100 Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "VisionTek",
+      "Model": "Bigfoot Killer 2100",
+      "Part #": "900317",
+      "Interface": "PCIe x1",
+      "Features": "Processor: 400 MHz Bigfoot Networks Processor\nMemory: 128MB DDR2 266MHz\nMaximum networking performance for online games\nControl Panel Application & Tray Indicator\nAdvanced Game Detect (traffic classification)\nVisual Bandwidth Control\nApplication Blocker\nOnline Gaming PC Monitor\nUDP traffic offload & acceleration\nWindows Network Stack bypass"
+    },
+    "rating": "(1 Rating, 1.0 Average)",
+    "link": "https://pcpartpicker.com/product/7QmLrH/visiontek-wired-network-card-900317",
+    "comments": [
+      "It's a fantastic idea but not a plausible market as an expansion card. It has its own processor for computing the sound, allowing your CPU to focus on other tasks. It helps give you a minor performance boost... but? $20 network stack optimizing software such as PGWare's Throttle can achieve half the results this $100 card can do.... Bigfoot Networks (who were bought out by Qualcomm) even state they don't support Linux...\nUnfortunately, no Linux drivers exist for the Killer 2100. The card was designed to improve Windows networking performance, and those restrictions don't exist in Linux, so a driver was not created. I'm afraid driver creation has ceased for this product (bug-fix support still exists), so there likely won't be a Linux driver coming.\nApologies for the inconvenience,\nEthan Senior Support Engineer Qualcomm Atheros www.killergaming.com\nref:_00D306grN._500a0h48HQ:ref"
+    ]
+  },
+  {
+    "name": "Plugable USB3-E1000 Gigabit Ethernet USB Type-A Network Adapter",
+    "price": 19.95,
+    "specs": {
+      "Manufacturer": "Plugable",
+      "Part #": "USB3-E1000",
+      "Interface": "USB Type-A 3.2 Gen 1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/dLmxFT/plugable-usb3-e1000-network-adapter-usb3-e1000",
+    "comments": []
+  },
+  {
+    "name": "D-Link DUB-1312 Gigabit Ethernet USB Type-A Network Adapter",
+    "price": 46.76,
+    "specs": {
+      "Manufacturer": "D-Link",
+      "Part #": "DUB-1312",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Zb3H99/d-link-dub-1312-usb-30-1000-mbits-network-adapter-dub-1312",
+    "comments": []
+  },
+  {
+    "name": "Tripp Lite U436-000-GB Gigabit Ethernet USB Type-C Network Adapter",
+    "price": 25.41,
+    "specs": {
+      "Manufacturer": "Tripp Lite",
+      "Part #": "U436-000-GB",
+      "Interface": "USB Type-C 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/4dDkcf/tripp-lite-u436-000-gb-usb-type-c-1000-mbits-network-adapter-u436-000-gb",
+    "comments": []
+  },
+  {
+    "name": "HP E0X95AA Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "HP",
+      "Part #": "E0X95AA",
+      "Interface": "PCIe x1",
+      "Color": "Green"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Fk4gXL/hp-e0x95aa-gigabit-ethernet-pcie-x1-network-adapter-e0x95aa",
+    "comments": []
+  },
+  {
+    "name": "SIIG LB-GE0611-S1 2.5 Gb/s Ethernet PCIe x1 Network Adapter",
+    "price": 53.0,
+    "specs": {
+      "Manufacturer": "SIIG",
+      "Part #": "LB-GE0611-S1",
+      "Interface": "PCIe x1",
+      "Color": "Green / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/DXK2FT/siig-lb-ge0611-s1-25-gbs-ethernet-pcie-x1-network-adapter-lb-ge0611-s1",
+    "comments": []
+  },
+  {
+    "name": "Plugable USBC-E1000 Gigabit Ethernet USB Type-C Network Adapter",
+    "price": 18.95,
+    "specs": {
+      "Manufacturer": "Plugable",
+      "Part #": "USBC-E1000",
+      "Interface": "USB Type-C 3.2 Gen 1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/yhzZxr/plugable-usbc-e1000-usb-type-c-1-gbits-network-adapter-usbc-e1000",
+    "comments": []
+  },
+  {
+    "name": "Tripp Lite U436-06N-2P5 2.5 Gb/s Ethernet USB Type-C Network Adapter",
+    "price": 37.58,
+    "specs": {
+      "Manufacturer": "Tripp Lite",
+      "Part #": "U436-06N-2P5",
+      "Interface": "USB Type-C 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/XCFmP6/tripp-lite-u436-06n-2p5-25-gbs-ethernet-usb-type-c-network-adapter-u436-06n-2p5",
+    "comments": []
+  },
+  {
+    "name": "StarTech PEX100S 100 Mb/s Ethernet PCIe x1 Network Adapter",
+    "price": 19.38,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "PEX100S",
+      "Interface": "PCIe x1",
+      "Features": "Chipset ID: Realtek RTL8101E\nOS Compatibility: Windows 98SE/ ME/ 2000/ XP(32/64bit)/ Vista(32/64bit)/ 7(32/64bit), and Linux\nCard Type: Low / Standard Profile\nCompliant with IEEE802.3 CSMA/CD, 802.3 10Base-T and 100Base-TX standards\nCrossover Detection & Auto-Correction (Auto-MDIX)\nLink speed and duplex mode auto-negotiation\nFull/Low Profile installation brackets included"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Mc9KHx/startech-wired-network-card-pex100s",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST1000SPEX4 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST1000SPEX4\nC734A2YG",
+      "Interface": "PCIe x4",
+      "Features": "Chipset ID: Realtek - RTL8111C\nBuffer Size: 48KB (On Chip)\nOS Compatibility: Windows 2000/ XP (32/64-bit)/ Vista (32/64-bit)/ Server 2003 (32/64-bit)/ Server 2008 R2/ 7 (32/64-bit)/ 8 (32/64-bit)\nWin CE 4.2/ 5.0\nMac OS X (Intel based, tested up to 10.8)\nUnix and Linux\nJumbo Frame support\nSupport for IEEE 802.1Q VLAN tagging and IEEE 802.1P Layer 2 Priority Encoding\nCrossover Detection & Auto-Correction (Auto MDIX)\nMicrosoft NDIS5 Checksum Offload (IP, TCP, UDP) and Large send Offload Support\nOn-chip 48KB Transmit/Receive Buffer\nWake-on-LAN and Remote Wake-up Support\nSupports Full Duplex Flow Control (IEEE 802.3x)\nSupports Pair Swap/Polarity/Skew Correction\nPCI Express base specification 1.1 compliant\nSupports PCI Message Signaled Interrupt (MSI)."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/L2vRsY/startech-wired-network-card-st1000spex4",
+    "comments": []
+  },
+  {
+    "name": "Intel PWLA8490MTBLK Gigabit Ethernet PCI-X Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "PWLA8490MTBLK",
+      "Interface": "PCI-X",
+      "Features": "Support for most NOSs\nIntel SingleDriver technology\nBackward Compatibility with previous generations of Intel PRO/1000 Network Adapters\nSupports 64- or 32-bit PCI-X 1.0 or PCI 2.2 buses\nRemote Management Support (WfM, RIS, SNMP/DMI)\nIEEE 802.3ab Compatibility\nIntel 82545 Gigabit Controller\nFull-height and low-profile, screw-on brackets included with each adapter\nInterrupt Moderation\nAdvanced Cable Diagnostics\nLarge Send Off-load/TCP Segmentation Off-load\nExpanded Advanced Server Features"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/vj6BD3/intel-wired-network-card-pwla8490mtblk",
+    "comments": []
+  },
+  {
+    "name": "Syba SY-ADA24027 100 Mb/s Ethernet USB Type-A Network Adapter",
+    "price": 19.95,
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SY-ADA24027",
+      "Interface": "USB Type-A 2.0",
+      "Features": "ASIX AX88772B Chipset\nIntegrates On-chip USB 2.0 Transceiver and SIE Compliant to USB Specfication 1.1 and 2.0\nSupports USB Full and High Speed Modes with Bus-Power (5V)\nSupports Auto Detach Power Saving, Detach from USB Host When Ethernet Cable is Unplugged\nIntegrates 10/100Mbps Fast Ethernet MAC/PHY\nSupports Twisted Pair Crossover Detection and Auto-correction (HP Auto-MDIX)\nSupports Full Duplex Operation with IEEE 802.3x Flow Control and Half Duplex Operation with Back-pressure Flow Control\nSupports 2 VLAN ID Filtering\nPHY Loop-back Diagnostic Capability\nSupports Suspend Mode and External Wake-up Pin\nSupports Protocol Offloads (ARP & NS) for Windows 7\nSupports Dynamic Power Management\nSupports Very Low Power Wake-on-LAN (WOL) Mode When the System Enters Suspend Mode and Waits for Network Event to Wake It Up\nSingle 25MHz Clock Input\nSoftware Requirement: Windows 7\nVista\nWindows XP\nWindows 2000\nMS Server 2003\nMS Server 2008\nMac OS up to 10.1\nLinux\nAndroid 4.0 or Higher"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/27tCmG/syba-wired-network-card-syada24027",
+    "comments": []
+  },
+  {
+    "name": "SIIG CN-GP2011-S1 2 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "SIIG",
+      "Part #": "CN-GP2011-S1",
+      "Interface": "PCIe x1",
+      "Features": "Product Type:Gigabit Ethernet Card"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/PFR48d/siig-wired-network-card-cngp2011s1",
+    "comments": []
+  },
+  {
+    "name": "Rosewill RNG-407-Dual 2 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Rosewill",
+      "Part #": "RNG-407-Dual",
+      "Interface": "PCIe x1",
+      "Features": "Designed to Meet PCI Express Specification Revision 1.1, compatible with x4, x8, x16\nSingle-lane (or x1) PCI Express Throughput Supports Rate of 2.5Gbps\nFully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab\n10/100/1000M Data Auto-negotiation\n9K bytes Jumbo Frame Support\nLEDs Indicate the Status of Data Transmission\nSupport Wake On Lan (WOL) Power Management\nFull Duplex Mode Doubles the Network Connections Speed.\nOS support: Windows 8 (32/64 bit)\nWindows 7 (32/64 bit)\nVista (32/64 bit)\nWindows XP (32/64 bit)\nMac OS X 10.5, 10.6, 10.7, 10.8\nLinux 2.6.x and higher kernel OS"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/myGkcf/rosewill-wired-network-card-rng407dual",
+    "comments": []
+  },
+  {
+    "name": "StarTech ST3300U3S Gigabit Ethernet USB Type-A Network Adapter",
+    "price": 48.17,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "ST3300U3S",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Features": "Connector Type(s): 1 - RJ-45 Female\n1 - USB 3.0 Micro-B (10 pin; SuperSpeed) Female\n3 - USB 3.0 A (9 pin; SuperSpeed) Female\nOS Compatibility: Windows XP(32/64-bit)/ Server 2003(32/64-bit)/ Server 2008 R2/ Vista(32/64-bit)/ 7(32/64-bit)/ 8 (32/64-bit)\nMac OS 10.x\nLinux\nPower: Center Tip Polarity: Positive\nInput Voltage: Universal 115 ~ 230 AC\nOutput Current: 2\nOutput Voltage: 5 DC\nPlug Type: M\nPower Adapter Included: Yes\n10/100/1000 Mbps RJ45 Ethernet port\nFully compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab and IEEE 802.3az specifications\nSupports Auto-MDIX, Wake-on-LAN and Jumbo Frames\nCrossover Detection & Auto-Correction (Auto MDIX)\n3 SuperSpeed USB 3.0 ports with up to 5Gbps of bandwidth\nBackward compatible with USB 2.0 and USB 1.0/1.1 devices\nSupports USB 3.0/2.0/1.x devices simultaneously\nFully compliant with USB 3.0 rev 1.0 specifications\nPlug-and-Play and hot-swap compatible."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/ZZ6BD3/startech-wired-network-card-st3300u3s",
+    "comments": []
+  },
+  {
+    "name": "Linksys USB3GIG Gigabit Ethernet USB Type-A Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Linksys",
+      "Part #": "USB3GIG",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/ncw7YJ/linksys-usb3gig-usb-30-1000-mbits-network-adapter-usb3gig",
+    "comments": []
+  },
+  {
+    "name": "Supermicro SGP-i4 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Supermicro",
+      "Part #": "SGP-i4",
+      "Interface": "PCIe x4",
+      "Color": "Green / Silver"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/QmVD4D/supermicro-sgp-i4-pcie-x4-1000-mbits-network-adapter-sgp-i4",
+    "comments": []
+  },
+  {
+    "name": "Belkin B2B145-BLK Gigabit Ethernet USB Type-C Network Adapter",
+    "price": 22.32,
+    "specs": {
+      "Manufacturer": "Belkin",
+      "Part #": "B2B145-BLK",
+      "Interface": "USB Type-C 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Pkvbt6/belkin-b2b145-blk-usb-type-c-1000-mbits-network-adapter-b2b145-blk",
+    "comments": []
+  },
+  {
+    "name": "D-Link DGE-560T Gigabit Ethernet PCIe x1 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "D-Link",
+      "Part #": "DGE-560T",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/k3zFf7/d-link-dge-560t-gigabit-ethernet-pcie-x1-network-adapter-dge-560t",
+    "comments": []
+  },
+  {
+    "name": "StarTech USB31000S2 Gigabit Ethernet USB Type-A Network Adapter",
+    "price": 23.23,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "USB31000S2",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black / Silver"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/HTLFf7/startech-usb31000s2-gigabit-ethernet-usb-type-a-network-adapter-usb31000s2",
+    "comments": []
+  },
+  {
+    "name": "Intel E1G44ET2 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "E1G44ET2",
+      "Interface": "PCIe x4"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/8r4gXL/intel-wired-network-card-e1g44et2",
+    "comments": []
+  },
+  {
+    "name": "Syba SD-PEX24065 2.5 Gb/s Ethernet PCIe x1 Network Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Syba",
+      "Part #": "SD-PEX24065",
+      "Interface": "PCIe x1",
+      "Color": "Green"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/w8t9TW/syba-sd-pex24065-25-gbs-ethernet-pcie-x1-network-adapter-sd-pex24065",
+    "comments": []
+  }
+]

@@ -1,0 +1,1996 @@
+[
+  {
+    "name": "Gigabyte GC-WBAX210 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 46.99,
+    "specs": {
+      "Manufacturer": "Gigabyte",
+      "Part #": "GC-WBAX210",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1",
+      "Color": "Black / Silver"
+    },
+    "rating": "(10 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/nRM48d/gigabyte-gc-wbax210-80211abgnacax-pcie-x1-wi-fi-adapter-gc-wbax210",
+    "comments": [
+      "This is an amazing Wi-Fi card. It does about 600MBps for me (I have the 1GBps Rogers Wi-Fi plan). The ping isn't that bad if you can get used to it.",
+      "Saved me from using a bluetooth usb that lags lol",
+      "Runs well I think?",
+      "good antenna for great wifi.",
+      "This has the coolest looking antenna for wifi I've ever seen. 5 stars just for that.",
+      "Does its job, and does it fast. Just make sure you put it on the motherboard before the gpu or its going to be a pain to get it in and insert its cables if your too lazy to take out the gpu like me",
+      "No complaints.",
+      "Gets much higher speeds than any of my other devices. Essentially this is just an M.2 Intel AX200 WiFi card connected to a PCIe adapter, with the two little antennas from the M.2 card attached to a thing where you connect the big boy antenna that comes with this. You have to install drivers from the Intel website in order to use the Bluetooth part.",
+      "long ranges",
+      "Install is easy and drivers were installed thru a windows update. Looks great in my new build and works great too"
+    ]
+  },
+  {
+    "name": "Asus PCE-AC68 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 139.0,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AC68\n90IG00R0-BM0G00",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK",
+      "Antenna": "3 x R SMA Antenna",
+      "Features": "Data Rate: AC1750 ultimate AC performance; 450+1300Mbps\n802.11a/b/g/n/ac: downlink up to 1300Mbps, uplink up to 1300Mbps (20/40/80MHz)\nManagement: Wireless configuration\nconnection management\nconnection profile setup\n5th generation 802.11ac chipset gives you dual-band, 2.4GHz/5GHz for up to super-fast 1.30Gbps\nFlexible extended antenna placement helps you pinpoint the best reception in your environment\nInstant Wi-Fi upgrade for your desktop: no more messy Ethernet cables needed\nHigh-power design clears up dead zones with 150% greater coverage\nCustom heatsink dissipates heat for more stable and reliable non-stop operation."
+    },
+    "rating": "(68 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/8VMFf7/asus-wireless-network-card-pceac68",
+    "comments": [
+      "I haven't had to use the WiFi card that much yet because the last time I had my PC set up I had access to Ethernet connection. I snagged this from my grandparents' house because everything in their house is already completely WiFi connected and this was just laying around. It has a little antenna crown with magnets and a foam foot pad, so I can just stick it to the side of my PC case or somewhere magnetizeable and it'll stay securely. This card works nicely. I don't care about having late model WiFi technology and I'd rather just use wired connections, so this fills a niche for me for when I'll need to use it.",
+      "just arrived shortly, will be installed soon !",
+      "Good for getting Internet, for me, personally, it doesn't work at its full potential, but when closer and you can't run an ethernet cable it works amazingly",
+      "Good gets the job done.",
+      "Reused wlan adapter",
+      "Great connection, easy to install. Downloads go crazy fast. I just downloaded the software onto a usb drive from the website since I don't have an optical drive.",
+      "Does great! Although if you're using the Corsair Spec 02 case with a Z390H board, don't use this. The PCIE slots do not line up for this Network adapter to fit properly. I needed to remove (bend outward like a handle actually) one of the guard bars for this adapter to lock into place. Otherwise? I haven't had anything negative about the piece of hardware working! It just doesn't play nicely with my case.",
+      "Absolute let-down. Bought this thinking it was going to give me the max speed on my internet, but to my surprise, it can barely get a signal from the 2.4 band, let alone 5. I ended up using the Intel 9260 adapter that came with the mobo. That worked amazing and gave me my max with full bars on the 5GHz band. This Asus adaptor is now sitting collecting dust in my parts box.",
+      "No drops on WiFi , very small and compacted profile. I use the 3 antennas on the desk with the extra cable and holder that came with it.",
+      "Pretty fast. Fast enough to not bottleneck my ****** internet anyways, so not really a high bar to set."
+    ]
+  },
+  {
+    "name": "Asus PCE-AX3000 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 48.8,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AX3000\n90IG0610-MO0R10",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(11 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/VT2bt6/asus-pce-ax3000-pcie-x1-80211abgnacax-wi-fi-adapter-pce-ax3000",
+    "comments": [
+      "Worked straight out of the box, haven't installed any drivers (although it did come with a CD... in 2024). It requires one cable to plug into one of the USB headers on the motherboard, and it has ketchup and mustard at both ends, so that's why I'm taking a star off. Great speeds, I did a test and got 70mbps download and 19mbps upload, which I think is good.",
+      "Needed a Wi-Fi adapter after one I bought from amazon became a POS and stopped working, and my friend had this he was willing to sell to me for $20 because he bought it thinking he was going to use it. He ended up using ethernet, so he had no use for it.",
+      "Initially I wasn't going to bother with having a wifi/Bluetooth adapter but I had a cordless bluetooth keyboard in my cupboard that I'd always hoped to use. I'm now planning to replace my mouse with a bluetooth version. The current mouse needs a USB dongle to communicate through but one less thing plugged in taking up a USB port is always a good thing. The range of the signal on this card is greater than expected and it was super easy to install.",
+      "Works well. Have a good bandwidth. Bluetooth is reliable. I sometimes use cable connection when i need more speed, but is enough if you are patient with downloads.",
+      "Worked great out of the box! Didn't have any issues with installation",
+      "Does it’s job as advertised. Very reliable and stable connection for me. Just be wary if your gpu has a thick backplate and your putting the card in a pcie slot ABOVE the gpu. Metal-sticky-outtie bit coming from the pcie bracket on the Wi-Fi card may interfere.",
+      "Ok wifi card, but it gets bad signal when under my desk (yes, with the antennas) and it doesn't make it clear that you have to attach a completely separate cable for the bluetooth",
+      "Intel AX200 under the hood.",
+      "It's quick and it was easy to install into the motherboard. But on Windows 11, installing the drivers were a pain. I had to go into Device Manager, look at the hardware ID, and then copy/paste that into a search engine and find a suitable driver. At first I was looking for Asus drivers for the wifi/bluetooth, but it turns out the drivers are all from MediaTek."
+    ]
+  },
+  {
+    "name": "TP-Link Archer TBE550E 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 89.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer TBE550E\nTBE550E",
+      "Protocol": "Wi-Fi 7",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/wJ7MnQ/tp-link-archer-tbe550e-80211abgnacax-pcie-x1-wi-fi-adapter-archer-tbe550e",
+    "comments": [
+      "Fast Wifi Card, Looks nice, Wifi 7 if I ever get a good enough router"
+    ]
+  },
+  {
+    "name": "TP-Link Archer TX3000E 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 31.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer TX3000E",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Red / Black",
+      "Security": "Support 64/128 bit WEP, WPA/WAP2/WPA3, WPA-PSK/WPA2-PSK, 802.1x",
+      "Antenna": "2x High-Gain Dual Band Antennas"
+    },
+    "rating": "(32 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/dBFKHx/tp-link-archer-tx3000e-pcie-x1-80211abgnacax-wi-fi-adapter-archer-tx3000e",
+    "comments": [
+      "I have a 300/100 plan which is dirt cheap where I live. this card gives 250/50 which is basically amazing for my requirements",
+      "A great Wifi adapter at about $35. I got fed up with my old Wifi 4 wireless USB adapter, so I got this one. Though it's feature set is a little older now with only Bluetooth 5.0 and Wifi 6, the features are plenty modern enough for the cost it was at. The antenna base is a huge plus for the extra signal strength, too.",
+      "Good speed, very easy to install.",
+      "Did what I needed to during 2020/COVID era. There were issues with it having worse performance unless I went into CMD and turned off scanning for networks.",
+      "Fast to install, efficient and cheap if you can get it with price discount.",
+      "Internet go brrr. When ethernet isn't an option, it's nice to have a backup.",
+      "Can't run an ethernet so I use this. Works very well with my Wifi 6.",
+      "A fine Network Adapter that gives about 40-50 Mbps.",
+      "Easy installation. Does its job well. Ethernet's always better ofc.",
+      "supports fast speeds for an ok price. Can still hold a stable connection between floors on both 5Ghz and 2.4Ghz. Only downside is that the bluetooth requires a usb port on the motherboard."
+    ]
+  },
+  {
+    "name": "TP-Link TL-WN881ND 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "price": 14.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TL-WN881ND",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "PCIe x1",
+      "Security": "Supports 64/128 WEP, WPA /WPA2/WPA-PSK/WPA2-PSK(TKIP/AES), supports IEEE 802.1X",
+      "Antenna": "2 x 2dBi Detachable Omni Directional (RP-SMA)",
+      "Features": "Wireless Modes: Ad-Hoc / Infrastructure mode\nSystem Requirements: Windows 7(32/64bits), Windows Vista(32/64bits), Windows XP(32/64bits)\nReception Sensitivity: 270M: -68dBm@10% PER\n130M: -68dBm@10% PER\n108M: -73dBm@10% PER\n54M: -73dBm@10% PER\n11M: -89dBm@8% PER\n6M: -87dBm@10% PER\n1M: -90dBm@8% PER\nEIRP: <20dBm\nWireless N speed up to 300Mbps makes it ideal for video streaming, online gaming and Internet calls\n2T2R MIMO delivers greater throughput at range versus conventional 1T1R\nEasily setup a highly secured wireless link with QSS software embedded\nBundled utility provides quick & hassle free installation."
+    },
+    "rating": "(196 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/Chh9TW/tp-link-wireless-network-card-tlwn881nd",
+    "comments": [
+      "Works for slow connections.",
+      "cheap WiFi card, yes, but please buy something better. ive had replace this card twice now in my current system.",
+      "works does speed, caught under my GPU so i'm using Ethernet now and it is much better",
+      "Can be very unstable sometimes but for this price it’s ok",
+      "Cheap and easy solution, especially if you have not the fastest WiFi speed",
+      "No UTP cable, no problem. It is a bit old but still serves me well. With 4k online video though an upgrade is imminent.",
+      "I lost the antennae but it still picks up a perfect signal from downstairs, 10/10.\nAlso looks great vertically mounted.",
+      "Wasn't much of a problem for my wifi at first, only being at 50Mbps, but now I got a new router setup and it refuses to function for it so I have to use a further away one. Probably buy a better slightly more expensive card that's better.",
+      "My room is on the second floor and my router is on the main floor. Rather than attempting to drop an ethernet cable downstairs I spent the extra $20 for a WiFi card.",
+      "Seemed to work fine. It's not the fastest speed, but if you don't need crazy speeds then it's all you need."
+    ]
+  },
+  {
+    "name": "TP-Link ARCHER T2U PLUS 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 14.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "ARCHER T2U PLUS",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 2.0",
+      "Color": "Black"
+    },
+    "rating": "(20 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/3YndnQ/tp-link-archer-t2u-plus-usb-20-wi-fi-adapter-archer-t2u-plus",
+    "comments": [
+      "Slow (3-5MBps), might just be my wifi though",
+      "didn't work too well for me but it might for other people",
+      "Does wifi well.",
+      "Keeps a stable and somewhat fast connection. Not the most durable thing in the world, as I've already broken 2 just by light bumps.",
+      "Fast, downloads about 15 mb/s",
+      "No issues with speed or connectivity.",
+      "It's okay. It does the job better than the little USB adapters. I would recommend a WiFi card over a dongle any day though.",
+      "Does wifi well.",
+      "Adapter works fine, strong signal.",
+      "This is a piece of trash, DO NOT BUY. GO FOR A HIGHER END ONE. YOUR PING AND PACKET LOSS WILL THANK YOU."
+    ]
+  },
+  {
+    "name": "TP-Link Archer TX55E 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 29.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer TX55E",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Security": "Support 64/128 bit WEP, WPA/WAP2/WPA3, WPA-PSK/WPA2-PSK, 802.1x",
+      "Antenna": "Two High-Gain Dual Band Antennas"
+    },
+    "rating": "(14 Ratings, 4.4 Average)",
+    "link": "https://pcpartpicker.com/product/CTcG3C/tp-link-archer-tx55e-80211abgnacax-pcie-x1-wi-fi-adapter-archer-tx55e",
+    "comments": [
+      "Don't have an Optical Drive to install the drivers. Good Wifi Card though.",
+      "Good wifi adapter, but be wary of the antennas getting loose.",
+      "I actually really enjoy this wifi card. Especially because it comes with bluetooth capabilities. The only downside to this card is that the bluetooth capabilities require a USB2.0 header on the motherboard. In my case it only had one which i used for bluetooth. Overall though, very nice experience.",
+      "Pretty good Wi-Fi card. Got it mainly so I didn't have to run an Ethernet cable to my computer. I got it on sale for $30, and it's an insanely good card for that price. Wi-Fi is fast, and the Bluetooth mostly just works with my Anker Soundcore Bluetooth speaker, except in Forza Horizon 4 where it just says screw your Bluetooth audio. Not sure if it's a driver issue, a Forza Horizon 4 issue, or something else. But other than that, no issues. :)",
+      "connects easily but as i said have no way to connect it to the motrherboard:(",
+      "it does wifi stuff",
+      "Good wifi card from TP link.",
+      "this worked really well, as soon as i plugged it in, it worked like a charm giving me around ~350 mbps and has low latency which is really useful for games that require fast speeds to be able to play normally.\ndrivers were also easy to setup and i haven't had any issues so far.",
+      "It's fine",
+      "Needed to install drivers to get it working on Windows 10, but not on Ubuntu 22.04. Connecting to a 5Ghz network for the first time in Windows was kinda wonky and required multiple attempts before it finally started working fine. Also the Bluetooth requires plugging a cable from the card into a USB 2 header on your motherboard!"
+    ]
+  },
+  {
+    "name": "TP-Link ArcherTX20E 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 29.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "ArcherTX20E",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/LW9wrH/tp-link-archertx20e-80211abgnacax-pcie-x1-wi-fi-adapter-archertx20e",
+    "comments": [
+      "Got this for the bluetooth capabilities and thought why not get wi-fi as well. Works great, but make sure you have a compatible USB header on your motherboard.",
+      "Wasn’t supposed to include this but it does the job very well."
+    ]
+  },
+  {
+    "name": "Intel AX210 802.11a/b/g/n/ac/ax M.2 Wi-Fi Adapter",
+    "price": 16.69,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "AX210.NGWG.NV",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "M.2 PCIe",
+      "Color": "Green",
+      "Antenna": "2x2"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/4nkWGX/intel-ax210-80211abgnacax-m2-wi-fi-adapter-ax210ngwgnv",
+    "comments": [
+      "It's a WiFi 6E M.2 card, does its job well and it works right out the box with no need for manual driver installation."
+    ]
+  },
+  {
+    "name": "TP-Link TL-WN725N 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "price": 9.91,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TL-WN725N",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "USB Type-A 2.0",
+      "Security": "64/128 WEP, WPA/WPA2, WPA-PSK/WPA2-PSK (TKIP/AES), supports IEEE 802.1X",
+      "Antenna": "Internal Antenna",
+      "Features": "Wireless Modes: Ad-Hoc / Infrastructure mode\nWireless N speed up to 150Mbps\n14-language utility and auto run CD\nSupports WMM (Wi-Fi Multimedia) Standard for better streaming of real-time data such as Video, Music, Video Chat\nSupports software-based WPS\nSupports Soft AP function for Wireless Internet Sharing\nSupports Sony PSP X-Link for lag-free online gaming for Windows XP."
+    },
+    "rating": "(59 Ratings, 3.6 Average)",
+    "link": "https://pcpartpicker.com/product/wQmLrH/tp-link-wireless-network-card-tlwn725n",
+    "comments": [
+      "Cheap, low profile and good for my phone hotspot. No it's not fast and lacks 5ghz, but look at it for what it offers in terms of value and space. Completely Plug and Play too.",
+      "I mean it works but it isn't fast. I have 1 Gbps internet and this pulls in 20 Mbps while my laptop in the same location pulls in nearly 500 Mbps.",
+      "This is not good at all its only 2.4ghz which is a bummer I actually ordered an off brand on from amazon that was 5 ghz but that still didnt cut it so i just got an ethernet cable.",
+      "weak signal",
+      "Not the fastest but faster than the built in wifi, easy to install.",
+      "slow",
+      "Works as intended. You do need to download a driver for it though.",
+      "It works...\n                                          ...ish.",
+      "good for the price but not very fast if you can get a faster one or even go ethernet",
+      "Used this to update mobo drivers for ethernet to work, works well!"
+    ]
+  },
+  {
+    "name": "MSI HERALD-BE WIFI 7 MAX 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 49.99,
+    "specs": {
+      "Manufacturer": "MSI",
+      "Part #": "HERALD-BE WIFI 7 MAX",
+      "Protocol": "Wi-Fi 7",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/nvHqqs/msi-herald-be-wifi-7-max-80211abgnacax-pcie-x1-wi-fi-adapter-herald-be-wifi-7-max",
+    "comments": []
+  },
+  {
+    "name": "Intel Killer AX1675 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 48.99,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "AX210.D2WG.NVXC",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/ynjRsY/intel-killer-ax1675-80211abgnacax-pcie-x1-wi-fi-adapter-ax210d2wgnvxc",
+    "comments": []
+  },
+  {
+    "name": "TP-Link Archer TX50E 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 58.49,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer TX50E",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(42 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/Czdrxr/tp-link-archer-tx50e-pcie-x1-80211abgnacax-wi-fi-adapter-archer-tx50e",
+    "comments": [
+      "Had some Bluetooth problems",
+      "A super reliable card. I upgraded from the TP-Link TL-WN781ND, which only gave speeds up to around 100 mbps, which is still amazing for only $16 AUD. This can push almost to 400 mbps over WiFi. Pretty good! It also has Bluetooth which is good for my Xbox controller.",
+      "Nothing too noticeable, a solid adaptor that does the job. Sticks might get a little loose and you will have to twist them, Lefty loosy, right tighty.",
+      "Cable may come loose so be careful when installing it.",
+      "I DONT LAG ANYMORE, Amazing connectivity and bluetooth.",
+      "Runs ok, it's alright. BT is a struggle to get working, though.",
+      "The second additional purchase for my pc was this. I use Bluetooth for both speakers and headphones and it works fine. -fast speeds -low price",
+      "This card is mich faster and stronger than integrated motherboard wi-fi with zero drop-outs through 2+ walls! However it does require a usb 2.0 header on your motherboard.",
+      "The worst experience of this build. I didnt have a disc drive so I thought I was screwed, but the manual said just go to this support link and download the installation drivers. So I thought sweet its doable. Little did I know that their installation drivers are broken so I spend hours trying to figure out the problem. It wasn't my PC, it wasn't my Internet connection, it wasn't anything I did wrong. 4hrs later I finally found someone who had posted and advised to just go to the Intel website and download the Wi-fi installation drivers there. Once I did that and restarted my PC, my Wi-Fi was working.",
+      "It's decent. The signal strength is good, the response times are quick, and the added heatsink is a nice touch. It works really well about 99% of the time, but under really heavy use like moving large amounts of files across a wlan, it'll shut itself down."
+    ]
+  },
+  {
+    "name": "Asus PCE-BE92BT 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 89.0,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-BE92BT",
+      "Protocol": "Wi-Fi 7",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/n77scf/asus-pce-be92bt-80211abgnacax-pcie-x1-wi-fi-adapter-pce-be92bt",
+    "comments": []
+  },
+  {
+    "name": "TP-Link Archer T3U Plus 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 19.98,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T3U Plus",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Security": "WEP, WPA/WPA2, WPA-PSK/WPA2-PSK",
+      "Antenna": "1 External High Gain Antenna"
+    },
+    "rating": "(6 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/wsTzK8/tp-link-archer-t3u-plus-80211abgnac-usb-type-a-wi-fi-adapter-archer-t3u-plus",
+    "comments": [
+      "Does what it’s supposed to",
+      "Does what it’s supposed to do",
+      "Good Price, works when you need it!",
+      "Reasonable Wi-Fi 5 dongle for the price.",
+      "Had to get an adapter since this computer would be used upstairs and cannot have access to an ethernet cable.",
+      "Just does its job"
+    ]
+  },
+  {
+    "name": "TP-Link Archer T4E 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 19.98,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Model": "Archer T4E",
+      "Part #": "AA528899\nArcher T4E",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Security": "Support 64/128 bit WEP, WPA/WAP2, WPA-PSK/WPA2-PSK, 802.1x",
+      "Antenna": "2 Dual Band Detachable Antennas"
+    },
+    "rating": "(37 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/kz8j4D/tp-link-archer-t4e-pcie-x1-wi-fi-adapter-aa528899",
+    "comments": [
+      "This has been my go-to wireless NIC for ages. They're still cheap and they've worked for me without issue.",
+      "Piece of garbage, but decent enough that I haven't needed to upgrade yet. Spend more and get a wifi 6 unit.",
+      "One of the antenna screws came a little lose but it still works fine, no complaints.",
+      "By far, the worst experience of the build. This card works fine, the problem is the drivers. The TP-Link drivers on the website are terrible, I was getting massive ping spikes every 20 seconds, and it got to a point where my PC would just BSOD before I could log in. I tried everything. So basically I just had to install different drivers. I think this card runs on a Realtek 8812AE chipset, so I just installed the drivers for it. When using the application, windows will automatically assume that TP-link's drivers are the best one, so you have to manually select the correct driver and installed it. Worked perfectly after doing this. My ping is only a bit worse, but worth it considering I can actually play games now.",
+      "Can be abit annoying to install under a gpu and doesn't have the greatest connection but if your just looking for cheap internet a great choice",
+      "Range is not great.",
+      "Does what it needs to do, but also doesn't support 5GHz, so keep that in mind",
+      "Worked fine for a month and then broke when I took it out of the pcie slot. Just use an Ethernet wall adapter.",
+      "The range isn't brilliant and the connection to my 60MB/s Wi-Fi is very unstable, fine for web browsing and downloading files however when attempting to play FPS games the ping ranges from 100-300. Wouldn't recommend for serious gamers.",
+      "i really don't like it, even if my wifi is slow, this thing makes it even slower, making my online games almost or totally unplayable"
+    ]
+  },
+  {
+    "name": "EDUP EP-9651 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 26.95,
+    "specs": {
+      "Manufacturer": "EDUP",
+      "Model": "EP-9651",
+      "Part #": "EP-EP9651\nEP-9651",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1",
+      "Color": "Blue / Black"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/7NXJ7P/edup-ep-9651-80211abgnacax-pcie-x1-wi-fi-adapter-ep-ep9651",
+    "comments": [
+      "Great speeds at 990+ Mbps and the bluetooth has no connection issues so far. Will update this as time goes on. The router is in the same room as the desktop sits in.",
+      "I was really suprised by this little card, both wifi and bluetooth are really good for when you have to use them. If you have the extra budget wiggle room and a free pcie slot i would definitely recommend it. Drivers work perfectly on linux too, I even use wifi for installation because of how good intel linux wifi driver support is for this chip. 100/10, would absolutely recommend.\nIf anyone needs it, heres the chipset info / driver downloads: https://www.intel.com/content/www/us/en/products/sku/204836/intel-wifi-6e-ax210-gig/downloads.html or https://www.google.com/search?q=intel+ax210+wifi+driver"
+    ]
+  },
+  {
+    "name": "Asus PCE-AX1800 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 29.99,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AX1800\n90IG07A0-MO0B00",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Black",
+      "Antenna": "2x2"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/6MjBD3/asus-pce-ax1800-80211abgnacax-pcie-x1-wi-fi-adapter-pce-ax1800",
+    "comments": []
+  },
+  {
+    "name": "EDUP EP-9636GS-BL 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "EDUP",
+      "Part #": "EP-9636GS-BL",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(5 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/zQqPxr/edup-ep-9636gs-bl-pcie-x1-80211abgnacax-wi-fi-adapter-ep-9636gs-bl",
+    "comments": [
+      "This piece of dog was a waste of money. The website to download the drivers was sketchy and weird. Plus, on here it says the model is 9636, but on the Amazon link it's 9655S and on the box itself it's 9658 :I. The Wi-Fi did not work out of the box even tho others say you didnt have to download drivers for Wi-Fi. Tho, I'm not 100% sure if that's just because I had Windows 11 since on the card it says wind 10 and 11 but then on Amazon says Windows 10?",
+      "Requires a usb header for bluetooth to work which I didn't have so I can't use it. Wifi works great. You also need to manually install a driver for this. It won't work without it in windows 11.",
+      "I've used this card in three build so far. Brilliant little Wi-Fi 6 card, and with bluetooth, all at a decent price. What more could I ask for. The bluetooth is finicky, but reseting the drivers and disabling anything that conflicts with them should fix that. Bummer they don't work out for some, but for me all three I've built have worked flawlessly so far.",
+      "I couldn't plug in the bluetooth functionality but the WiFi still worked without that.",
+      "I couldn't find the exact model of WIFI (very similar) card, however its great in performance."
+    ]
+  },
+  {
+    "name": "TP-Link Archer TX20U plus 802.11a/b/g/n/ac/ax USB Type-A Wi-Fi Adapter",
+    "price": 34.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer TX20U plus",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Security": "WEP, WPA/WPA2/WPA3, WPA-PSK/WPA2-PSK",
+      "Antenna": "2× High-Gain Dual-Band Antennas"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Cs2WGX/tp-link-archer-tx20u-plus-80211abgnacax-usb-type-a-wi-fi-adapter-archer-tx20u-plus",
+    "comments": [
+      "It works, good range, easy placement thanks to USB. But consider a WiFi Motherboard or a PCIE card for new builds.",
+      "A great adapter for what my stepdad paid. It does well and game downloads are quick and efficient."
+    ]
+  },
+  {
+    "name": "Asus PCE-AX58BT 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 50.6,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AX58BT\n90IG0610-MO0R00",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(10 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/kCzFf7/asus-pce-ax58bt-pcie-x1-wi-fi-adapter-pce-ax58bt",
+    "comments": [
+      "Bluetooth and Wifi in one. No complaints other than that it is getting older and doesn't support Wifi6e or 7. It wasn't designed to do that of course, so all good if those specs are within your operating scope.",
+      "Ping spikes up randomly, I guess that comes with wireless internet, but its fine 90% of the time.",
+      "It's a fast Wifi card. The Bluetooth works and the magnetic stand sits firmly on top of my case.",
+      "I like this card. I gets the job done. It looks really good for a network card. Definitely recommend for budget Intel build with wireless WiFi.",
+      "Its wifi 6. Not sure what else to add.",
+      "Dig this, easy install, picked up right away on first boot up, downloaded what I needed to, plugged the cable in for Bluetooth, loaded up, got the drivers and WiFi works a charm, keep it plugged in as a back up in case my cable fails for any reason. Decent price too for a Bluetooth+2.5Gb WiFi card.",
+      "Works great, my internet is fast with no interruptions. (WiFi 6 is quite nice)",
+      "If you have an ax router and jumping into wifi 6, you'll want this card... more than likely, your stock mobo wifi card wont support ax.",
+      "Fast speeds, not much else you can ask for.",
+      "Had a few troubles with this PCIe card, haven't really got the advertised speeds I was looking for, but still faster than my old solution, don't use the software included if you have onboard wifi on your motherboard, you will have to do it manually. At least the card fits in with my build with it's black heatsinks and I appreciate the different antenna's it includes."
+    ]
+  },
+  {
+    "name": "TP-Link Archer TXE72E 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 39.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer TXE72E",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1",
+      "Security": "WEP, WPA/WPA2/WPA3, WPA-PSK/WPA2-PSK",
+      "Antenna": "2× High-Gain Tri-Band Antennas"
+    },
+    "rating": "(3 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/MJLFf7/tp-link-archer-txe72e-80211abgnacax-pcie-x1-wi-fi-adapter-archer-txe72e",
+    "comments": [
+      "Bought this last year because my college had a wifi 6 network. Pretty fast, but these days would make sense to buy a WIFI-7 card.",
+      "Fast Wifi\nGood Bluetooth\nWorth the Price",
+      "This is a great WiFi card. Unfortunately, it's listed as a WiFi 6 part here on PCPartPicker instead of a WiFi 6E card. WiFi 6 uses the AX200 chipset and this one has the AX210 chipset, making it WiFi 6E."
+    ]
+  },
+  {
+    "name": "Ziyituod ZYT-AX210S 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 26.9,
+    "specs": {
+      "Manufacturer": "Ziyituod",
+      "Part #": "ZYT-AX210S",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1",
+      "Color": "Red"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/NQ8bt6/ziyituod-zyt-ax210s-80211abgnacax-pcie-x1-wi-fi-adapter-zyt-ax210s",
+    "comments": []
+  },
+  {
+    "name": "Asus USB-AC56 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "USB-AC56\n90IG00A0-BM0N00",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPS support",
+      "Antenna": "Internal 2 dBi PCB antenna x 2<br/>External dipole antenna x 1",
+      "Features": "Next-generation 802.11ac Wi-Fi - up to three times faster than 2x2 802.11n adapters\nSelectable 5GHz/2.4GHz dual bands increase signal clarity for better HD multimedia\nAiRadar technology provides a stronger signal over greater distances\nExternal high-gain antenna for 150% stronger Wi-Fi signal\nUSB 3.0 connection for high-performance wireless networking with desktop and notebook PCs."
+    },
+    "rating": "(8 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/dmYXsY/asus-wireless-network-card-usbac56",
+    "comments": [
+      "Pros: Fairly decent wifi adaptor that came with an extension cradle. Con: It's a little big and expensive.",
+      "Never had a bad ASUS product. Had some driver issues with this though, apparently Windows 10 update(s) broke the driver, so you have to manually install a Realtek driver to fix it. But that's Windows' fault, not ASUS.",
+      "Been able to get quite a bit more out of my internet with this. Comes with it's own cradle so you don't have to have the stick sticking out the back or front of you PC the whole time. Be aware that it can only plug into USB 3.0.",
+      "Woks Wonders! FAST!",
+      "Anyone looking for a USB 3.0 WiFi adapter need look no further. It comes with tons of options for use, and supports the latest WiFi standard. It's effective too, I can stream 4K video without fail.\n4/11/17 - After living with this for about a year, I knocked a star off due to the shortness of the cable for the base/stand. It is rigid and quite short, which limits your ability to position it. Still a very good unit."
+    ]
+  },
+  {
+    "name": "TP-Link ARCHER T2E 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 14.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "ARCHER T2E",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Security": "WEP, WPA/WPA2/WPA3, WPA-PSK/WPA2-PSK/WPA3-SAE",
+      "Antenna": "1 Detachable External Antenna"
+    },
+    "rating": "(10 Ratings, 4.4 Average)",
+    "link": "https://pcpartpicker.com/product/xsxRsY/tp-link-archer-t2e-80211abgnac-pcie-x1-wi-fi-adapter-archer-t2e",
+    "comments": [
+      "Good card for WiFi 5, no complaints.",
+      "I don't think I'll buy another one of these since I can get something a little cheaper from AliExpress, but it works great out of the box.",
+      "Speeds fluctuate and are incredibly inconsistently under 30mbps until you go on a snoopy subplot adventure to find the drivers for it online. Once you do that, the change is pretty darastic but still not too good. 100-130mbps becomes a new max but it throttles hard randomly.\nEDIT: After about a month and swapping the card to a new build, even reinstalling drivers (a fix that I would have to preform regularly) doesn't fix speed issues. It caps out at 20mbps now. I'm left USB teethering internet off my phone until I find another wifi card.",
+      "Cheap little NIC, great WiFi 5 speeds and comes with a low-profile bracket, though i didn't use it.",
+      "Didn't fit in my case all too well. Does support Linux out of the box and WiFi 5 speeds",
+      "meh decent wifi 5 card. good range tho. max speeds I got with my wifi 6 router is like 250 up and down. the router was 4 yards away. i have 500 Mbps wifi and seen better wifi 5 cards. good value tho if you just need something.",
+      "Plugged it in and it worked perfectly without having to install any drivers. But I would recommend going to the TP-Link website and downloading the drivers for it anyway, since it boosted speeds for me. I got around 200mbps download, and around 50 mbps upload I believe, with the wifi router in the other room.",
+      "Pour visionner des vidéos en 1080p, suffisant.",
+      "Kind of expected it to bottleneck the internet but was surprised when it didn't do that at all! Works great and amazing for the price.",
+      "Very nice little wifi PCIe card that gets the job done"
+    ]
+  },
+  {
+    "name": "StarTech USB150WN1X1 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "price": 9.32,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "USB150WN1X1",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "USB Type-A 2.0",
+      "Security": "WEP/WPA/TKIP/AES/WPS",
+      "Antenna": "Internal Antenna",
+      "Operating Range": "Indoor: Up to 100m, Outdoor: Up to 300m",
+      "Features": "Chipset ID: Realtek RTL8188SU\nEnclosure Type: Plastic\nAntenna Configuration: 1x1:1 (TxR:S)\nColor: Black\nFull Duplex Support: Yes\nBackward compatible with IEEE 802.11b/g standards, for up to 11/54Mbps connections respectively\nWi-Fi Protected Setup (WPS) push button or software configuration\nInfrastructure and Ad-Hoc network modes support"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/994gXL/startech-wireless-network-card-usb150wn1x1",
+    "comments": []
+  },
+  {
+    "name": "Intel AX200 802.11a/b/g/n/ac/ax M.2 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Model": "AX200",
+      "Part #": "AX200.NGWG.DTK",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "M.2"
+    },
+    "rating": "(17 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/MMjBD3/intel-ax200-80211abgnacax-m2-e-wi-fi-adapter-ax200ngwgdtk",
+    "comments": [
+      "Incredible internet speeds - would recommend. Speeds literally 5x from my old laptop.",
+      "Idk if it's my fingers, but it's really difficult for me to latch the antenna bits to the wi-fi card, also me having big fingers may not help. When I thought it's already latched, it just popped off. 40 minutes of my build time were consumed by my attempt at latching the antenna bits, turns out I need to press it firmly in order to secure the latch and hear a click noise. Good wi-fi, and good bluetooth as well, so I guess it's worth the hardship haha.",
+      "Ethernet is not always a possibility so this card has done the job well. It is effective and kept transfer speeds sufficient, about 60% of hardline speed, on the 5ghz channel.",
+      "Wifi and Bluetooth is useable\n(no m.2 screws come with it)",
+      "Easy to install, really fast, nice big antennas so wifi and bluetooth range is great, and it's pretty affordable.",
+      "Work as wanted. The wifi speed is very good",
+      "It works.",
+      "Works just fine. It’s WiFi 6 and Bluetooth, I’ve never experienced any slowness or spotty connection with it so it’s good in my opinion. And it’s a decent price.",
+      "You can get same and higher capability for less money but I stuck with the Intell branding and glad I did.",
+      "It baffles me that any modern motherboard would not have wifi built in! Well if you bought a cheapo Asus board like i did then this is for you."
+    ]
+  },
+  {
+    "name": "Asus PCE-AXE5400 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 49.99,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AXE5400\n90IG07I0-ME0B10",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/44sV3C/asus-pce-axe5400-80211abgnacax-pcie-x1-wi-fi-adapter-pce-axe5400",
+    "comments": []
+  },
+  {
+    "name": "TP-Link TL-WDN4800 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "price": 99.79,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TL-WDN4800",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "PCIe x1",
+      "Security": "64/128 bit WEP, WPA-PSK/WPA2-PSK,802.1x",
+      "Antenna": "3 x 2dBi Omni Directional, Detachable (RP-SMA)",
+      "Features": "Wireless Modes: Ad-Hoc / Infrastructure mode\nAchieves a maximum theoretical throughput of up to 450Mbps\nSeamlessly compatible with 802.11a/b/g/n products\nExperience smoother video streaming and online gaming by choosing the clearer 5GHz band for wireless connections\nBundled utility provides quick & hassle-free installation."
+    },
+    "rating": "(251 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/G4H323/tp-link-wireless-network-card-tlwdn4800",
+    "comments": [
+      "Does what it should, no complaints.",
+      "AMAZING speeds, and (at the time) it was the best bang for the buck! Still, it performs well with wifi-5 after 4 years!",
+      "no complaints",
+      "Good performance, probably won't bottleneck your Wi-Fi router. I get about 100Mbps download and 20Mbps upload, but it's faster than my laptop.",
+      "A well performing WiFi card, I picked this up as my motherboard didn't have on-board WiFi and was pleasantly surprised when it picked up my 5GHz network. I'm very happy with this.",
+      "A little spotty at times, however this thing does the trick. Didn't need anything faster due to our actual router's speed, so it was the best choice.",
+      "HOLY JESUS IF YOU GAME GET THIS WIFI CARD! My wifi's max download speed is 140 mbps, quite decent if I do say so myself. THIS CARD CASUALLY HITS 450 MBPS! There is zero latency between my router and my PC during tests and it literally performs better than the ethernet cord that I tried experimenting with for a while. GET THIS WIFI CARD OH GOD",
+      "Great card, pretty decent range and enough speed for gaming to be not awful on wifi",
+      "small, functions well, good wireless speeds especially compared to a little USB wifi dongle. if you need to use wifi its worth investing into a PCI-e card, and this one isn't bad at all",
+      "TP-Link never fail me. Back in the day I bought one of their cards to put in my Windows XP machine and it served me well for many years. So they were my go to for this build. So far so good."
+    ]
+  },
+  {
+    "name": "Rosewill RNX-N250PCe 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "price": 16.57,
+    "specs": {
+      "Manufacturer": "Rosewill",
+      "Part #": "RNX-N250PCe",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "PCIe x1",
+      "Security": "64/128-bit WEP (802.1X), WPA(TKIP, AES, and 802.1X), WPA2(TKIP, AES, and 802.1X)",
+      "Antenna": "2 x external detachable 5 dBi Antenna",
+      "Features": "Chipset: Realtek RTL8192CE\nComplies with IEEE 802.11b, 802.11g and 802.11n standard for 2.4GHz Wireless LAN\nCompliant with PCI-E Standard\nSupports Windows 2000/XP/2003/Vista/7 and Linux Kernel 2.6.x\nSupports MIMO technology with 2x Transmit and 2x Receive.\nLower power consumption\nEasy installation and configuration\nSupport WPS"
+    },
+    "rating": "(75 Ratings, 4.4 Average)",
+    "link": "https://pcpartpicker.com/product/CG9KHx/rosewill-wireless-network-card-rnxn250pce",
+    "comments": [
+      "it's a wifi adapter and it works, what more could you ask",
+      "Pretty fast.",
+      "Connects to the internet. Remarkable.",
+      "Only gets me 1-2 MBPS through 3 walls and 35 feet where my mac gets 30-45. Will be buying a different one, from ASUS.",
+      "This wifi adapter is good when works. I say this because maybe once or twice a day, I'll randomly lose connection. I get fast internet, so if this was more consistent, It would get 5 stars. Ethernet was unfortunately not an option.",
+      "We didn't have the option for a wired connection, so we needed a wireless connection. not a bad card. Nice and low profile. Been having some moderate issues with wifi dropping. Update: I removed this part from the system because it was causing too much issue. It turns out one of the antenna ports came detached at the board itself. It looks like a press fit, so I've forced it back in and have yet to test it.",
+      "It works and is sometimes faster than a wired connection. Drops are very rare in my experience.",
+      "P.O.S., died after a month.",
+      "Works great right out of the box."
+    ]
+  },
+  {
+    "name": "Asus PCE-AXE58BT 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 59.99,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AXE58BT",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1",
+      "Color": "Black / Gold"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/JDFbt6/asus-pce-axe58bt-80211abgnacax-pcie-x1-wi-fi-adapter-pce-axe58bt",
+    "comments": [
+      "A premium looking card with WiFi 6 and Bluetooth. The aerial is solid, looks decent, and has pretty strong magnets to stick to just about any metal surface."
+    ]
+  },
+  {
+    "name": "Asus PCE-AC56 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 30.99,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AC56\n90IG00K0-BM0000",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPS support",
+      "Antenna": "2 x R SMA Antenna",
+      "Features": "Instant 802.11ac Wi-Fi upgrade for your desktop PC: no more messy Ethernet cables needed.\nNext-generation 802.11ac chipset for super-fast connections up to 867 Mbps\nSelectable dual-band 2.4 GHz/ 5 GHz operation, backwards-compatible with all existing devices\nBroadcom TurboQAM technology gives 33% faster 802.11n performance, with speeds up to 400 Mbps\nHigh-power design reduces wireless dead zones with 150% greater coverage\nSpecially designed heatsink ensures stable and reliable continuous operation"
+    },
+    "rating": "(48 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/bQ8Zxr/asus-wireless-network-card-pceac56",
+    "comments": [
+      "I needed WIFI and since the motherboard did not have onboard WIFI I had resort to a third party solution. I did research and PCIE WIFI cards typically give better results than USB ones do. I still think I overpaid for this but TP Link has burned me in the past. Works fine for what It is.",
+      "Works better than the USB Wifi adapters but I had some trouble with the drivers. I spent quite a while trying to get it to work and ended up needing to avoid downloading drivers for it since I'm using Windows 10.",
+      "I don't really use wifi because I run cat 6 to every room in my house, but it's something I'd rather have and not need than to need and not have. Tested it out on my att fiber optics 1,000mbps internet, was only getting about 300mpbs speeds with the router sitting right next to my pc. With the ethernet hooked into the pc I get 980mbps speeds",
+      "Good reception even through a few walls to the back of the house. I did splurge on this wifi card because it is red and pretty; I could have gotten away with the blue PCB one but due to my current wifi speeds; but my tax refund had come back and felt I had a little extra to burn.",
+      "Very solid wireless network card. The fact the card itself is connected to some coaxial (albeit very small coaxial) style rabbit ears with a magnet for it to stick to the top of cases and such is neat.",
+      "solid connection, supports high speeds",
+      "Works as advertised",
+      "The PCE-AC56 is a very awesome wireless card. It supports up to 1200Mbs Wi-Fi, but I only have 50Mbs, so I can't really test its claims. The Wi-Fi antenna are great and they give me full bars whereas my old card only got two.\nMy only complaint is that it didn't come in a more neutral color such as black, but it is barely noticeable under my GPU.",
+      "This is an amazing card if you can get it to work, I could get it to work on the 2.4GHz network, but the 5GHz wasn't showing up for my router. I contacted ASUS for support, but they said that it was the router at my house. I looked further into it and found out that it is the channel of the 5GHz network that needed to be changed. I changed the networks 5GHz to a different channel through the router settings, and it works perfect now.",
+      "Fast & has very good range for a PCIE card and included magnetic antenna base is a very nice feature"
+    ]
+  },
+  {
+    "name": "Ziyituod ZYT-AX200 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Ziyituod",
+      "Part #": "ZYT-AX200",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Green"
+    },
+    "rating": "(22 Ratings, 4.1 Average)",
+    "link": "https://pcpartpicker.com/product/QDyqqs/ziyituod-zyt-ax200-pcie-x1-80211abgnacax-wi-fi-adapter-zyt-ax200",
+    "comments": [
+      "cannibalized from various scrap",
+      "Great wifi and bluetooth card. I use it to connect my ps4 and ps5 controller. The wifi is also really good and get the same speed as ethernet. Easy installation.",
+      "The only reason I have to get a Wireless adapter as the mobo doesn't have a built in wifi and blue tooth. And its an upgrarde to get wifi 6 for me.",
+      "Can support a wifi connection but really, really struggles with high speeds. At best you'll be getting like 5mb/s with steam downloads. Just use ethernet or invest in a better wifi adapter.",
+      "Its a good WiFi card. It runs well, sometimes it slows down for some reason.\nOne thing is that I had it since April of 2021, and in October of 2022, it completely died, busted, and does not work anymore. I don't know what the reason why it died, but it did after over a year and a half of use. 0 corrosion, 0 outside damage.\nFor anyone thinking on buying a WiFi card, buy a WiFi card that lasts longer, and has warranty. This WiFi card does not have warranty when you first buy it.",
+      "not sure but sometimes it disconnects.",
+      "Cheap WiFi 6 + Bluetooth 5.1 on a solid looking black card. No complaints. Signal strength and speed is very strong.",
+      "Let me start off by saying I didn't think I'd write a review about a WIFI adapter. But hear me out, this thing has an Intel chip in it for $26 and gets me 200mbps on a good day when no one is home while I am a floor above the router. But Windows being Windows TURNS OFF my WIFI for no apparent reason mid-game or just randomly when I'm browsing. I've tried at least 3 different adapters on my system on 2 different motherboards and the Home and Pro version of Windows. It seems as if Windows sucks at managing WIFI traffic, and sadly powerline is out of the question since I only get 20mbps through it. (Must be how my home wiring is set up). For now it is working well, I just can't put my PC to sleep or the same thing will happen again for months until it fixes itself magically one day.",
+      "Pros: Cheap, Wifi 6, comes with screwdriver, drivers are pre-installed (at least for me), easy to install, nice packaging\nCons: antennas can get in the way sometimes, you need to install drivers thru a disk or online if they aren't pre-installed.\nThoughts and opinions: Overall, I recommend this product for anyone looking for a cheap wifi 6 card. No real issues so far besides the antennas getting in the way but it isn't that big of a deal. 4.5/5",
+      "I didnt even have to install the WiFi Driver, only the Bluetooth one"
+    ]
+  },
+  {
+    "name": "Gigabyte GC-WBAX200 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Gigabyte",
+      "Part #": "GC-WBAX200",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Black / Silver"
+    },
+    "rating": "(19 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/z44BD3/gigabyte-gc-wbax200-pcie-x1-80211abgnacax-wi-fi-adapter-gc-wbax200",
+    "comments": [
+      "No complaints. Works great. Antenna is magnetic and can stick onto your PC case.",
+      "Much faster than my old USB WiFi adapter.",
+      "Gave me a strong and stable connection until I eventually switched to ethernet. Good!",
+      "WiFi.",
+      "I used to use a usb wifi adapter that was giving me so many headaches. Now that I got this as a gift I have never experience any network problems. Installation was simple and that goes for the drivers.",
+      "This card, unfortunately, stopped working 2 weeks after I bought it. However, my motherboard has an m.2 e-key slot for wireless chips.",
+      "It works fine most of the time but the Bluetooth drivers don’t really work and I have to reset it every time the pc loses power. Other than that, it’s really fast",
+      "No problems. Wifi speeds seem faster than other devices, but that may be because I built it near the router. Way faster than my internet actually is, so it definitely won’t be a bottleneck. Bluetooth works fine. There’s a USB port on it, but I’m not entirely sure what it’s for. Note that this card plugs into a USB header, so you might want to have a spare one. Haven’t tested if it works without it.",
+      "It works. I barely use it because I prefer wired, but I did get great speeds from this when I used it! Magnetic antenna is a nice feature as well. No problems whatsoever.",
+      "Decent wifi adapter. Worked great for the first two months or so. Had issues with connectivity in the past couple of weeks, but it was mostly a problem on my end. I changed the orientation and standing of the adapter, as well as moved it to a different place. I now consistently get the 5 bars of wifi I need. Works great though, and is easy to install."
+    ]
+  },
+  {
+    "name": "Intel AX210 w/vPro 802.11a/b/g/n/ac/ax M.2 Wi-Fi Adapter",
+    "price": 26.99,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Model": "AX210 w/vPro",
+      "Part #": "AX210.NGWG",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "M.2 PCIe",
+      "Color": "Green",
+      "Antenna": "2x2"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/YHVmP6/intel-ax210-wvpro-80211abgnacax-m2-wi-fi-adapter-ax210ngwg",
+    "comments": []
+  },
+  {
+    "name": "TP-Link Archer T6E AC1300 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 86.83,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Model": "Archer T6E AC1300",
+      "Part #": "Archer T6E",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(51 Ratings, 4.4 Average)",
+    "link": "https://pcpartpicker.com/product/KJfmP6/tp-link-archer-t6e-ac1300-none-wi-fi-adapter-archer-t6e",
+    "comments": [
+      "Good and fast Wi-Fi card",
+      "Does its job perfectly",
+      "Don’t. DO. NOT. I thought getting a pcie card would be a good idea, yk, giving my wifi a direct connection to my mobo. Bad idea. Not only does it have sucky connection and download speeds, it entirely drops the connection for several seconds. I was stalking it on task manager and watched it give up and flop to byte bottom.\nEveryone said “just get a USB adapter” and I thought, “ew no, it’s usb and probably has poor connection.” Absolutely wrong, returned this disappointment of silicon and chose a USB adapter instead for $20 less! It’s cheaper, and offers better performance. I mean honestly leave tp-link out of all your connection needs, they’re an unreliable brand as I’ve also seen in their wifi extenders.",
+      "Incredible connection. I'm always limited by my poor wifi router speeds, as I'm very far away from it. This leaves plenty of room for improvement. Always get a pcie wifi card instead of usb if at all possible.",
+      "am liking it no complains",
+      "Absolute perfection of a wifi card, it is incredibly speedy and gives me a rocket league ping of 14 when it was previously 26",
+      "Was kind of a pain at first because I couldn't figure out the whole drivers thing, I ended up having to download it from the website by plugging in an ethernet cable temporarily. But it's a great adapter, my wifi is fast and I love it!",
+      "It is a great little adapter and is extremely reliable. My only criticism is the fact that you need an internet connection to download the driver to use the Wifi card, which is a major oversight on the manufacturer's behalf.",
+      "Works perfect. Can't get ethernet in my room so this will do.",
+      "Not as significant an upgrade over USB adapters as I would've expected. Slightly longer range and more stable connection, but several dollars more expensive than good USB adapters. Either way, it's a great adapter and serves its purpose perfectly. I'd definitely go WiFi 6 nowadays, but WiFi 5 is still fine."
+    ]
+  },
+  {
+    "name": "Netgear Nighthawk AXE3000 802.11a/b/g/n/ac/ax USB Type-A Wi-Fi Adapter",
+    "price": 61.99,
+    "specs": {
+      "Manufacturer": "Netgear",
+      "Part #": "A8000100PAS",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/gjjBD3/netgear-nighthawk-axe3000-80211abgnacax-usb-type-a-wi-fi-adapter-a8000100pas",
+    "comments": []
+  },
+  {
+    "name": "TP-Link Archer T2UB Nano 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 17.98,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T2UB Nano",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 2.0",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/Whstt6/tp-link-archer-t2ub-nano-80211abgnac-usb-type-a-wi-fi-adapter-archer-t2ub-nano",
+    "comments": [
+      "i have Wi-Fi and Bluetooth now a bit expensive though"
+    ]
+  },
+  {
+    "name": "Intel AX200.NGWG.NV 802.11a/b/g/n/ac/ax M.2 Wi-Fi Adapter",
+    "price": 29.99,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "AX200.NGWG.NV",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "M.2"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/XWwkcf/intel-ax200ngwgnv-80211abgnacax-m2-wi-fi-adapter-ax200ngwgnv",
+    "comments": []
+  },
+  {
+    "name": "TP-Link Archer TXE75E 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 49.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer TXE75E",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1",
+      "Security": "WEP, WPA/WPA2/WPA3, WPA-PSK/WPA2-PSK",
+      "Antenna": "2× High-Gain Tri-Band Antennas"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/nqvdnQ/tp-link-archer-txe75e-80211abgnacax-pcie-x1-wi-fi-adapter-archer-txe75e",
+    "comments": [
+      "really fast connection 300 mbps on steam and before that i was running an ethernet adaptor because my router was not close to my pc and was getting 20 mbps max. I wish i upgraded before that.",
+      "This thing connects me to my network insanely fast, havent had any problems with it."
+    ]
+  },
+  {
+    "name": "MSI HERALD-BE NCM865 WI-FI 7 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 49.99,
+    "specs": {
+      "Manufacturer": "MSI",
+      "Part #": "HERALD-BE NCM865 WI-FI 7",
+      "Protocol": "Wi-Fi 7",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/zNwmP6/msi-herald-be-ncm865-wi-fi-7-80211abgnacax-pcie-x1-wi-fi-adapter-herald-be-ncm865-wi-fi-7",
+    "comments": [
+      "Zippy little wifi chip, easy to install."
+    ]
+  },
+  {
+    "name": "TP-Link Archer T3U 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 19.98,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T3U",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "(16 Ratings, 4.4 Average)",
+    "link": "https://pcpartpicker.com/product/WzBTwP/tp-link-archer-t3u-usb-30-wi-fi-adapter-archer-t3u",
+    "comments": [
+      "It works (unlike some others I tried...).",
+      "Had to use this for my Lenovo laptop many months ago (when I demolished the Wi-Fi antenna connector because I was an idiot), and then delegated it to this PC. No complaints, works fine, although I only get about 70mbps out of my house's 940mbps. Think it may just be an issue with where my room is though, so not blaming the adapter for that.",
+      "Had a left over TP-Link WiFi usb, and just decided to prop it in in case my ethernet cable dies.",
+      "The bottleneck. Usually I can get good ping, but there has been rubber banding.",
+      "I'm not sure how good this is since my WiFi sucks but seems to keep up with it, not like that's hard.\nEdit: So its been a little while and it's acting weird. I first noticed that when I tried to join game servers it would connect but would timeout about 10-15 seconds later. I'm not sure why but it just stops working for like 20-30 second intervals randomly, then it all the sudden starts working again. Only taking two stars off because it worked perfectly for a few months but then broke.",
+      "I used to have a pcie x1 wifi card, but since getting a GPU i was unable to have both installed at the same time. This is alright for the money, although you have to be careful where you put it. If I connect it to the motherboard IO at the back of my case, the Wifi doesn't really reach very well (since I have a corner desk), so I've had to attach it via front/top IO instead. Comes with a disc with drivers on that I do recommend installing - unsure how out of date the disc is though, so it's worth updating after install.\nIt's small and not ugly. My only complaint is that wifi tends to drop out quite a bit sometimes.",
+      "It gives me Wi-Fi and that’s about it.",
+      "Great connectivity 24/7.",
+      "cool",
+      "Great affordable wireless AC adapter."
+    ]
+  },
+  {
+    "name": "Cudy WE3000 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Cudy",
+      "Part #": "WE3000",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/h7V2FT/cudy-we3000-80211abgnacax-pcie-x1-wi-fi-adapter-we3000",
+    "comments": []
+  },
+  {
+    "name": "TP-Link TL-WN781ND 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TL-WN781ND",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "PCIe x1",
+      "Security": "64/128-Bit WEP, WPA, WPA2",
+      "Antenna": "External Antenna",
+      "Features": "Adopts Align technology\nSupports QSS function, complying with WPS for worry free wireless security\nSupports 64/128/152-bit WEP, WPA /WPA2/WPA-PSK/WPA2-PSK(TKIP/AES), supports IEEE 802.1X\nSupports roaming technology, guaranteeing uninterrupted wireless connection\nSupports Ad-Hoc/Infrastructure modes"
+    },
+    "rating": "(45 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/sN8Zxr/tp-link-wireless-network-card-tlwn781nd",
+    "comments": [
+      "no",
+      "Fast enough for us. Speed test givess 40MBit/s down and 15MB/s up, same numbers as what I get on a Thinkpad laptop. It is probably connection-limited. No issues with dropped connection.",
+      "slightly better than their USB one but still really bad, my laptop could get 4 bars in my room but this adapter just resets itself whenever i connect to my home network, honestly if you have a samsung phone with OneUI then USB tether off that, only keeping this in my system cos i havent decided on getting a capture card, bluetooth card or USB C card",
+      "Tends to disconnect after continuous usage, and in that situation only restarting the PC solves the problem.",
+      "Reasonably priced only at $9.99 or less - anything more than that isn't advised as it only supports up to 150Mbps which means it's not capable of modern broadband speeds, nevermind for NAS on a wLAN. The TL-WN881ND is still suspect at $14.99 for 300Mbps, especially considering that you can get the 1200Mbps H50193 for $19.99, while the either the WIE7265 or WIE8260 offer that and Bluetooth 4.2 besides for $10 more.",
+      "It's doing what it's supposed to\nGood price\nEasy to install, working out of the box.\nSignal is decent.\nDoesn't need any extra drivers.",
+      "Windows 10 recognized it during installation. Rock stable. Speed is enough for me, but not outstanding. It has green PCB, but as small as it can be. Not too bothering visually in my black-grey color scheme (see pictures). Its good budget option, I recommend it for sure",
+      "Works well so far! didn't even need to install drivers!",
+      "Great wireless card, very easy to install. I did take one star off not because of the speed, but because the range was a bit on the bad side but other than that it's a great card and is pretty fast.",
+      "Works fine, don't expect more than 100 Mbps."
+    ]
+  },
+  {
+    "name": "Gigabyte GC-WB1733D-I 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 58.64,
+    "specs": {
+      "Manufacturer": "Gigabyte",
+      "Part #": "GC-WB1733D-I",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(5 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/j9m323/gigabyte-gc-wb1733d-i-none-wi-fi-adapter-gc-wb1733d-i",
+    "comments": [
+      "internet is a bit slow",
+      "Works just as expected. Easy to install, connected to the WiFi on the first try. Also has a magnetic stand so that I can stick it to the top of my PC case. To be very nit-picky, the build quality of the stand could be a bit better, but I got it for only $59 so I ain't complaining.",
+      "Wifi is a little slow, but expected. Hoping to use ethernet at some point instead, but this is fine for now as it does the job. Allows me to use bluetooth which is pretty awesome. Super straightforward installing onto the mobo and didn't need any to manually add any drivers for it to function.",
+      "had this thing for years, never had a problem. fast and stable connection, good BT too.",
+      "Good for those if your modem isn't too far from your PC. No complaints about the bluetooth function either, it works beautifully."
+    ]
+  },
+  {
+    "name": "Linksys AE3000-NP 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Linksys",
+      "Part #": "AE3000-NP",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "USB Type-A 2.0",
+      "Security": "64/128-Bit WEP, WPA, WPA2",
+      "Antenna": "3 x Internal Antenna",
+      "Features": "Leading Wireless-N technology for top performance and range\nMaximum speed (up to 450 Mbps) for fast wireless transfer rates\nMaximum range with a full antenna array\nDual-Band to help avoid interference and maximize throughput"
+    },
+    "rating": "(2 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/MZV48d/linksys-wireless-network-card-ae3000np",
+    "comments": [
+      "Works as advertised, gets a bit warm after long use."
+    ]
+  },
+  {
+    "name": "TP-Link Archer T2UH 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 109.95,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Model": "Archer T2UH",
+      "Part #": "ARCHER T2UH",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 2.0",
+      "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK, 802.1x",
+      "Antenna": "Detachable Omni Directional (RP-SMA)",
+      "Features": "High gain external antenna brings better performance than conventional internal antenna\nSupports the 802.11ac standard- The next generation of Wi-Fi\nDual Band connections for lag-free HD video streaming and online gaming\nMaximum speed up to 5GHz 433Mbps or 2.4GHz 150Mbps\nBackward compatible with 802.11 a/b/g/n products\nEasy Wireless Configuration Utility\nEasy wireless security encryption at a push of the WPS button\nSupports ad-hoc and infrastructure mode\nSupports Windows 8.1/8/7/XP 32/64bit"
+    },
+    "rating": "(3 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/YWX2FT/tp-link-archer-t2uh-none-wi-fi-adapter-archer-t2uh",
+    "comments": [
+      "ehh",
+      "plug and play",
+      "Works perfectly so far but I’m not sure if it was worth the $31 dollars on amazon (including tax) especially since my internet caps at 22 mb/s download speeds while this network adapter from what I hear is capable of 100mb+ download speeds."
+    ]
+  },
+  {
+    "name": "MSI AX905C 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 34.99,
+    "specs": {
+      "Manufacturer": "MSI",
+      "Part #": "AX905C",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/FsNgXL/msi-ax905c-pcie-x1-80211abgnacax-wi-fi-adapter-ax905c",
+    "comments": [
+      "Can't go wrong with Intel WiFi 6. Liked the magnetic antenna. Agree with other reviewer - try Intel Driver & Support Assistant for your drivers."
+    ]
+  },
+  {
+    "name": "Asus USB-AX55 Nano 802.11a/b/g/n/ac/ax USB Type-A Wi-Fi Adapter",
+    "price": 39.99,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "USB-AX55 Nano",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "USB Type-A 2.0",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/TcddnQ/asus-usb-ax55-nano-80211abgnacax-usb-type-a-wi-fi-adapter-usb-ax55-nano",
+    "comments": []
+  },
+  {
+    "name": "Netgear Nighthawk AC1900 A7000-10000S 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 84.99,
+    "specs": {
+      "Manufacturer": "Netgear",
+      "Model": "Nighthawk AC1900 A7000-10000S",
+      "Part #": "A7000-10000S",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "(3 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/fBCD4D/netgear-nighthawk-ac1900-a7000-10000s-usb-30-80211abgnac-wi-fi-adapter-a7000-10000s",
+    "comments": [
+      "This thing. Pain. Somedays, it just doesn't connect to 5G. And then boom, it does. Bruh. For $100! .It's alright. When it does connect to 5G, it's great.",
+      "This thing is awesome. I get ethernet level performance in games and my downloads are just as quick. just be aware that you need drivers for this thing to work. not a big deal if you keep them on a USB for after you set up your pc",
+      "Since I do not have ethernet in my office at the moment, this wifi adapter will work flawlessly until I get some."
+    ]
+  },
+  {
+    "name": "Ubit AX210 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Ubit",
+      "Part #": "AX210",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(2 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/69qPxr/ubit-ax210-80211abgnacax-pcie-x1-wi-fi-adapter-ax210",
+    "comments": [
+      "Works well, great Wi-Fi speeds and stability. Enjoyed taking advantage of Wi-Fi 6e, which is great for gaming (low ping) and fast download/upload speeds.",
+      "AX210 with BT is nice"
+    ]
+  },
+  {
+    "name": "MSI AX1800 802.11a/b/g/n/ac/ax USB Type-A Wi-Fi Adapter",
+    "price": 39.99,
+    "specs": {
+      "Manufacturer": "MSI",
+      "Part #": "302-8ZE00XU-000",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/cZLdnQ/msi-ax1800-80211abgnacax-usb-type-a-wi-fi-adapter-302-8ze00xu-000",
+    "comments": []
+  },
+  {
+    "name": "Asus PCE-AXE59BT 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": 54.99,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AXE59BT",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/fhkH99/asus-pce-axe59bt-80211abgnacax-pcie-x1-wi-fi-adapter-pce-axe59bt",
+    "comments": []
+  },
+  {
+    "name": "StarTech PEX867WAC22 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 46.7,
+    "specs": {
+      "Manufacturer": "StarTech",
+      "Part #": "PEX867WAC22",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Features": "Add high speed 802.11ac WiFi connectivity to a desktop PC through a PCI Express slot with dual band 2.4 / 5GHz frequencies and up to 867Mbps\nPCI Express AC1200 Dual Band Wireless-AC Network Adapter\nPCIe 802.11ac WiFi Card\nWireless-AC Card - 802.11a/b/g/n/ac\n2 Transmitter / 2 Receiver (2x2:2) antenna configuration"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/76M323/startech-wireless-network-card-pex867wac22",
+    "comments": []
+  },
+  {
+    "name": "TP-Link TL-WN722N 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TL-WN722N",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "USB Type-A 2.0",
+      "Security": "64/128 bit WEP, WPA-PSK/WPA2-PSK",
+      "Antenna": "4dBi Detachable Omni-directional Antenna (RP-SMA)",
+      "Features": "Wireless Modes: Ad-Hoc / Infrastructure mode\nAdvanced Functions: WMM, PSP X-LINK(For Windows XP), Roaming\nWireless N speed up to 150Mbps makes it ideal for video streaming, online gaming and VoIP\nHigh gain external antenna brings better performance than conventional internal antenna\nEasy wireless security encryption at a push of the QSS button"
+    },
+    "rating": "(21 Ratings, 4.1 Average)",
+    "link": "https://pcpartpicker.com/product/psdqqs/tp-link-wireless-network-card-tlwn722n",
+    "comments": [
+      "It's cheap, it gets the job done and my PC has wi-fi connection. What else could I want. TP-LINK could have made it a bit smaller tho... It makes contact with any other USB device connected in the USB next to it, but it's OK.",
+      "Works great once its up but installing the drivers was so much more complicated than it needed to be, and it wouldnt show up on the TP link website and when i finally got it, the download said it was only for windows 8 but i downloaded it and it worked anyways :|",
+      "No Lan cable FTW!",
+      "I would not recommend this to anyone who can afford literally anything else. It was okay for a week or two, and it was performing admirably, but we upgraded our internet and now it's given me trouble. The internet works fine on every other device in the house, but this is now unreliable and throws me off the internet repeatedly.\nWhen it is working, it handles satellite internet just fine, but you won't be able to use the newer 5GHz networks. My internet maxes at 3MB/sec download and 1MB/sec upload, so if that's all you need and you're willing to unplug and replug this thing ninety times a day, then it'll work for you. Otherwise, find something else.",
+      "Does the job"
+    ]
+  },
+  {
+    "name": "TP-Link Archer T5E 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T5E",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(20 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/XdcRsY/tp-link-archer-t5e-pcie-x1-80211abgnac-wi-fi-adapter-archer-t5e",
+    "comments": [
+      "Never could get it to work, I don’t know why but I tried my best",
+      "I would give this NIC 5 stars, but I've had quite a few issues with installing actually functional drivers for the Bluetooth, and because of that I would give it 3, however I've been unable to identify whether that's a windows related issue, the card itself or even the drivers themselves. But the WiFi works perfectly fine, so I've decided 4 stars is appropriate.",
+      "Worked well but it is too expensive for what it offers, Fenvi cards found on Aliexpress are way cheaper AND better",
+      "Reliable TP-Link wifi card. I've used this model and others many times.",
+      "has Bluetooth and i get like 400mbps a second",
+      "this thing was honestly such a pain in the *** to work with because of tp-links horrible driver support. Once it was working the download/upload speeds were obsurd, and took multiple driver reinstallations to get it right, but of course I reinstalled windows and you start over to this. Keep in mind that you honestly need an antenna stand because the antennas out the back of your case not only get bad reception, but BLOCK THE REAR IO... just get a board with built in wifi or something better. Dont forget that this cards wifi and bluetooth standard is old...",
+      "Damn good connection",
+      "I got this because it is WiFi 5, (My router doesn't support WiFi 6+) and it has Bluetooth, although I didn't have enough headers on my motherboard for the Bluetooth cable. It works perfectly, and I didn't even need to install drivers. Small form factor, and is barely noticeable.",
+      "This card was pretty nice for when I was in college and didn't have easy ethernet access. It's nice that it also has bluetooth built in. The included antennae are fairly large and can be unwieldy, especially if your case has a horizontally-mounted motherboard like mine.",
+      "Slow wifi, bad range, bluetooth function on it didnt work."
+    ]
+  },
+  {
+    "name": "TP-Link Archer T4U Plus 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 23.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T4U Plus",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Security": "WEP, WPA/WPA2, WPA-PSK/WPA2-PSK",
+      "Antenna": "2× External 5 dBi High Gain Antennas"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/MvLwrH/tp-link-archer-t4u-plus-80211abgnac-usb-type-a-wi-fi-adapter-archer-t4u-plus",
+    "comments": []
+  },
+  {
+    "name": "EDUP EP-9651GS 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "EDUP",
+      "Part #": "EP-9651GS",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(5 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/mMJgXL/edup-ep-9651gs-80211abgnacax-pcie-x1-wi-fi-adapter-ep-9651gs",
+    "comments": [
+      "cheap and supply's good wifi while not looking super ugly",
+      "sometimes the antennas go all floppy floppy and fall over so you gotta screw them in more to the right angle",
+      "Works great without installing their unnecessary software.",
+      "it's pretty much the cheapest pcie wi-fi 6 adapter, but it works perfectly. the adapter speeds match my router speeds, and it was a great upgrade from my usb adapter."
+    ]
+  },
+  {
+    "name": "Gigabyte GC-WB867D-I 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Gigabyte",
+      "Part #": "GC-WB867D-I",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Features": "Fully qualified Bluetooth 4.0\nIEEE802.11ac standards compliant\nAntenna to support WLAN 2Tx2R transmission\nHigh speed wireless connection up to 867 Mbps\nBluetooth Enhances Data Rate (EDR) support"
+    },
+    "rating": "(181 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/tTdqqs/gigabyte-wireless-network-card-gcwb867di",
+    "comments": [
+      "A very useful wifi/bluetooth adaptor if your board doesn't have wifi. The antenna is corded, so it can be placed higher for better reception, or even replaced with something more powerful. The bluetooth can run keyboard/mouse combos, media remotes, game controllers, head-sets etc.\nFor gaming, like Counterstrike, the wifi was acceptable if your signal is good.",
+      "Wi-Fi and BT4.2 both in one unit is nice, the exterior antenna can be placed up on my desk for better signal, and my internet connection is consistently full-speed (100 MBPS download, 10 MBPS upload) . The device seems to take a while to connect on startup compared to the rest of my services, but it's usually working within 30 seconds. I broke the antenna recently, but cannibalized another from a friend's old PC to get it working again.",
+      "Great wifi but this is the gen 5 version. Get the latest.",
+      "Don't forget to plug in usb header! (I thought it was just for internal usb, but it is for bluetooth.) +1 for magnetic antenna.",
+      "Works really well. Connects to 5G networks and provides the same or greater speed when compared to a wired connection.",
+      "Used this in two builds, but I don't know that I'd buy it now that the price is higher. I love the magnetic antenna that this comes with. Small and easy, it's really just an M.2 E-type port on a PCIe adapter card. Depending on the mobo/case, you might need a splitter for the USB ports, if you only have one header and a couple of things to plug into it.",
+      "My setup is nowhere near the cable modem in my house so I needed a wifi adapter; I also use BT headphones during the day while working. This has worked pretty well so far.",
+      "Easy to use plug and play. I got it because I am not able to have my computer directly hooked up to my modem/router but my internet speeds have been really fast still so I haven't had any issues there. The USB cable has the ugly ketchup/ mustard colors so get some black electrical tape haha. also the antenna could have better maneuverability and definitely a stronger magnet or better base in general because it tries to slide around on my case unless it is sitting up right.",
+      "The connection is good when it works, but it may not be the best for competitive gaming. I get lag spikes every so often, but I'm getting a Powerline adapter to see if this item was the problem. Standby.",
+      "It was most popular PCPartPicker, so I bought it. Not the best aesthetically but it's pretty hidden under my GPU. The antenna is magnetically mounted to the top of my case next to the top case fan, hidden from view. I don't have an ethernet port near my desk, otherwise I would have gone with a wired adapter."
+    ]
+  },
+  {
+    "name": "Asus PCE-AC55BT B1 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AC55BT B1",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK"
+    },
+    "rating": "(86 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/6Zs8TW/asus-pce-ac55bt-b1-none-wi-fi-adapter-pce-ac55bt-b1",
+    "comments": [
+      "Drivers process not great but is capable of decent speeds.",
+      "This network card uses an Intel 8260 chipset, so expect it to work very well on Linux. Watch out for the cables on the included antenna, since they're very delicate.\n(It's currently installed in my system, but I'm not actually using it at the moment. It'll be handy to have if I carry my PC to a room without convenient Ethernet access.)",
+      "Great little Network adapter",
+      "Works well and can play online games with good connection!",
+      "This network card uses an Intel 8260 chipset, so expect it to work very well on Linux. Watch out for the cables on the included antenna, since they're very delicate.\n(It's currently installed in my system, but I'm not actually using it at the moment. It'll be handy to have if I carry my PC to a room without convenient Ethernet access.)",
+      "eyesore but good",
+      "Works great, had no issues. I chose this one since it uses an intel module.",
+      "No expectation of getting an ethernet cable up through the floor. This unit has both bluetooth and decent wifi for a good price!",
+      "Worked perfectly out of the box, no set up needed. I might need to update the drivers but even without doing that I'm having no problems connecting and my speed is great.",
+      "Gets you good internet speeds if you don’t have Ethernet or a WiFi board."
+    ]
+  },
+  {
+    "name": "Asus PCE-AC88 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AC88\n90IG02H0-BM0000",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(17 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/vwcMnQ/asus-pce-ac88-none-wi-fi-adapter-pce-ac88",
+    "comments": [
+      "Ugly af but does its job.",
+      "I didn't think this was really possible... Supports streaming and gaming wirelessly through at least 1 floor/1 wall and full width of my house. Has worked flawlessly for 2 years now, bought it used too!",
+      "Couldn't tell the difference of lan or wireless with this one.",
+      "High Speeds and steady connections!",
+      "When it works, it works really well.\nIt might be my unit specifically, but sometimes it randomly shuts down and I can't do anything to reboot it. I have to either close my computer or restart it everytime. The cumulative time I spent online to test and try to find a solution now amount to more than a day and to this day, nothing fixed it completely.",
+      "First thing, IT IS REALLY FAST. but when you run it in linux, after the computer wakes from sleep, it may not reconnect",
+      "This is an excellent piece of hardware. It is fast, has amazing coverage and a low power draw. It has blistering speeds that on a 5GHz network are superior to a LAN cable for me. Plus it allows me to put my PC anywhere and not be dependant on an internet source. The only piece I salvaged from my old PC, I do really appreciate what this piece does for me.",
+      "My God this thing is fast. But then again, we did pay for fast.",
+      "Originally had a 20 dollar TP Link adapter that worked well for the first few years, I would usually have a direct connection anyway. However when I moved to Germany a physical connection was not possible. The modem was in my basement so I ended up mounting my router in my living room with a discrete line to the modem downstairs. This was as close as I could get to my pc as I could but it was still not an ideal situation. I had a 200 mb/s connection but was only getting 90-120 via the TP link. So I gave the Asus a try despite the price, let me just say, money well spent. With the Asus adapter I was now getting 190 + speeds, and boy do I miss those days as I currently live in an area where I can only get 5 mb/s now lol.",
+      "Has no problem getting fast speeds, the antennae add a nice character to my case too. It's also magnetic which is super helpful. Found used on r/Hardwareswap."
+    ]
+  },
+  {
+    "name": "TP-Link Archer T2U 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 29.23,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T2U\nTL-ARCHERT2U\nARCHER T2U V3",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 2.0",
+      "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK, 802.1x",
+      "Antenna": "Omnidirectional Antenna",
+      "Features": "600 (433+150)Mbps wireless speed with 802.11ac\nA tiny way to get speedy next generation Wi-Fi connections\nSelectable Dual Band connections for lag-free HD video streaming and gaming\nAdvanced Security: Supports 64/128 WEP, WPA, PA2/WPA-PSK/WPA2-PSK (TKIP/AES)\nSupports Windows 8/7/XP"
+    },
+    "rating": "(7 Ratings, 4.1 Average)",
+    "link": "https://pcpartpicker.com/product/w3fp99/tp-link-wireless-network-card-archert2u",
+    "comments": [
+      "Gave me wifi.",
+      "I got this because it was a cheap wifi adapter that was dual band. It drops connections sometimes and gives terrible ping when my pc case is positioned a certain way. It also gets hot to the touch. Also, for some reason my upload speed is insanely higher than my download. I just did speedtest.net, 39,70 mbps down and 130 mbps up on the 5G band (Verizon Fios 150/150). My room is not in the same room as the router, so I am not using ethernet.",
+      "I got internet",
+      "It works for our connection speeds. It does what it's supposed to do. If you want a cheap and replaceable adapter, these work. Yes, I would rather go Ethernet. But our living situation is not suited for Ethernet cables, as the router is in the living room and our PCs are in a bedroom. Even a few walls away this little adapter works. I'm sure after a year or two it will have trouble booting up the wifi, but so do most cheap wifi adapters.(it can be annoying, but it's easy to work around)",
+      "I was disappointed to find that this adapter does not support Linux, even through some compiling trickery, but I can't fault its support and speeds for Windows 10"
+    ]
+  },
+  {
+    "name": "Asus PCE-N15 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-N15\n90-IG1U003M00-0PA0-",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "PCIe x1",
+      "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPS support",
+      "Antenna": "2 x R SMA Antenna",
+      "Features": "Management: Software AP\nWPS(Wi-Fi Protected Setup) button - Quickly set up a secure wireless connection."
+    },
+    "rating": "(85 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/RZNp99/asus-wireless-network-card-pcen15",
+    "comments": [
+      "This was an excellent WiFi card when it was new. In recent years it has sort of become obsolete and I don't recommend it if your running Windows 10 or newer. I have been meaning to upgrade to a newer card, but for now I have reverted back to using a Cat5 cable.",
+      "It's a network card; it does its job.",
+      "Has an awful bug where the antennas/software will cause a conflict when both of them are near each other. Only use if you have no other options.",
+      "Ehhhh...",
+      "Decent wireless adapter, wish I had waited and got a newer protocol though.",
+      "Works as it states. No problems here! Loving the WPS built in.",
+      "It does its job and it does it well. People say this adapter doesn't function right on Windows 10, specifically after the Creators Update, but I haven't noticed any massive issues with it yet. If you're able to use a wired connection, use a wired connection, because wireless has its issues.",
+      "Borrowed from a friend lol",
+      "Good wifi, works great as I am far from the router",
+      "Works for all my online gaming/browsing/youtubing/streaming needs."
+    ]
+  },
+  {
+    "name": "TP-Link TL-WN821N 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "price": 29.9,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TL-WN821N",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "USB Type-A 2.0",
+      "Security": "64/128 bit WEP, WPA-PSK/WPA2-PSK",
+      "Antenna": "Internal Antenna",
+      "Features": "Wireless Modes: Ad-Hoc / Infrastructure mode\nExcellent N speed brings best experience for HD video streaming or Internet calls\nMIMO technology with stronger signal penetration strength, wider wireless coverage, providing better performance and stability\nEasy wireless security encryption at a push of the WPS button\nSupports Windows XP / Vista / 7."
+    },
+    "rating": "(6 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/2sdqqs/tp-link-wireless-network-card-tlwn821n",
+    "comments": [
+      "It's ok for mild gaming. Should probably be a temporary wifi adapter.",
+      "The drivers are a nightmare but when they work with Linux and deliver the full 35 Mbps.",
+      "Works fairly well most of the time. Easy to go aswell"
+    ]
+  },
+  {
+    "name": "Edimax EW-7811UTC 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 14.99,
+    "specs": {
+      "Manufacturer": "Edimax",
+      "Part #": "EW-7811UTC",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 2.0",
+      "Security": "WEP 64/128-bit, WPA, WPA2, 802.1x<br/>Hardware & Software WPS Configuration",
+      "Antenna": "Internal Antenna",
+      "Features": "Complies with draft IEEE 802.11ac standard and backward compatible with wireless 802.11a/b/g/n standards\nDual-band wireless connectivity for 2.4GHz or 5GHz\nMaximum Wi-Fi speeds of 150Mbps (2.4GHz) or 433Mbps (5GHz)\nFeatures a hardware WPS (Wi-Fi Protected Setup) button for easy wireless connections\nFeatures easy setup wizard."
+    },
+    "rating": "(5 Ratings, 3.6 Average)",
+    "link": "https://pcpartpicker.com/product/Qqckcf/edimax-wireless-network-card-ew7811utc",
+    "comments": [
+      "Seems to have trouble holding a connection, even when positioned next to device that gets a perfect signal on the same network. Occasionally really slow."
+    ]
+  },
+  {
+    "name": "TP-Link Archer T2U Nano 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "price": 12.98,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T2U Nano",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "USB Type-A 2.0",
+      "Color": "Black / Gold"
+    },
+    "rating": "(6 Ratings, 3.8 Average)",
+    "link": "https://pcpartpicker.com/product/FDBTwP/tp-link-archer-t2u-nano-usb-20-wi-fi-adapter-archer-t2u-nano",
+    "comments": [
+      "Cheap and reliable.",
+      "Pretty cheap for 10 bucks and super reliable. Although it only supports upto 150 mbps, my internet doesn't go above a tenth of that.",
+      "Works well enough for wifi, failed miserably with bluetooth. Won't connect or even show the option to connect with multiple devices, including a cell phone and bluetooth earbuds.",
+      "A little outdated, but super small form factor and does exactly what it's supposed to do. It does take a brief moment to connect after rebooting, especially with an SSD booting up the system really fast, but it's not a big deal. I kind of wish a USB 2.0 WiFi 4 adapter was a little cheaper by now, but oh well, it's still super cheap.",
+      "Eh this thing is okay for the most part. It loses connection every now and then and I have to unplug it and plug it back in. But i game on it and stream with it and have no issues.",
+      "Used to run well for a 15$ adapter but now it cant stay at the same ping in seige and ping jumps constantly"
+    ]
+  },
+  {
+    "name": "Ubit G10H-AX210S 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Ubit",
+      "Part #": "G10H-AX210S",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(4 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/HZhFf7/ubit-g10h-ax210s-80211abgnacax-pcie-x1-wi-fi-adapter-g10h-ax210s",
+    "comments": [
+      "Had a bad experience with a TP-Link wifi card (a brand I usually really like), sent it back and after doing a bit of research took a punt on one of these from Amazon. Wasn't expecting to be blown away but I was really happy that unlike the TP-Link, it connected to my home wifi at the max throughput my broadband can deliver every time. Another plus is that it uses the standard Intel drivers you download from Intel.",
+      "Meh. It's a WiFi card. Intel AX210 chipset which is basically the only relevant one now, drivers work, antennas work, comes with LP bracket and screwdriver. Power cable quality is poor and it broke for me. The chip is also not removable as if the card uses an M.2 socket, it's obscured under a permanently fixed heat spreader. Look for a card that has the M.2 connector exposed; heat spreaders and heatsinks are not necessary on a WiFi card.",
+      "A bit expensive at around £40, but at least one can reuse it for future builds"
+    ]
+  },
+  {
+    "name": "TP-Link TL-WN823N 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "price": 18.89,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TL-WN823N",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "USB Type-A 2.0",
+      "Security": "64/128-bit WEP<br/>WPA-PSK / WPA2-PSK<br/>WPA / WPA2<br/>WPS",
+      "Antenna": "Internal Antenna",
+      "Features": "EIRP: <20dBm (EIRP)\nWireless Modes: Soft AP Mode\nClient Mode (support Ad-hoc/Infrastructure network)\nWireless N speed up to 300Mbps makes the TL-WN823N ideal for HD video streaming, online gaming and VoIP calls\nEasy one-touch wireless security encryption with the WPS(Wi-Fi Protected Setup) button\nSupports Soft AP function for Wireless Internet Sharing\nSupports Sony PSP X-Link for lag-free online gaming for Windows XP\nBundled utility provides quick & hassle free installation."
+    },
+    "rating": "(15 Ratings, 3.9 Average)",
+    "link": "https://pcpartpicker.com/product/gWg323/tp-link-wireless-network-card-tlwn823n",
+    "comments": [
+      "Typical dongle, nothing fancy. Good to be used as Hotspot.",
+      "works great for the price",
+      "It's.. not great. Can't keep a stable connection most of the time, But it has good moments too. I'm just waiting to get Ethernet as soon as i get better internet, cause my internet is crap already...",
+      "Okay, despite how cheap I got this adapter for, I am still highly disappointed at how often it loses connection. And I often get very bad lag during competitive gaming. Do not recommend.",
+      "Provides a good connection, looks minimal.\nDrivers are hard to install if you don't have a DVD drive or an ethernet cable, otherwise you need to install the driver installation tool onto a USB from a different PC. Also has a little green flashing light that somewhat takes away from its sleek look.",
+      "Great wifi adapter for a usb, small in size, a bit of stutter sometimes when browsing the web. However, gaming with this is smooth and steady.",
+      "A small little USB that provides good WIFI. The range might be a little shabby, but still provided around 3 MB/ps behind a few walls out of the 7/8 I get right beside it or LAN. Its super cheap so you can't give it to hard of a time.",
+      "Same speeds as my old laptop adapter, no speed increase, and it is okay for gaming stable ping no lag or what",
+      "Intermittently drops connection, no idea why.",
+      "Does its job, obvs slower than ethernet but can play online games with it happily."
+    ]
+  },
+  {
+    "name": "NEC NP05LM1 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "NEC",
+      "Part #": "NP05LM1",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "USB Type-A 2.0",
+      "Color": "White"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/4rdxFT/nec-np05lm1-80211abgn-usb-type-a-wi-fi-adapter-np05lm1",
+    "comments": []
+  },
+  {
+    "name": "BrosTrend AC5 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "BrosTrend",
+      "Part #": "AC5",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 2.0",
+      "Color": "Black"
+    },
+    "rating": "(10 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/vkCD4D/brostrend-ac5-none-wi-fi-adapter-ac5",
+    "comments": [
+      "I thought it was going to be trash, but it's actually pretty solid. I get around 60ms ping and I'm on another floor than my router. Recommended.",
+      "Second time I've reviewed this. It's still great! I've had a few instances where it dropped connection, but I've come to attribute that more to our actual internet rather than the adapters (nearly everyone in this house has issues with connection dropping at least once per week.)",
+      "Fast and reliable on the cheap.",
+      "Works great! Good speeds and all!",
+      "5th time I've used this in a build now. It's cheap, fast, and reliable.",
+      "It keeps working.",
+      "It works. Again again.",
+      "It works. Again.",
+      "It works."
+    ]
+  },
+  {
+    "name": "TP-Link Archer T9UH 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T9UH",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/8hfhP6/tp-link-archer-t9uh-usb-30-wi-fi-adapter-archer-t9uh",
+    "comments": [
+      "The few times I've had to use Wi-Fi instead of my Ethernet this has worked amazing. It was slightly annoying to set up, but works great nonetheless. 🌟🌟🌟🌟🌟"
+    ]
+  },
+  {
+    "name": "Intel 7260HMWDTX1 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 110.0,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Model": "7260HMWDTX1",
+      "Part #": "7260HMWDTX1.R",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Features": "With Bluetooth 4.0\nAntenna Included\nFull and Half Height Brackets"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/HdnG3C/intel-7260hmwdtx1-none-wi-fi-adapter-7260hmwdtx1r",
+    "comments": []
+  },
+  {
+    "name": "Asus PCE-AC58BT 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 69.95,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AC58BT\n90IG04S0-MM0R10",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Color": "Blue"
+    },
+    "rating": "(8 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/JhWfrH/asus-pce-ac58bt-none-wi-fi-adapter-pce-ac58bt",
+    "comments": [
+      "Works as it should. External antenna unit is slightly cheap but it's a $40 card.",
+      "Super fast, worked as soon as it was installed. Found the wifi immediately, couldn't be happier with that. The only downside is that the antenna wire is a little short so it limits placement of the antenna to the top of my case or somewhere on the desk for now.",
+      "Oh man, I love this WiFi adapter. I get ~300 MB/s download & upload using this adapter, and having 1 GB/s fiber optic internet from AT&T. Awesome that this adapter comes with Bluetooth :) Easy to install and highly recommend you get this, if you plan to be connected to WiFi like me long-term. My apartment setup would make routing an ethernet cable from my PC to the modem very inconvenient, having to pass through the living room into my bedroom, over 100 ft away from my PC.",
+      "Gives me wifi and bluetooth because I bought a mobo without those features. Hasn't given me any fuss since installing.",
+      "This was a very good purchase. I had got this mostly for the Bluetooth so I could connect my phone and Xbox controller to my PC. Having WiFi, in addition, is also really useful when there is no network port. The speeds are fast and reliable. It comes with a CD to install drivers. For the Bluetooth to work, you need to connect it using a USB header, but that is really easy to do and is included in the packaging. I got mine for around $50.",
+      "Excellent Wi-Fi card that was bought on sale during the early stages of the pandemic after I moved my setup to another room where ethernet was not accessible. I get great speeds on my 5G band and get about 550 down and 20 up which is almost as much as what we pay for. I would buy this again in the future.",
+      "Plugged in, set my wifi, hooked my phone to bluetooth and ran my mouse in bluetooth. No drivers needed. I actually get better signal from my desk than I did from my old card.",
+      "Small footprint, mighty networking!"
+    ]
+  },
+  {
+    "name": "Netgear A6210-100PAS 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Netgear",
+      "Part #": "A6210-100PAS\nA6210-10000S",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Antenna": "High Gain Antenna",
+      "Features": "Upgrade your legacy PC to ultimate range and performance with 802.11ac - up to 1200 Mbps\nFaster access with USB 3.0; compatible with USB 2.0\nHigh gain antennas for improved performance\nWorks with 802.11 a/b/g/n and ac devices\nBeamforming+ technology boosts speed, range and reliability\nDesktop dock for flexible placement\nPush ’N’ Connect – secured connection at the push of a button\nEasy NETGEAR genie? setup"
+    },
+    "rating": "(20 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/tj2rxr/netgear-wireless-network-card-a6210100pas",
+    "comments": [
+      "The reviews for this are pretty solid and it seems nice on paper, but mine keeps overheating and shutting down. Customer support was no help.",
+      "Nice for gaming",
+      "Had sitting at home and decided to put good use to it. It does as intended and it hasn't cut out on me when I'm in a match.",
+      "Works great. I bought this even though my motherboard has integrated wifi because it was trash. This works much better.",
+      "Easy to just plug into my PC and go from there as soon as I installed windows, worked great.",
+      "I didn't expect this to work very well, but I have better connection on this PC than I did on my Xbox so that's a plus. I would use ethernet but my University does not have ethernet ports in the apartments :(.",
+      "Decent speeds, but there is significant drop off.",
+      "has worked well for years now just wish the included USB dock wasn't so flimsy",
+      "Worth it. Until I get ethernet back in my basement, this is picking up wifi signal form upstair better than the TP-link I had inside my case. Have had one or two disconnects on the non-5G network but works great with 5Ghz. Ping sits around 7 usually. (Servers are nearby). Dowloads speeds are pretty close to ethernet.",
+      "I used this for a while until I went back to school where my room actually has a ethernet outlet. It is actually surprisingly fast for not being ethernet."
+    ]
+  },
+  {
+    "name": "fenvi FV-T919 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 59.99,
+    "specs": {
+      "Manufacturer": "fenvi",
+      "Part #": "FV-T919\n15283",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Color": "Black / Gold",
+      "Security": "64/128-Bit WEP, WPA, WPA2"
+    },
+    "rating": "(3 Ratings, 4.3 Average)",
+    "link": "https://pcpartpicker.com/product/BJ97YJ/fenvi-fv-t919-none-wi-fi-adapter-fv-t919",
+    "comments": [
+      "Maybe for today, it's not the fastest card, but it allowed me to use almost all MacOS features, and for that, It's worth the high cost compared to an intel Wifi/Bluetooth Card.",
+      "The Fenvi t919 card works flawlessly in macOS, giving me complete continuity services with my iPhone and iPad.",
+      "I was going to not be as ruthless and give it an average 3 stars, but the bluetooth failing to work or even be recognized by my system is just ' in lemon drop's voice' \"UNACCEPTABLE.\"\nUpdate 9/15/20 : Altering my review to fall in line with the current performance. Upon updating a few components that were OS/Hackintosh related, my bluetooth worked with zero issues, so I'm bumping my review up 2 stars. The connection isn't the greatest but I won't fault the product there due to the less than optimal distance away from the router my rig has to be placed."
+    ]
+  },
+  {
+    "name": "Intel 8265.NGWMG.S 802.11a/b/g/n/ac M.2 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "8265.NGWMG.S",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "M.2",
+      "Color": "Green"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/CWkj4D/intel-8265ngwmgs-80211abgnac-m2-wi-fi-adapter-8265ngwmgs",
+    "comments": []
+  },
+  {
+    "name": "Asus PCE-AC51 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 46.27,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AC51\n90IG02S0-BO0010",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1"
+    },
+    "rating": "(28 Ratings, 4.1 Average)",
+    "link": "https://pcpartpicker.com/product/k9ndnQ/asus-pce-ac51-none-wi-fi-adapter-pce-ac51",
+    "comments": [
+      "wifi adapter, because i cant get a lan cable into my room and my mobo has no built in wifi. it does its job and i really wouldnt know the difference because ive never used any other wifi adapters, and my internet is garbo anyway",
+      "has performed very well good internet speed and easy installation.",
+      "Doesn't have Bluetooth and it's not the fastest, but it works.",
+      "My Wifi limits the card a lot, and I've switched to ethernet for the most part. Good entry-level WIFI card.",
+      "decent enough but no bluetooth",
+      "This might be five stars, but I can't tell because of my internet. I had to use this because I was too far for the ethernet cord to reach me.",
+      "Even though it doesn't have Bluetooth, this card is still great for them good WiFi signals. Inexpensive and reliable. This is hidden, so you can't really see it in the case unless you had a keen eyeball.",
+      "I'm sure this thing works great its just my internet that sucks. Affordable solution if you cant swing a wired connection.",
+      "Easy to install. High Speed. Have not encountered any WiFi interruptions thus far.",
+      "Picked it up from Microcenter for around $30. So far so good."
+    ]
+  },
+  {
+    "name": "TP-Link Archer T9E 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T9E",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK, 802.1x",
+      "Antenna": "Omnidirectional Antenna",
+      "Features": "802.11ac - The Next Generation of Wi-Fi\nTP-LINK's Archer T9E comes with the next generation Wi-Fi standard - 802.11ac, 3 times faster than wireless N speed. With 1300Mbps wireless speeds over the crystal clear 5GHz band or 600Mbps over the 2.4GHz band, the Archer T9E is the superior choice for seamless HD streaming, online gaming and other bandwidth-intensive tasks.\nAC1900 Wireless Speed\nThe 5GHz 1300Mbps is perfect for HD video streaming and lag-free online gaming, while using 2.4GHz 600Mbps Wi-Fi for normal use such as web surfing.\nThe Best of Both Bands\nTP-LINK's Archer T9E is an AC1900 Wireless Dual Band PCI Express Adapter, giving users the ability to access crystal clear 5GHz connections or legacy 2.4GHz connections to upgrade their PC's wireless capabilities to operate with new 5GHz band wireless networks, while ensuring that they can still access legacy 2.4GHz band wireless networks.\nBeamforming Technology for Efficient Wi-Fi\nArcher T9E utilizes beamforming technology to receive more directional Wi-Fi signals for improved performance.\nFeatures: Simply slot the adapter into any free PCI-E socket in your desktop PC and connect to an available Wi-Fi network\nMaximum wireless speeds of up to 1900Mbps with 1300Mbps at 5GHz or 600Mbps at 2.4GHz band, ideal for HD streaming, online gaming and large file downloads\nSupports 802.11ac - Wi-Fi technology that is 3 times faster than 802.11n\n3 external antennas provide ultimate Omni-Directional wireless coverage, delivering a stable connection to your Wi-Fi network\nUtilizes Beamforming technology to receive more directional Wi-Fi signals, enhancing the reliability of the wireless connection\nHeat Sink dissipates heat to help increase performance and improve stability\nSelectable 2.4GHz and 5GHz bands to avoid wireless signal interference\nSupports routers utilizing 802.11 a/b/g/n Wi-Fi standards\nBundled management utility offers easy administration to control your Wi-Fi network"
+    },
+    "rating": "(25 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/pxrcCJ/tp-link-wireless-network-card-archert9e",
+    "comments": [
+      "Not bad Wi-Fi adapter. If you're gaming you should use ethernet anyways. Decent for schoolwork or small downloads.",
+      "Really Wis my Fis.",
+      "My roommate gave me this from his old build. Seems to do the job pretty nicely.",
+      "I know that it's always best to go wired, but it's not practicable due to the location of my PC. The T9E performs very well when it connects and seems to pick up a strong signal despite the distance. I'm able to max my 350 Megabit connection. Sometimes however it will get stuck in a unable to connect loop and the only way to resolve it is to disable and then enable the device again. After a bit of online research, I can see that others have had similar problems.",
+      "Originally had the rig hardwired but GF made me relocate my rig from the living room to the bedroom... THIS ACTUALLY WORKS. Had a cheap USB WiFI adapter that did the job but nothing compared to this TP-Link Archer. Also spent a couple extra dollars on longer antennas, which are ridiculously long, to assist with the connection. But after comparing the stock antennas with the long ones, the longer antennas made no difference.",
+      "Coupled with a really good night hawk router it is just like using Ethernet, i never get drops and the internet speed is the same as Ethernet.",
+      "This thing is about a step above a $20 USB Wi-Fi adapter, seriously. I have a Netgear Nighthawk X4S less than 35 feet away from me (and one sheet rock wall) and get 50% signal strength on average. Usually getting around 250mbps to the router. Not worth the $75 in my opinion.",
+      "This is an excellent 802.11ac wireless card. It works with OSX out of the box. On Windows, the driver situation isn't totally ideal (TP-Link isn't great about releasing drivers and their utility sucks), but there are many good third-party drivers out there for this card. The hardware appears to be high quality and it functions well.",
+      "Excellent. I get perfect reception of the 2.4 GHz band and usually get around 50 MB/s download speeds (limited by Xfinity).",
+      "Steady, reliable wireless."
+    ]
+  },
+  {
+    "name": "Intel 7260HMWDTX1 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Intel",
+      "Part #": "7260HMWDTX1",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Features": "With Bluetooth 4.0\nAntenna Included\nFull and Half Height Brackets"
+    },
+    "rating": "(22 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/4Yn2FT/intel-wireless-network-card-7260hmwdtx1",
+    "comments": [
+      "Fantastic reliability and performance. My only real gripe is that we can't just throw one in a M.2 or PCIe slot without those extra wires coming out of the back of the case and the plastic thing you have to stick to your case that's housing the antennas.",
+      "Solid connection for cheap.",
+      "Never had a connection issue. Great speeds and a huge antenna",
+      "It's got good long antennas, which is perfect for my use case as the computer sits a bit further from the wifi access point. Others may not need the long cable and I don't think it comes with anything else, so just note that when buying.",
+      "I did have a scare during installation where my Windows wasn't recognizing the device, giving an error code that \"Device does not exist,\" but found that in addition to the specific driver that the software/Device Manager will install for this device, you also need Intel's wireless adapter driver, which was never automatically detected or recommended! Just in case anyone thinks theirs is broken. Otherwise, works just fine. Can't compare speed to other devices, but I get identical speedtest results as my iMac. Not the cheapest adapter around, but this one's got a good design with the external antenna, in which you can either lay it flat on the desk or use the included adhesive peg to hang it off the wall, rather than be stuck with antenna on the back of your tower.",
+      "Wireless PCIe | 08-31-2016 | Amazon: Used a miniPCIe 7260 with a Fenvi PCIe adapter, Asus 2T2R magnetic antenna remote mount, provides 250 to 500 Mbps to a Nighthawk R7000 router. Also provides Bluetooth.",
+      "Loving this wireless card so far. It is super fast and is soo much better than some of my older wireless cards. One thing to note is the bluetooth functionality that comes along with this card can only be used if you connect the cable to one of your front usb 2.0 headers on your motherboard. Doing so means you will loose the functionality of 2 of your front USB ports on your case. Not a big deal but just something to let you guys know as i did not know about it untill i was assembling the computer.",
+      "This is pretty good.",
+      "Great for I need it for and I've got it mounted on the wall! On the Wall Carl!",
+      "Solid connection, no issues so far. Bluetooth works well too. Note that Bluetooth requires an internal connection to one of the USB headers on your motherboard, so you need to ensure your motherboard has one spare USB header. My motherboard had three USB headers and they're all in use now - Two for the front of the case (1 x USB 3.1 and 1 x USB 2.0) and one for the Bluetooth connectivity of this wifi card."
+    ]
+  },
+  {
+    "name": "fenvi FV-AX3000 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "fenvi",
+      "Part #": "FV-AX3000",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Red / Black"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/w7xRsY/fenvi-fv-ax3000-80211abgnacax-pcie-x1-wi-fi-adapter-fv-ax3000",
+    "comments": [
+      "It does its job without any messing around. So good I got two of them.",
+      "Solid little WiFi card with Bluetooth powered via your motherboard's USB 2.0 header. Easily worth $30."
+    ]
+  },
+  {
+    "name": "fenvi FV-AXE3000 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "fenvi",
+      "Part #": "FV-AXE3000",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Red / Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/DJLFf7/fenvi-fv-axe3000-80211abgnacax-pcie-x1-wi-fi-adapter-fv-axe3000",
+    "comments": []
+  },
+  {
+    "name": "Asus USB-AC53 NANO 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 29.99,
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "USB-AC53 NANO\n90IG03P0-BM0R10",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 2.0"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/c8ZFf7/asus-usb-ac53-nano-none-wi-fi-adapter-usb-ac53-nano",
+    "comments": [
+      "Nothing to complain about so far. Does its job.",
+      "While I was writing this review I realized I could steal the TV's Ethernet cable so welp\nMy internet was pretty fast through this and my ping on east coast servers only went down after Ethernet by maybe 10 ms."
+    ]
+  },
+  {
+    "name": "TP-Link Archer T3U Nano 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 17.98,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T3U Nano",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 2.0",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/jszhP6/tp-link-archer-t3u-nano-80211abgnac-usb-type-a-wi-fi-adapter-archer-t3u-nano",
+    "comments": []
+  },
+  {
+    "name": "Gigabyte GC-WB867D-I REV 4.2 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Gigabyte",
+      "Part #": "GC-WB867D-I REV 4.2",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Features": "Fully qualified Bluetooth 4.2\nIntel WIFI module supports Intel WIDI\nIEEE 802.11ac standards compliant\nAntenna supports WLAN 2T x 2R transmission\nHigh speed wireless connection up to 867 Mbps"
+    },
+    "rating": "(15 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/r7RFf7/gigabyte-gc-wb867d-i-rev-42-none-wi-fi-adapter-gc-wb867d-i-rev-42",
+    "comments": [
+      "Cheap adapter with great performance, the antenna can be placed on top or on the side of the case depending on your preference.",
+      "Would recommend to anyone looking for WiFi and Bluetooth while not breaking the bank.",
+      "This card did not come with the necessary cable that it needs to work. It is currently sitting in my build doing no good at all. It worked in my old build so I do not understand why it won't work in my new one. I was really great while it lasted.",
+      "work very well, antenna is really great. for 30€ its a must have.",
+      "Have had it for over a year, no issues so far. Great reception both Wifi and BT4.2... my old system worked with it no problem, and my new system is working with it just the same.",
+      "Reception is solid. I love the magnetic antenna. Uses an internal USB header, which means an extra wire.",
+      "I wanted something to connect to router upstairs, as the powerline LAN-connection is under 1 MB/s while WIFI is at around 20. It's bluetooth 4.2 connectivity is definitely a plus as well.",
+      "I think I don't need this thing maybe? For some reason it seems weaker than my own laptop wifi.\nPro-its a network adapter so it's good for people who don't use ethernet and don't have onboard wifi and it supports every current wifi type. Con-I don't know if my comp is using this thing lol. I kinda don't like how it has a router like attachment that you need to leave somewhere to detect signals.",
+      "Works well but you need to plug an usb cable to use it",
+      "Great card, good price, easy to install."
+    ]
+  },
+  {
+    "name": "D-Link DWA-582 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "D-Link",
+      "Part #": "DWA-582",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Security": "WPA / WPA2 / WEP (64/128 bit) / WPS (PBC/PIN)",
+      "Antenna": "Two 4.5 dbi external dipole antennas",
+      "Features": "Dual Band Wireless AC technology for less interference and more bandwidth\nAccess a secure wireless network using advanced WPA or WPA2 encryption\nEasy to install and use with the D-Link Setup Wizard and Wi-Fi Protected Setup (WPS)\n2 x 4.5dBi External Antennas\nBackwards compatible with 802.11a/b/g/n devices\nIncreased bandwidth, reliability, and functionality over legacy PCI cards\nPCI Express x1, x4, x8, or x16 support\nLow Profile Bracket included"
+    },
+    "rating": "(7 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/3D38TW/d-link-wireless-network-card-dwa582",
+    "comments": [
+      "Working fine in open space, not so well in close cabinet.",
+      "Love this adapter, I have had no issues with it at all, no random disconnects at all and it does a good job.",
+      "Works great, except when it doesn't.\nDoes not fit correctly in motherboard when screwed in, and does not screw in when correctly fitted to motherboard. Connection is fantastic, but drops out more often than I'd like (not the internet connection's fault, trust me).\nI still use my ten dollar USB wifi adaptor as a backup because this card is so unreliable. If you've already bought it, don't worry - it's not the end of the world. But if you're thinking about buying it, do your research and get a more reliable card for the same price.",
+      "Works great but quite costly.",
+      "The Network Card is pretty good, it isn't going to blow your socks off with aesthetic or anything, but its cheap as dirt and it gets the job done time and time again. My only concern is those giant rabbit ears it has for antenna. They really are bigger in person.",
+      "This think is really fast and has very good range. I am getting very consistent download speeds unlike my old computer."
+    ]
+  },
+  {
+    "name": "BrosTrend AC3 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 29.99,
+    "specs": {
+      "Manufacturer": "BrosTrend",
+      "Part #": "AC3",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/yTdxFT/brostrend-ac3-none-wi-fi-adapter-ac3",
+    "comments": [
+      "Have a different brand one but still it’s very fast. Nice boy downside is mine doesn’t have Bluetooth."
+    ]
+  },
+  {
+    "name": "Asus PCE-AC55BT 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Asus",
+      "Part #": "PCE-AC55BT",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK",
+      "Features": "High-speed wireless Internet connectivity\nWireless-AC dual-band for lag-free streaming and high performance network\nBluetooth 4.0 and BLE\nExternal antenna base\nIntel Wireless Display (WIDI)"
+    },
+    "rating": "(17 Ratings, 4.3 Average)",
+    "link": "https://pcpartpicker.com/product/X9rcCJ/asus-pce-ac55bt-none-wi-fi-adapter-pce-ac55bt",
+    "comments": [
+      "Keeps on failing it randomly stops and wifi is gone.",
+      "If your using an AMD CPU with an Intel based Wireless card, do your research when trying to use Bluetooth and WIFI drivers for this thing. Anyway, good card",
+      "Works fine, i have the same level of internet i have with my phone or macbook.",
+      "Wireless half NOT compatible with the latest release of Windows 10 x64, Bluetooth works fine though",
+      "This is one of the best wifi cards you can buy. It’s affordable, and it has the huge extra benefit of being able to connect bluetooth devices through its optional usb 2.0 header. This is necessary for windows 10’s file sharing feature so that I can swap between doing my work on my laptop and pc easily.",
+      "If you'r home has no Ethernet at all and your motherboard doesn't have WiFi built in. This is a must and works great. My rig now has Bluetooth and long ranged WiFi. The only grip I have is that the board is the bright green. I wish you had your pick of colors.",
+      "If you'r home has no Ethernet at all and your motherboard doesn't have WiFi built in. This is a must and works great. My rig now has Bluetooth and long ranged WiFi. The only grip I have is that the board is the bright green. I wish you had your pick of colors.",
+      "Cheap and has the Bluetooth added for no extra cost.",
+      "I am able to get decent internet speeds one floor up from the router. no lag when gaming online.",
+      "Better than ethernet cable connection in some instances. For me, I get more frequent ping spikes in League of Legends than on my cheap laptop, which is odd, but it still gets better connection than my laptop. Not sure if I could improve my connect with higher priced wifi adapters"
+    ]
+  },
+  {
+    "name": "MSI AC905C 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "MSI",
+      "Part #": "AC905C",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Color": "Black"
+    },
+    "rating": "(2 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/MLJmP6/msi-ac905c-pcie-x1-wi-fi-adapter-ac905c",
+    "comments": [
+      "It's a wifi card. It works. v2 uses a Realtek chipset so beware of driver hell.",
+      "No Linux driver support and one of the antennae keep falling off, but provides good connection."
+    ]
+  },
+  {
+    "name": "D-Link DWA-X1850 802.11a/b/g/n/ac/ax USB Type-A Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "D-Link",
+      "Part #": "DWA-X1850",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "USB Type-A 3.2 Gen 1"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/zTytt6/d-link-dwa-x1850-80211abgnacax-usb-type-a-wi-fi-adapter-dwa-x1850",
+    "comments": []
+  },
+  {
+    "name": "Netgear A6200-100NAS 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 64.89,
+    "specs": {
+      "Manufacturer": "Netgear",
+      "Part #": "A6200-100NAS",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 2.0",
+      "Antenna": "Internal Antenna",
+      "Features": "Ultimate range and performance with 802.11ac\nAdjustable antenna for improved performance\n802.11ac provides gigabit Wi-Fi with speeds up to 1.3 gigabits/sec\nHD streaming throughout your home\nCompatible with next generation Wi-Fi devices\nBackward compatible with 802.11n.\nWindow 8 compatible"
+    },
+    "rating": "(8 Ratings, 3.8 Average)",
+    "link": "https://pcpartpicker.com/product/np7wrH/netgear-wireless-network-card-a6200100nas",
+    "comments": []
+  },
+  {
+    "name": "fenvi FV-HB1200 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 45.99,
+    "specs": {
+      "Manufacturer": "fenvi",
+      "Part #": "FV-HB1200\n16564",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Color": "Black / Blue"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/bBFmP6/fenvi-fv-hb1200-80211abgnac-pcie-x1-wi-fi-adapter-fv-hb1200",
+    "comments": []
+  },
+  {
+    "name": "fenvi FV-AXE210NG 802.11a/b/g/n/ac/ax M.2 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "fenvi",
+      "Part #": "FV-AXE210NG",
+      "Protocol": "Wi-Fi 6E",
+      "Interface": "M.2"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Rmytt6/fenvi-fv-axe210ng-80211abgnacax-m2-wi-fi-adapter-fv-axe210ng",
+    "comments": [
+      "This worked great with my ASRock LiveMixer B650 board. It interfaced properly with the board electronics, the wires made it to the I/O without requiring the shortest, least-attractive routing, and the antennas fit perfectly into the I/O plate blanks. Outstanding product for a great price!"
+    ]
+  },
+  {
+    "name": "Wavlink WL-WN675X2 802.11a/b/g/n/ac/ax PCIe x1 Wi-Fi Adapter",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Wavlink",
+      "Part #": "WL-WN675X2",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "PCIe x1",
+      "Color": "Red"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/j9kH99/wavlink-wl-wn675x2-80211abgnacax-pcie-x1-wi-fi-adapter-wl-wn675x2",
+    "comments": [
+      "Cheapest PCIe network card I could find, comes with a big antenna and does its job just fine"
+    ]
+  },
+  {
+    "name": "fenvi FV-8802 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 51.99,
+    "specs": {
+      "Manufacturer": "fenvi",
+      "Part #": "FV-8802",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Color": "Black / Orange"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/CVFKHx/fenvi-fv-8802-pcie-x1-80211abgnac-wi-fi-adapter-fv-8802",
+    "comments": []
+  },
+  {
+    "name": "Edimax EW-7811UAC 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "price": 19.98,
+    "specs": {
+      "Manufacturer": "Edimax",
+      "Part #": "EW-7811UAC",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "USB Type-A 2.0",
+      "Security": "WEP 64/128-bit, WPA, WPA2, 802.1x<br/>Hardware & Software WPS Configuration",
+      "Antenna": "High Gain 6dBi Antenna",
+      "Features": "Complies with draft IEEE 802.11ac standard and backward compatible with wireless 802.11a/b/g/n standards\nDual-band wireless connectivity for 2.4GHz or 5GHz\nMax. Wi-Fi speeds of 150Mbps (2.4GHz) or 433Mbps (5GHz)\nFeatures a hardware WPS (Wi-Fi Protected Setup) button for easy wireless connections\nFeatures easy setup wizard\nSupports Windows XP/Vista/7/8/8.1, Linux and Mac OS X drivers\nHigh gain antenna, 4dBi (2.4GHz) and 6dBi(5GHz), provides high performance long distance wireless connections\nUSB cradle for flexible placement and better wireless signal"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/NnkD4D/edimax-ew-7811uac-usb-20-80211abgnac-wi-fi-adapter-ew-7811uac",
+    "comments": []
+  },
+  {
+    "name": "TP-Link Archer T8E 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "price": 82.02,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer T8E",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "PCIe x1",
+      "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK, 802.1x",
+      "Antenna": "Omnidirectional Antenna",
+      "Features": "Ultra-fast 1750 (1300+450)Mbps wireless speed with 802.11ac\nDual Band connections for lag-free HD video streaming and gaming\n3T3R MIMO technology provides robust high-bandwidth wireless transmission"
+    },
+    "rating": "(12 Ratings, 4.1 Average)",
+    "link": "https://pcpartpicker.com/product/JdCrxr/tp-link-wireless-network-card-archert8e",
+    "comments": [
+      "I get a very strong and reliable connection on my pc. My room compared to the position of the router is upstairs around many different walls yet never have a problem. I also have a TP-Link Archer C8 router.",
+      "It works. Speeds/Signal are what you'd expect from a $90 wifi card. I use this in combination with TP-Link's 2.4GHz 8dBi Indoor Omni-directional Antennas (TL-ANT2408CL)",
+      "For the 5 minutes I had this working it was fast...however, drivers then cause computer crash and was only able to reenter windows after physical removal of card. Now when trying to reinstall, hardware not recognized. Still in the works...",
+      "Since my motherboard doesn't come with a build-in WiFi, Might aswell gonna purchase the adapter.Good connection.No lags plus,really like the black PCB.",
+      "I needed an adapter as my motherboard doesn't have a wifi card, and there are no ethernet ports in the space I keep my computer. I wanted TP-Link because I had purchased a router from them a little while back and it has been fantastic. Worked like a charm after installing the drivers.",
+      "I honestly chose this WiFi card because it has a black PCB.",
+      "Currently my router is 15 meters away and running the cable isn't possible because of cable management :) so I order this one and downloading speed is 37.8Mbps compared to wired PC Setup 38.2Mbps. No glitch or lag while playing games which is really important for me.",
+      "Fast enough to max out my 100Mbps cable connection. No bluetooth like some other, lesser priced cards, so will ding it a little for that.",
+      "It needs better antennas, but the stability on it is fabulous.",
+      "Fast, matches the build, works. I'm using a cat5e cable hooked up to my router so I don't use it, but it does work."
+    ]
+  },
+  {
+    "name": "TP-Link Archer TX21UH 802.11a/b/g/n/ac/ax USB Type-A Wi-Fi Adapter",
+    "price": 49.99,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "Archer TX21UH",
+      "Protocol": "Wi-Fi 6",
+      "Interface": "USB Type-A 3.2 Gen 1",
+      "Color": "Silver / Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/nbpQzy/tp-link-archer-tx21uh-80211abgnacax-usb-type-a-wi-fi-adapter-archer-tx21uh",
+    "comments": [
+      "Got this because the motherboard has no wifi on it, works well on the 5G wifi."
+    ]
+  },
+  {
+    "name": "TP-Link TL-WN822N 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "price": 25.0,
+    "specs": {
+      "Manufacturer": "TP-Link",
+      "Part #": "TL-WN822N",
+      "Protocol": "Wi-Fi 4",
+      "Interface": "USB Type-A 2.0",
+      "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK",
+      "Antenna": "Dual 3dBi Omni Directional",
+      "Features": "Button: QSS Push Button/Software\nWork Mode: Ad-Hoc / Infrastructure mode\nSpecial Function: WMM, PSP X-LINK\n11N speed allows for the best HD video streaming and internet calling experience.\nEasy one-touch wireless security encryption with the Quick Security Setup button."
+    },
+    "rating": "(21 Ratings, 4.4 Average)",
+    "link": "https://pcpartpicker.com/product/tTGkcf/tp-link-wireless-network-card-tlwn822n",
+    "comments": [
+      "Does what it’s supposed to",
+      "Can't tell the difference of which wireless network adapter is better, but I guess this one does the job.",
+      "Can't tell the difference of which wireless network adapter is better, but I guess this one does the job.",
+      "Not too happy with it, i get dc pretty often losing the ip and have to use win troubleshoot to get it back, or disable/enable. Wanted to punch it a few times and buy another one, still thinking about it lol.",
+      "Not working with Win10.",
+      "Idk what to say lol",
+      "Has worked perfectly for me.",
+      "I got this wireless adapter as the room where I am keeping it is quite far from our router, and this particular one had an extension, so I can put it higher up to get faster signal. It worked plug and play in windows 10 without drivers. I get around 25 MB/s, compared to around 29 on wired, which I think is quite good considering that it's around 30 metres and in a different room from the router.",
+      "Stable performance and a nice look. Cheap as well.",
+      "Works fine for me, I get around 5mb/s everytime I download something on Steam. Allowed me to write this review on my computer without it dying on me."
+    ]
+  },
+  {
+    "name": "Intel 7260 802.11a/b/g/n/ac Mini-PCIe Wi-Fi Adapter",
+    "price": 27.0,
+    "specs": {
+      "Manufacturer": "Intel",
+      "Model": "7260",
+      "Part #": "7260.HMWWB.R",
+      "Protocol": "Wi-Fi 5",
+      "Interface": "Mini-PCIe",
+      "Features": "Product Type:Wi-Fi Adapter\nBluetooth Standard:Bluetooth 4.0\nProduct Family:7200\nForm Factor:Internal\nISM Band:Yes\nUNII Band:Yes\nHeight:1.1\"\nWidth:1.2\"\nThickness:94.5 mil\nWeight (Approximate):0.11 oz"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/fhPzK8/intel-wireless-network-card-7260hmwwbr",
+    "comments": [
+      "Has worked flawlessly, and includes Bluetooth."
+    ]
+  }
+]

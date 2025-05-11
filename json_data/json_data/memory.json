@@ -1,0 +1,2934 @@
+[
+  {
+    "name": "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "price": 102.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMH32GX5M2E6000C36",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.218",
+      "Color": "Black",
+      "First Word Latency": "12 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.4 V",
+      "Timing": "36-44-44-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(56 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/kTJp99/corsair-vengeance-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-cmh32gx5m2e6000c36",
+    "comments": [
+      "Simple, good looking, nice RGB and really fast.",
+      "I bought this mainly for the RGB. It's 6000Mhz, not the best and not the worst. Some say CL36 is too much, and they recommend lower. I don't know a whole lot about RAM, but I just care about whether it works and whether it has RGB",
+      "Bought for 98 USD at Best Buy on January 2025. Wanted non-RGB ram but ended up getting the cheaper option; it's not 6000 CL30, but I wouldn't be able to tell the difference I'm sure. It's ram and it works.",
+      "Looks great, runs fast, was fun to install",
+      "Fast, Cheaper than the non-RGB version and reliable.",
+      "Really good RAM for the price. Good speeds, and runs well in most modern games.",
+      "Corsair Vengeance DDR memory kits have been my go to for all of my PC builds except for my first and this is another solid performer. 32 GB capacity, standard heat shields, solid construction, visually attractive and RGB lights controllable via iCUE software at a good price.",
+      "I really like the DDR5 version of the Vengeance memory heat spreaders; they have a nice, simplistic look to them, and the RGB looks fantastic. They are usually a little bit cheaper than other mainstream alternatives, such as G.Skill, as well. As for performance, the DDR5-6000 CL36 XMP profile just works.",
+      "Good RAM, comes with RGB. However, the latency is slightly higher than some other RAM sticks.",
+      "Very good, and fast ram. Just hate it can't be controlled without icue link!"
+    ]
+  },
+  {
+    "name": "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "price": 37.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK16GX4M2B3200C16",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$2.374",
+      "Color": "Black / Yellow",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-18-18-36",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(496 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16",
+    "comments": [
+      "XMP works!",
+      "stable quality memory",
+      "enough ram to run the akinator",
+      "It's not that fast but it's cheap and low profile. Love it!",
+      "Probably the best budget ram kit out there.",
+      "like how it looks, runs good.",
+      "Works fine.",
+      "god forbid helldivers or space engineers use's more ram than it needs, but also good for multitasking overall.",
+      "Wish I'd have known that there were cheaper alternatives and that 3600mHz RAM is better for AM4 CPUs, but I'm not complaining.",
+      "It runs good and I’ll probably buy more if I ever need 32gb."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 129.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK32GX5M2B6000C30",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$4.062",
+      "Color": "Black / Gray",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(64 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/JkfxFT/corsair-vengeance-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-cmk32gx5m2b6000c30",
+    "comments": [
+      "I wouldn't call myself a Corsair fanboy, but I have never had any problems with their RAM or PSUs, so I went with their Vengeance 32GB DDR5-6000 (CL30) for memory and the RM1000x for the PSU . I haven't had any problems with either yet.",
+      "Perfect for my tasks, no issues with compatibility",
+      "Low profile ram that goes well with the Phantom Spirit EVO cooler. It is reasonably priced too. On the other hand I had a slight issue with my system after enabling expo the first time, had to clear the CMOS because it stopped posting with the DRAM debug led on - it's fixed now but it knocks a star off.",
+      "Cheap CL30 6000 memory 🤷‍♂️",
+      "Should cost a little less, but otherwise it performs well.",
+      "Simply a great product",
+      "Great ram. Remember to enable XMP-1 to get the actual 6000 MHz. It defaults to 4800 MHz. Low profile too so big air coolers like mine can fit with no problem.",
+      "Does what it’s meant to do, not defective yet, would recommend to other people looking for a CL30 6000MHz 32 gb ram kit.",
+      "Runs as memory should.",
+      "From editing vídeos, photoshop and games all running at the same time I couldn't ask for more than this"
+    ]
+  },
+  {
+    "name": "G.Skill Trident Z5 RGB 64 GB (2 x 32 GB) DDR5-6400 CL32 Memory",
+    "price": 218.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6400J3239G32GX2-TZ5RK",
+      "Speed": "DDR5-6400",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$3.422",
+      "Color": "Black / Silver",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "32",
+      "Voltage": "1.4 V",
+      "Timing": "32-39-39-102",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(29 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/636p99/gskill-trident-z5-rgb-64-gb-2-x-32-gb-ddr5-6400-cl32-memory-f5-6400j3239g32gx2-tz5rk",
+    "comments": [
+      "I have been using G.Skill ram for many years. No complaints.",
+      "Ram works great, feels very sturdy, the RGB looks good but I wish there was a little more customization, very good performance for the price.\nNot much to leave here for a review. I came in good packaging, I plugged it in, set it up in my bios put it in slots 2 and 4 on my motherboard. It popped right into place and didn't give me any issues. Enough said.",
+      "Great RAM, even if the LEDs are kinda dim.",
+      "Was planning on downloading free RAM online but found these instead. They're fast (maybe idk) and 64GB is probably overkill, 2 sticks of 16GB would have been just as fine. The G.Skill software is okay but not great but at least the RGB options was 5$ extra only at the time of purchase.",
+      "Nothing much to say here. Just went with the best 64gigs RAM pair I could find which would be useful for running Docker containers and games in parallel.",
+      "This memory ran at the proper speed as soon as I enabled XMP in the BIOS menu. Yes I installed the sticks in 2 & 4 because thats what other people seemed to have luck with. Bright RGBs, sleek design, and fast speeds... pretty much what you expect for $215.",
+      "After enabling DCOP in the bios, this ram works perfectly.",
+      "No issues, nothing exceptional for the price point",
+      "Fast and looks good",
+      "Solid RGB, Solid Speed, Best price I found for both of those together. 5 Stars."
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Create Expert 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 92.99,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "CTCED532G6000HC30DC01",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.906",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(77 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/H9CZxr/teamgroup-t-create-expert-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-ctced532g6000hc30dc01",
+    "comments": [
+      "Great memory kit, sufficient clock speed and timings for modern processors!",
+      "Beautiful RAM to match the aesthetic of the motherboard perfectly.",
+      "Does the job",
+      "Does what they need to do and holds the right price for the specs. If you're doing a non-LED build and air cooling your CPU, both sticks of RAM just happened to fit perfectly and discreetly under the Phantom Spirit's fans without having to offset them from the radiators at all! DDR5-6000 CL30 has been said to be the ideal spec for AM5 Ryzen procs so far in 2025, and as I don't really have any other experiences to compare it to, I couldn't really say otherwise. Just be sure to turn on the EXPO profile to enable their full potential.",
+      "Great ram kit. Handles everything. Might get more so I can fill the slots soon.",
+      "Alternatively, you could purchase Silicon Power's value RAM ($5 cheaper) but the customer reviews were not great, whereas TG's RAM was very highly rated and is stable at 6000 MHz with EXPO profile enabled (SK Hynix, M-Die FTW!).\nNonetheless, DDR5-6000 CL30 is the sweet spot for gaming on AM5 (B650 chipset) with Ryzen 7000 CPUs. So whatever RAM sticks you choose, make sure it matches that spec and always memtest your RAM!\nIf you want to experiment with Buildzoid timings for this RAM, I have linked the most recent one.\nRefer:\nIs High-Speed Memory Worth It For Gaming? Stock vs. EXPO/XMP\nUpdated Buildzoid timings for 2025 - check top highlighted comment by @zugre",
+      "Its 32GB for less than $100, has AMD Expo and Intel XMP. Goes at the rated speed once enabled. Idk what else to say, except for it looking god damn gorgeous. (P.S idk if its for every ram or my mobo but istg when I slotted it in it sounded hella crunchy like captain crunch level)",
+      "Fast memory",
+      "No hassle kit, paired with 9800x3d and installed on MSI Pro X870. I set it on EXPO1 and stable at 6000 MT/S",
+      "Good memory for the price, on the QVL for my motherboard."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "price": 87.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMW32GX4M2Z3600C18",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.750",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "18",
+      "Voltage": "1.35 V",
+      "Timing": "18-22-22-42",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(104 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/khmFf7/corsair-vengeance-rgb-pro-32-gb-2-x-16-gb-ddr4-3600-memory-cmw32gx4m2z3600c18",
+    "comments": [
+      "Cool looking RGB and fast as ****. Pretty tall though so definitely check your cooler clearance",
+      "Fast and cheap memory. Always love Corsair RGB implementation.",
+      "32 gb is 32 gb",
+      "Perfect RAM! RGB works flawlessly, and it is just the perfect capacity for me.",
+      "They look cool and all, but the ICUE programming on this is even worse than the fans. I can't assign individual LED lights without using memory mode, which I need to set to black to keep them off when my PC goes into sleep mode, so I'm really limited in my options. for some reason I can't use multicolour outside of memory mode so I'm stuck with the one colour on a single stick instead of two like I wanted. annoying.",
+      "good ram! runs good, although the icue lighting was confusing to get used to at first...",
+      "Good, fast RAM. RGBs are a nice touch.",
+      "Amazing rgb and Good quality",
+      "OpenRGB is compatible with these without any issue, and otherwise it's RAM so. As long as it's not DOA, it's fine for me.",
+      "I bought 2 kits in which both chips were dual ranked but made by different plants & 1 kit isnt Samsung B-Die which surprises me how 2 I order the exact same product yet get different results."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "price": 72.98,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK32GX4M2D3600C18",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.281",
+      "Color": "Black / Yellow",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "18",
+      "Voltage": "1.35 V",
+      "Timing": "18-22-22-42",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(106 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/Yg3mP6/corsair-vengeance-lpx-32-gb-2-x-16-gb-ddr4-3600-memory-cmk32gx4m2d3600c18",
+    "comments": [
+      "Another EBay purchase ($28). With XMP profile engaged runs at the rated 3200MHz. Very pleased.",
+      "Low profile helps it clear my cpu cooler. Wish I'd gone for 4000mhz, since that would increase the Infinity Fabric speed and give me a little more performance. Still considering that option, but no complaints about this ram and I don't like messing with stuff which is working.",
+      "Great dependable ram, if you can get it at a good price.",
+      "Basic RAM, no RGB. Looks pretty good and blends right in. Also low-profile for big coolers.",
+      "RAM... It processes short-term memory. I like these, good speed at 3600Mhz as I did overclock them to the max. Rarely do I utilize 50% load with a total of 64GB, even while gaming. Does the job and fits well with my build.",
+      "Basic RAM, no RGB. Looks pretty good and blends right in. Also low-profile for big coolers.",
+      "Good RAM, though I would recommend getting the 2x32 for 64 instead unless you have severe budget constraints.",
+      "It's RAM, works great at 3600MHz and CL18 with the XMP profile.",
+      "Solid RAM kit that works very well on a B550 MSI motherboard.",
+      "Clean black RAM, easy OC."
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Force Delta RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 92.99,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "FF4D532G6000HC30DC01",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.906",
+      "Color": "White",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(75 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/WFVmP6/teamgroup-t-force-delta-rgb-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-ff4d532g6000hc30dc01",
+    "comments": [
+      "One of the best ram sticks I've used and overclocks as some of the best in the market The rgb is a little dim in the white coulr",
+      "Runs great at expo 6000mhz CL30 with no issues. Tall memory so CPU fan is raised. But nice RGB colors. Unfortunately no software support to control RGB aside from motherboard's ARGB software. Have been spoiled with using external devices support as an option.",
+      "DDR5-6000 CL30 RAM. Except RGB and white. The RGB and white upcharges are actually pretty modest on these sticks, and they're easily controlled through motherboard software.\nColours aren't perfect and slightly vary from other RGB lights which is noticeable when synced, but I think that's expected with different types of light. The only range of colours where it's actually obvious is purple, which looks too pinkish except for a select few shades of purple",
+      "Work great and look amazing, what more could you want?",
+      "Works, no performance complaints. Only thing is that the RGB is noticeably less vibrant than my case fans so when I have a static colour e.g all pink, it has a bit of a different shade, but still fine.",
+      "Great performance for the price. The ARGB looks great and plays nicely with whatever software you are using.",
+      "Best value RAM I could find in Australia at the time.",
+      "No issues. Looks great.",
+      "Great ram as always",
+      "It performs beautifully, 6000MT/s with an EXPO profile and as much capacity as I'll ever need (within a reasonable lifespan of a computer). One star off because the LEDs are incapable of showing a good white, but that's petty."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMH64GX5M2B6000C30",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$3.750",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(9 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/WTMMnQ/corsair-vengeance-rgb-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-cmh64gx5m2b6000c30",
+    "comments": [
+      "Works as advertised. LEDs are a bit brighter than other RGB components from Corsair, and colors are a bit paler. But only slightly; this is an otherwise great pack for the new AMD 9000 series and is comfortable with an EXPO out of the box.",
+      "No issues here, besides the terrible RGB selection.",
+      "Works very well. Only ICUe is a pain to use",
+      "Works fine, but ICUE sucks and rarely works properly.",
+      "0 complaint about this RAM kit. It's the optimal DDR5 kit for running Ryzen 7k series and XMP'd just fine. The lighting has a lot of cool things you can customize and the Cosair iCue software is phenomenal and I wish everything were compatible with it.",
+      "Looks beautiful. 64GB is overkill but some workloads need it, I benefitted from it. Good Speed and Latency, right in the sweet spot for DDR5 I would say.",
+      "Does its job and looks great. Lighting is easily configurable in ICUE, although the software itself does cause issues and I had to revert to version 4 to stop it from crashing constantly. No issues since then.",
+      "Awesome performance, maybe a bit too expensive but does the job well. Had DOCP issues though, potentially linked to R7 7800x3d chip lottery"
+    ]
+  },
+  {
+    "name": "G.Skill Trident Z5 Neo RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 112.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6000J3038F16GX2-TZ5NR",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.531",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-38-38-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "No"
+    },
+    "rating": "(107 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/CXKKHx/gskill-trident-z5-neo-rgb-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-f5-6000j3038f16gx2-tz5nr",
+    "comments": [
+      "Good ram no complaints! I like the look, although the G.Skill RGB control program is only okay.",
+      "Maybe the part that i am not 100% sure that if it was the best option for me (do the job tho)",
+      "Works great with EXPO had no issues with that. fast and works as should. only thing i wish this RAM had was brighter RGBs.",
+      "awesome sauce ram no issues",
+      "The ram was on the QVL list for my board and works as advertised with EXPO enabled.",
+      "Great, no issues so far.",
+      "Fast Ram. Good Aesthetic. AMD EXPO overclocking easy.",
+      "fast ram",
+      "This is a very good looking 2x16gb ddr5 kit from G-Skill at an excellent speed and latency. AMD EXPO has been working flawlessly with no instability or crashes. Although, it is probably a bit more pricy compared to a similarly spec kit from Teamgroup. It was the only ddr5-6000 cl 30 kit in stock at my local Canada Computers, so I bought this kit instead of the one from Teamgroup.",
+      "rgb is a little dim compared to other sticks but the design makes up for it"
+    ]
+  },
+  {
+    "name": "G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "price": 51.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F4-3200C16D-32GVK",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$1.625",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-18-18-38",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(132 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/kXbkcf/gskill-ripjaws-v-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-f4-3200c16d-32gvk",
+    "comments": [
+      "Had a DOA stick that needed replaced.",
+      "Had no issues with it. Pretty good ram.",
+      "Looks sleek, runs great. I doubt I'll ever need more than 32 gigs of RAM, but I'd be happy to get another pair of these if I had to.",
+      "dont know what ram is supposed to get wrong when all it's specs are on the buy page",
+      "Fast and as advertised",
+      "Decent ram for the price! a bit lacking in aesthetics though.",
+      "I think this is a bit much for my system and yet at some point, I'm going to buy a second pack of these for 64gb. other than that it's fast and works well",
+      "Went with the most well rated DDR4, 32 GB to make sure it can handle DAW projects full of heavy virtual instruments.",
+      "This is not actually the RAM I bought, but the Ripjaws I did buy are not listed on PCPartPicker for some reason. If you click the amazon link for this RAM it will take you to the listing for the CL18 3600mt/s I bought that's $5 more. Still, it's G.Skill: you know it's gonna be good stuff.",
+      "Cheap and high quality. Runs a server 12 hours a day and still plays games while doing so."
+    ]
+  },
+  {
+    "name": "G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 99.89,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6000J3038F16GX2-FX5",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.122",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-38-38-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(77 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/LBstt6/gskill-flare-x5-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-f5-6000j3038f16gx2-fx5",
+    "comments": [
+      "Good ram, it works.",
+      "Got these on BF sale for a good price. No rgb and not enormous with good performance.",
+      "Great RAM",
+      "Okay RAM. Nothing special about it.",
+      "So far so good, works and hasn't caused any problems. Wouldn't have been my first choice but came in a microcenter bundle.",
+      "I like the basic look of it, goes together well with a lot of parts.",
+      "Has a lifetime (limited) warranty, a good RAM for the price, also got with microcenter bundle. Don't recommend if your getting individually tho, as it has a high cl36 rating.",
+      "Decent ram, looks kinda meh imo nothing more to say",
+      "Non-intrusive look, works fine. It's RAM. It's gonna do whatever RAM does.",
+      "Low profile ram, with good bus and cas. Good to use with my 2 towers air cooler."
+    ]
+  },
+  {
+    "name": "G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "price": 83.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6000J3636F16GX2-FX5",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.625",
+      "Color": "Black",
+      "First Word Latency": "12 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.35 V",
+      "Timing": "36-36-36-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "No"
+    },
+    "rating": "(74 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/pwxRsY/gskill-flare-x5-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-f5-6000j3636f16gx2-fx5",
+    "comments": [
+      "Works well, though you will have to lift your front fan a bit if you use an air cooler.",
+      "Needed this RAM for CPU cooler clearance as it is very short in height. I was able to install 4 sticks total. Enabled XMP and now I am getting the proper speeds. Color and style fits my PC theme as well.",
+      "Needed this RAM for CPU cooler clearance as it is very short in height. I was able to install 4 sticks total. Enabled XMP and now I am getting the proper speeds. Color and style fits my PC theme as well.",
+      "This ram does it's job. In the future i may swap it out for some RGB ram but I'm content with what i have now. No weird crashes or hiccups, and runs at it's advertised speed.",
+      "EXPO worked out of the box, good enough for me",
+      "Great kit! In the bundle they gave me the cl36 one instead of the cl30 one, I think this was because they had extra stock of the slower one, but it still great though for those building with this kit use the cl30 one instead.",
+      "Expo worked without a problem. Not much else to say, just normal 32gb ddr5 ram.",
+      "Basic ram got it with a microcenter bundle",
+      "Also included in the cpu bundle from microcenter. Good speeds but the latency isn't too great but it hasn't really affected me. I wish it were black but I'm also giving it a thumbs-up for being low profile so my beefy air cooler just covered it up lol.",
+      "No complaints, they're out here doing their job. Felt pretty nimble even before I turned on EXPO."
+    ]
+  },
+  {
+    "name": "Crucial Pro Overclocking 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "price": 94.99,
+    "specs": {
+      "Manufacturer": "Crucial",
+      "Part #": "CP2K16G60C36U5B",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.968",
+      "Color": "Black",
+      "First Word Latency": "12 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.35 V",
+      "Timing": "36-38-38-80",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(15 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/QF9wrH/crucial-pro-overclocking-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-cp2k16g60c36u5b",
+    "comments": [
+      "Not much to say. Runs at the advertised speeds after enabling XMP with no issues. Simple and sleek.",
+      "Its good, heat spreaders are pretty easy to remove with effort, but takes time being careful. The glue used on the thermal pads is ridiculously strong, especially on the back side where there are no modules.",
+      "Great performance !",
+      "clean looking ram, was one of the cheapest available kits",
+      "Was a bit skeptical of buying these over the Corsair Vengeance but I don't regret my decision anymore",
+      "Plain looking, low profile RAM at good prices. Works well after setting the EXPO profile in BIOS:",
+      "Funny thing is for my case I initially got the ddr4 version when my motherboard is a ddr5 version so I couldn’t use these but from what I heard these are amazing so I wouldn’t doubt it if you are thinking about getting it for your rig too.",
+      "6000MT but cl36… It’s cheap though",
+      "Purchased from Amazon\nCan't complain at all for the price.",
+      "Good DDR5 memory"
+    ]
+  },
+  {
+    "name": "Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "price": 55.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK32GX4M2E3200C16",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$1.750",
+      "Color": "Black / Yellow",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-20-20-38",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(65 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/W6ndnQ/corsair-vengeance-lpx-32-gb-2-x-16-gb-ddr4-3200-memory-cmk32gx4m2e3200c16",
+    "comments": [
+      "I bought this kit from Best Buy for less then $50. 32GB is way overkill, I only really need 16, but the 16GB kit was too expensive and didn't make sense to get. 3200MT/s is also very fast.",
+      "It's a 2x16 GB kit of RAM. It does what I need it to do.",
+      "Limited life time warranty, cheap and doesn't come with ugly rainbow vomit.",
+      "So far, leaves a ton of room for programs on my pc and is very quick. Great",
+      "Reliable, budget, low-profile memory. All for a fair price, I got a super fast ram kit with a lot of space. Sort of overkill for gaming but great for 4K video editing and 3D modeling/rendering workflows.",
+      "Why havent you bought this already?",
+      "It's RAM. Not sure what else I can say other than that the price was good.\nGoing with DDR4 may seem questionable in 2025, but while the price of DDR5 has come way down, it was still significant enough of a gap, and with this kit I was able to get 32 gigs for not much more than 16GB from the same brand.",
+      "Good, standard RAM from a reliable brand. The design looks cool for an all black project.",
+      "Does the job and is often the cheapest.",
+      "enabled amd expo great, went in easily and easily enough to run games and multitask"
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Force Delta RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 92.99,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "FF3D532G6000HC30DC01",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.906",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(57 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/2JLFf7/teamgroup-t-force-delta-rgb-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-ff3d532g6000hc30dc01",
+    "comments": [
+      "its Ram looks very cool, and is perfect speeds for my cpu",
+      "Very fast memory, glad I went with 32GB to future-proof my build.",
+      "Ram functions just fine but each kit has one stick that slowly gets out of sync with the others. I don't use animated ram RGB so no big deal, but it's still weird, so it doesn't deserve 5 stars.",
+      "Really strong performance and the rgb on this thing is absolutely beautiful. Ideally get it on sale for under $90 if you can find it but I'd say the extra few $ is worth it for the style and rgb I love this thing.",
+      "fastest ddr5 rgb ram i could find for a reasonable price",
+      "Honestly I didn't buy these for any particular reason other than price but I love how they look in my build.",
+      "Kinda large, so you may need to make sure you have enough clearance to fit these in. Work great and looks striking.",
+      "runs. i can push to 6400 with oc",
+      "Good value ram, rgb is nice and bright.",
+      "A bit high for my cpu cooler lol, but i like the rgb on it."
+    ]
+  },
+  {
+    "name": "Patriot Viper Venom 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 84.99,
+    "specs": {
+      "Manufacturer": "Patriot",
+      "Part #": "PVV532G600C30K",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.656",
+      "Color": "Black / White",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-40-40-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/4cCCmG/patriot-viper-venom-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-pvv532g600c30k",
+    "comments": [
+      "Found it for cheap, with AMD EXPO/Intel XMP you can fully use the 6000MT/s you pay for."
+    ]
+  },
+  {
+    "name": "Silicon Power GAMING 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "price": 25.97,
+    "specs": {
+      "Manufacturer": "Silicon Power",
+      "Part #": "SP016GXLZU320BDAJ5",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$1.623",
+      "Color": "Black / Gray",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(59 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/P4FKHx/silicon-power-sp016gxlzu320bdaj5-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-sp016gxlzu320bdaj5",
+    "comments": [
+      "16 GBs, 3200 mt/s, it's in the sweet spot for e-sports titles like I play.",
+      "If I could give 6 stars I would. I don't know why more people don't use this! It was only like $20 when I bought it, and performs just as well as the fancy ram sticks speed-wise. Also looks cool!",
+      "Looks good, can fit in any price range DDR4 build, zero problems.",
+      "it ram it works from bought for $38 cad from amazon",
+      "3 months later and I think 1 of the sticks I bought are starting to act up on me. Every time I give a nice jolt to my compuuter case the thing crashes, not a bsod it jus freezes and buzzes out. yesterday I reseated the memory and all 3 sticks, (2 dominator lpxs and 1 of these) booted just fine but the 4 one was being so annoyingly finicky, still got it to work in the end tho just gotta not trip on my computer.",
+      "It seems to hit the 3200 speed no problem.",
+      "cheapest kit of 16gb of ddr4 i could find that didn't have super slow speeds. works great.",
+      "Works fine, no heat spreader on the back though, so kinda ugly.",
+      "Good, cheap ram. No issues with it whatsoever. Not flashy, but I don't like RGB ram anyways.\nEnded up getting more later with how well it worked.",
+      "Amazing budget clicked in nicely would recommend"
+    ]
+  },
+  {
+    "name": "Kingston FURY Beast 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 109.99,
+    "specs": {
+      "Manufacturer": "Kingston",
+      "Part #": "KF560C30BBEK2-32",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.437",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(10 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/q7LdnQ/kingston-fury-beast-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-kf560c30bbek2-32",
+    "comments": [
+      "It's RAM. It's DDR-5-6000. Enable EXPO, enjoy. Most of them are the same, to my understanding. If you're picking, choose the one that looks nice!",
+      "Great minimalistic set of RAM, no issues with the frequency and latency.",
+      "Easily overclocked using the EXPO II profile on Asus's flawless BIOS.",
+      "Not the very cheapest, not the highest clock speed, not the lowest latency but gets the job done for a good price.",
+      "Idk. So far so good. It’s the cheapest 32gb 6000Hz Cl30 Ram I can find here. I wonder if I can even tell the difference between that and 5600hz, or 6000hz but cl38. Those options are 10-20 bucks cheaper.",
+      "Great memory sticks. Gets the job done.",
+      "Perfect for gaming in 2024 and fits the all black look.",
+      "I ended up buying the Kingston Fury Beast, because of the low profile of it. There's some space between the sticks and the CPU cooler. Fits nicely. I ended up enabling the EXPO for it and still to this day I didn't even have any crashes."
+    ]
+  },
+  {
+    "name": "G.Skill Ripjaws V 64 GB (4 x 16 GB) DDR4-3200 CL14 Memory",
+    "price": 1351.56,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F4-3200C14Q-64GVK",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "4 x 16GB",
+      "Price / GB": "$21.118",
+      "Color": "Black",
+      "First Word Latency": "8.75 ns",
+      "CAS Latency": "14",
+      "Voltage": "1.35 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/rVwqqs/gskill-memory-f43200c14q64gvk",
+    "comments": []
+  },
+  {
+    "name": "Corsair Dominator Titanium 64 GB (2 x 32 GB) DDR5-6600 CL32 Memory",
+    "price": 299.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMP64GX5M2X6600C32W",
+      "Speed": "DDR5-6600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$4.687",
+      "Color": "White",
+      "First Word Latency": "9.697 ns",
+      "CAS Latency": "32",
+      "Voltage": "1.4 V",
+      "Timing": "32-39-39-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(3 Ratings, 4.3 Average)",
+    "link": "https://pcpartpicker.com/product/bWKscf/corsair-dominator-titanium-64-gb-2-x-32-gb-ddr5-6600-cl32-memory-cmp64gx5m2x6600c32w",
+    "comments": [
+      "Worked out of the box. I did perform some overclocking for the pre-build and memory training took about 30 seconds. Afterwards, during the pre-build and final build, the PC booted up very quickly to the home screen in under 10 seconds",
+      "Runs well. Looks good. Configuring the RGB is clunky and doesn't work well. The configuration app stops seeing the DIMMs after the computer has been online for a bit. Shows up again after reboot... but annoying."
+    ]
+  },
+  {
+    "name": "Silicon Power Value Gaming 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 84.97,
+    "specs": {
+      "Manufacturer": "Silicon Power",
+      "Part #": "SP032GXLWU60AFDEAE\nSP032GXLWU60AFDJ",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.655",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-38-38-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(11 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/cCKscf/silicon-power-value-gaming-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-sp032gxlwu60afdeae",
+    "comments": [
+      "Silicon Power provides excellent value with their Value Gaming RAM kits. Good speed and timings for a bargain price.",
+      "Great DDR5 at a great price!",
+      "Incredible power packed within an inexpensive price tag. Great performance, as long as you seat it properly. Can be a bit frightening because there's not a lot to these sticks. Definitely worth the money though!",
+      "nothin special but fast for the price, only 1 side has like the black thing btw",
+      "Cheap ram, it works fine.",
+      "Great ram, haven’t had any problems",
+      "the silicon power value gaming ram are naked sticks with a heat spreader on only the chipped side of the stick, they look kinda meh but its like the cheapest ddr5. they also did fit perfectly under the big Thermalright cooler without adjusting the fan height on the outside fan, so it worked out in this situation. if you care about aesthetics go for t create sticks for a little bit more, they look much better.",
+      "85 dollars, not bad!\nI was able to do 6200MT/s @ CL30 easily on this kit, get it!",
+      "Great cheap ram, it came fast. What do I say?",
+      "great budget ram. does the same thing as more expensive kits, just not as pretty."
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Force Vulcan Z 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "price": 26.99,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "TLZGD416G3200HC16CDC01",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$1.687",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-18-18-38",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(112 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/z3VD4D/team-t-force-vulcan-z-16-gb-2-x-8-gb-ddr4-3200-memory-tlzgd416g3200hc16cdc01",
+    "comments": [
+      "Wish I had gotten a set of 2x16 gb",
+      "cheap and ok RAM. i dont know what else to say",
+      "No complaints. Reliable ram",
+      "So good I had to buy another 2 sticks. XMPing to 3200mhz was incredibly simple and there've been zero issues over the years.",
+      "For budget ram, this is unbeatable for bang-for-the-buck price to performance. Could not recommend more for the price.",
+      "it does what it needs to do",
+      "Good dependable ram. No issues.",
+      "Decent kit of DDR4. Nothing outstanding but nothing to complain about.",
+      "For budget ram, this is unbeatable for bang-for-the-buck price to performance. Could not recommend more for the price.",
+      "This is my go to RAM just because of the price point. It’s all you will need for low-mid end builds."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance RGB Pro 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "price": 59.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMW16GX4M2C3200C16",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$3.749",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-18-18-36",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(384 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/QDhKHx/corsair-vengeance-rgb-pro-16gb-2-x-8gb-ddr4-3200-memory-cmw16gx4m2c3200c16",
+    "comments": [
+      "good ram with no issues",
+      "Four sticks of these look sick in my build. Just the right amount of RAM for today's gaming.",
+      "Not much to say, great ram was cheap, 25e for 32GB",
+      "Rgb is super customizable with different types of software available and cool effects. Ram is as advertised.",
+      "Good Ram I guess...",
+      "Good RAM with nice lights/RGB control. I soon may upgrade to 32GB RAM.",
+      "Stable and flashy. Looks clean especially with all 4 sticks. Very nice kit of ram. Little overpriced though.",
+      "I have the very slightly slower CL18 version of this ram that isn't listed for some reason, but I still recommend it. I would overclock this to CL16 though in my case. Enjoy the RGB.",
+      "obviously amazing ram and lives up to the hype",
+      "3200 - 3600 has always been a reliable RAM speed range, and this pair stands true by that. No issues (except with ICUE not detecting them recently, but that's probably an ICUE issue and not a ram issue) after 3+ years."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance 64 GB (2 x 32 GB) DDR5-5200 CL40 Memory",
+    "price": 156.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK64GX5M2B5200C40",
+      "Speed": "DDR5-5200",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$2.453",
+      "Color": "Black",
+      "First Word Latency": "15.385 ns",
+      "CAS Latency": "40",
+      "Voltage": "1.25 V",
+      "Timing": "40-40-40-77",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(8 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/TJZ9TW/corsair-vengeance-64-gb-2-x-32-gb-ddr5-5200-cl40-memory-cmk64gx5m2b5200c40",
+    "comments": [
+      "Very good DDR5 RAM sticks. They can stand stress without problems.",
+      "Has been with me since my 13700k build. Never had any issues with it.",
+      "Great choice for memory at a budget price! No issues with it so far, great speeds.",
+      "Great price!",
+      "cheap, low profile, and high capacity\ndownside ITS MICRON RUN FOR THE HILLS AHHHHHHHHHHHHH",
+      "Good RAM for the price. Works well and gets the job done. What more can I say? I will probably go with a faster version next time.",
+      "They do their job as expected. No issues setting the XMP profile (at least not with the MSI Mag Z690M Mortar).",
+      "It works for now. Couldn’t find anything above 5200mhz when I was shopping for RAM. I will probably go for a 2x16gb kit at 7200mhz to get some more performance out of the system."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "price": 91.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMH32GX5M2E6000C36W",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.875",
+      "Color": "White / Silver",
+      "First Word Latency": "12 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.4 V",
+      "Timing": "36-44-44-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(10 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/KXV2FT/corsair-vengeance-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-cmh32gx5m2e6000c36w",
+    "comments": [
+      "Corsair please fix the icue program and make it easier for me to connect my sticks to armoury crate! help me in the comment section on how to add them in aura sync in ac! (yes they look nice and i undervolted them to 1.35 at 6000)",
+      "enabled XMP + configured the infinity fabric (thanks LTT for the \"how to\") and it's running at 6000mhz without any issues or bsod's! performance is stelar",
+      "looks realy clean and is also very fast",
+      "XMP, plus device-memory for saving RGB w/o having to run the software (iCUE).",
+      "Don't know much about ram timings so I cant tell the difference but it seems good so far.",
+      "very nice ram sticks! performance is great as well (as far as i can tell lol)\ni will probably upgrade to g.skill trident royal eventually bc The Drip is Insane, but these are really nice for now :3",
+      "beautiful ram",
+      "good ram",
+      "So far seems to be great quality and very fast! RGB lighting needs to be controlled from Corsair's iCue app.",
+      "Corsair. Nuff said."
+    ]
+  },
+  {
+    "name": "G.Skill Trident Z5 Neo RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "price": 209.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6000J3040G32GX2-TZ5NR",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$3.281",
+      "Color": "Black / Silver",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "Timing": "30-40-40-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(33 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/hRQcCJ/gskill-trident-z5-neo-rgb-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-f5-6000j3040g32gx2-tz5nr",
+    "comments": [
+      "Doesn't crash my system, bare minimum it could do",
+      "Gold standard RAM for DDR5 CPUs. Ryzen can struggle at higher speeds, so I enabled EXPO and left it like that.",
+      "Looks great and runs even better.",
+      "SO far so good, however, with the explanation above with the motherboard, I'm not sure if it's a ram issue. Might not be good if that's the case.",
+      "Very fast RAM\nEXPO go brrrr",
+      "Overkill for me but great ram",
+      "Speed",
+      "Perfect for zen 5",
+      "it’s ram, it’s fast, and it looks good",
+      "Working great so far."
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Create Expert 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 92.99,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "CTCWD532G6000HC30DC01",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.906",
+      "Color": "White",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(29 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/QzP8TW/teamgroup-t-create-expert-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-ctcwd532g6000hc30dc01",
+    "comments": [
+      "One of the better memory kits for a white build, especially if RGB is of no concern. The price undercuts most other brands with identical or comparable specs. The heat spreaders are super clean and low profile. The DDR5-6000 CL30 XMP / EXPO profile just works. No complaints.",
+      "Great set of RAM with fast speeds! I originally got it for the aesthetics to match my build, but overall, I’m super happy with its performance.",
+      "It works. Xmp enabled 6000mt with 13400f.",
+      "I wish I got the Delta R argb instead, but looks nice anyway, temps are good!",
+      "The lowest price and fastest timing. Teamgroup seem to have good reputation as well.",
+      "Clean and quick, very stable so far",
+      "Cheapest 6000 MHz CL 30 white kit. Hits EXPO profile stably.",
+      "Great so far",
+      "great memory",
+      "Packs some serious aesthetic oomf for its price, I love the golden font which makes it hard to see the logo from a distance. The holes on top are a nice touch and a solution I prefer much more over the sharp ridges that other RAM offers. One of the more proud purchases of my build."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 126.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMH32GX5M2B6000Z30K",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.968",
+      "Color": "Gray",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(64 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/mjt9TW/corsair-vengeance-rgb-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-cmh32gx5m2b6000z30k",
+    "comments": [
+      "This RAM is stable out of the box at 6000 Mhz with its EXPO profile. I also got a version that is supposedly a Newegg exclusive and is $10 cheaper than the normal version, but is for some reason only cheaper at Walmart? Haven't figured that one out, but the product number is different--CMH32GX5M2N6000Z30. I haven't played around with timings other than just loading the profile, and I probably won't in the future. That said, even with the $10 discount making it $120, it is really overpriced, so I wouldn't buy this in a new build. I only bought it to match what I took out when I switched motherboards/RAM in my existing PC that's already all Corsair. RGB is not worth a >50% premium.",
+      "One of the kits of RAM of all time. Does its job, didn't give me much trouble to set to its rated speed.",
+      "Good sticks of ram , i kept them running at 5200 MT/s, overcklocking is not my thing.",
+      "High-quality RAM that performs exactly as expected.",
+      "Stunning rgb, not much more expensive than the plain version, highly recommend.",
+      "High-quality RAM that performs exactly as expected and advertised. My older Corsair RAM held up exceptionally well over the years with barely any decline in performance, so I decided to go with this new DDR5 version. Corsair definitely makes quality products.",
+      "Sometimes made my pc BSOD and other issues (this was confirmed after receiving a new kit)",
+      "Fast RAM and perfect speed for AM5 CPUs.\nEnabled EXPO and got it running at its rated speed immediately. RGB looks nice. Hasn't caused any issues thus far.",
+      "Nice Kit, runs well and the rgb is very nice to look at, and has support for basically every rgb software that there is",
+      "Good quality ram sticks, easy to set up and change rgb profiles in iCue"
+    ]
+  },
+  {
+    "name": "Corsair Vengeance LPX 64 GB (2 x 32 GB) DDR4-3200 CL16 Memory",
+    "price": 95.98,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK64GX4M2E3200C16",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$1.500",
+      "Color": "Black / Yellow",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-20-20-38",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(19 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/k2mFf7/corsair-vengeance-lpx-64-gb-2-x-32-gb-ddr4-3200-memory-cmk64gx4m2e3200c16",
+    "comments": [
+      "Reviewed in https://es.pcpartpicker.com/b/8Gt8TW",
+      "Not the fastest or most modern, but it's a great price for a lot of memory with a heat spreader on top of it. Excellent product in my books if you don't care for ultra-performance.",
+      "Enough ram for (almost) every task, and pretty fast. Only problem I had is one of the sticks came corroded, but I'm sure that's not that common.",
+      "MEMORY- Corsair Vengeance 2x32 GB It works, its fast.",
+      "If you need 64 gb ram for editing like me, then this is honestly the best bang for buck. I think this is great for people on modern intel, as its like 100$, and is.. 64 gb, wow so much ram. I don't need to download any more. All jokes aside, I just slotted it in, enabled XMP, and the rest was history.",
+      "Super great kit. Once I enables xmp it was running at 3200. No complaints at all.",
+      "It's affordable 64 gigs of DDR-4 3200 CL16 Memory. It's a bit past it's prime, but a very good value, and you're not losing anything by only going with 3200.",
+      "It's ram, it's fast enough & I have enough to handle my daily workloads. What else is there to say? I like that it's low profile, no nonsense with air coolers? 🤷‍♂️",
+      "64GB DDR4 RAM!",
+      "I've named each gigabyte after old high school friends, so they are easier to address.\nBobby is the gigabyte I use most. Very dependable."
+    ]
+  },
+  {
+    "name": "Kingston FURY Beast 16 GB (2 x 8 GB) DDR5-5200 CL40 Memory",
+    "price": 53.99,
+    "specs": {
+      "Manufacturer": "Kingston",
+      "Part #": "KF552C40BBK2-16",
+      "Speed": "DDR5-5200",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$3.374",
+      "Color": "Black",
+      "First Word Latency": "15.385 ns",
+      "CAS Latency": "40",
+      "Voltage": "1.25 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(7 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/hbJgXL/kingston-fury-beast-16-gb-2-x-8-gb-ddr5-5200-cl40-memory-kf552c40bbk2-16",
+    "comments": [
+      "It's definitely RAM. This is my first turn of order for upgrades but it’s performing just fine for my needs at the moment, quick and easy, no problem!",
+      "It's RAM. What else can I say. As long as you play games and don't go all AI you'll be fine.",
+      "theyre a bit overpriced but very solid performance",
+      "It's DRAM and it works, I overclocked mine to DDR5-5600 but it's still kinda slow. It's still a good priced memkit but I'm probably going to upgrade to a D5-6400 kit later.",
+      "Bought this early on when ddr5 was new. Price is horrendous for what I got but at least it works with XMP (trash Micron chips though).",
+      "Great value DDR5 for gaming.",
+      "I opted for only 16G of RAM here. I'm hoping to move to 32 once the DDR5 prices go down a bit. With the CPU I chose, getting higher speed RAM was necessary to clock it stock to it's maximum. Kingston FURY Beast doesn't disappoint. Nice and fast and cool. Edit: Now have 32G of RAM."
+    ]
+  },
+  {
+    "name": "G.Skill Flare X5 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "price": 189.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6000J3040G32GX2-FX5",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$2.969",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "Timing": "30-40-40-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(24 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/6QcgXL/gskill-flare-x5-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-f5-6000j3040g32gx2-fx5",
+    "comments": [
+      "Does great!",
+      "It works, not much else to say. I haven't done any tuning or OC (aside from EXPO of course), but it worked flawlessly for me out of the box.",
+      "Wasn't my first choice, but its lack of RGB and good capacity works well for my needs. Seems to handle games and other benchmarks rather well. They're also SK Hynix M-Dies in case you're wondering.",
+      "Second time I've used G.Skill Flare RAM in a PC. Low profile, no nonsense, just serious chops.",
+      "EXPO ready. While I don't feel the need to overclock, it's good to know it's ready for it if I ever decide to.",
+      "It's RAM, it works. I appreciate that it's shorter than my previous RGB RAM. 64GB is probably overkill for most people, and even for me, but I like the overhead. The price was worth it to not have to upgrade my RAM for a loooong time.",
+      "Pretty good, just unfortunately very bland.",
+      "Upgraded from 32GB to help with multitasking (Discord, youtube, playthrough guides) while playing more 4X/Strategy/Simulation games. Ran EXPO out of the box first try, but decided to run these sticks with 28-38-38-96 timings instead and had no issues with stability. Combined with a Ryzen 7 7800X3D and Asus ROG STRIX X670E-I ITX mobo.",
+      "EXPO ran great and works good.",
+      "Turned on XMP and worked like a charm"
+    ]
+  },
+  {
+    "name": "G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "price": 69.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F4-3600C18D-32GTZR",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.187",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "18",
+      "Voltage": "1.35 V",
+      "Timing": "18-22-22-42",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(31 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/fBLwrH/gskill-trident-z-rgb-32-gb-2-x-16-gb-ddr4-3600-memory-f4-3600c18d-32gtzr",
+    "comments": [
+      "Beautiful, fast, and stable ram.",
+      "You can’t beat the price and look on this ram. It’s more than enough for the small 1080p games being played in this pc.",
+      "Great fast memory kit. Hit xmp easily. Looks amazing.",
+      "Its ram 👍",
+      "DOCP profile applied without issue. Aesthetically attractive. A verified lighting configuration option outside of motherboard manufacturer bloatware would be nice.",
+      "Works fine looks good",
+      "have ran this ram on multiple systems now without issue it is quick and also quiet cheap",
+      "A nice looking 32gb kit of DDR4. Nothing more to say.",
+      "I've always loved how this kit looks and for 90 bucks I couldn't resist. 32 GB should be plenty for years to come, unless Windows figures out how to waste even more memory.",
+      "Great RAM, amazing support by G-Skill. Had a cheap AEGIS kit die on me a few months ago, G-skill have been really communicative and sent out a replacement ASAP. One of the best customer support I've ever received. As for this kit, it looks good, it performs well. What else would you want in RAM?"
+    ]
+  },
+  {
+    "name": "Kingston FURY Beast 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "price": 43.82,
+    "specs": {
+      "Manufacturer": "Kingston",
+      "Part #": "KF432C16BBK216",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$2.739",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(19 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/6YfnTW/kingston-fury-beast-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-kf432c16bbk216",
+    "comments": [
+      "It's ram.",
+      "Fast ram XMP worked instantly and looks good in my build",
+      "It looks great, performs fine, what more could you want? Apparently a sticker, since that was included in the package! It's just a red version of the logo, but still, if you're doing a red themed PC this has you covered. I debated getting the 3600 CL17, and maybe I should have, but this was the maximum supported by my CPU so I wanted to be safe.",
+      "Ram",
+      "Finally installed some juicy RAM :)\nI got it running at 3400 MHz, a nice boost that's also stable! I didn't mess with the timings, so it might not be as beneficial as it could be, but still!\nThe heatsinks look sexy, and they keep the RAM nice and cool. Definitely recommend — pairs nicely with the 5700X, and the system is really snappy!",
+      "Ram",
+      "A nice cheap 16gb kit of ram which is great for PC flipping, would recommend.",
+      "simply works.",
+      "XMP profiles are stables but they're is absolutely no headroom for going higher than the advertised clock speeds which is a shame given that they're a fair bit more expensive than other budget oriented 3200 C16 sticks in my region, still a decent product overall\nUpdate : After a little bit of tweaking I actually managed to set the kits (yes both at the same time) to 3400Mhz CL14-17-17-32 which is a big uplift ! Definitively a good product",
+      "Perferct but overpriced."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance RGB 192 GB (4 x 48 GB) DDR5-5200 CL38 Memory",
+    "price": 629.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMH192GX5M4B5200C38",
+      "Speed": "DDR5-5200",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "4 x 48GB",
+      "Price / GB": "$3.281",
+      "Color": "Black",
+      "First Word Latency": "14.615 ns",
+      "CAS Latency": "38",
+      "Voltage": "1.25 V",
+      "Timing": "38-38-38-84",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/xrV2FT/corsair-vengeance-rgb-192-gb-4-x-48-gb-ddr5-5200-cl38-memory-cmh192gx5m4b5200c38",
+    "comments": []
+  },
+  {
+    "name": "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMH32GX5M2D6000C36W",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Color": "White",
+      "First Word Latency": "12 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.35 V",
+      "Timing": "36-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(43 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/QTLFf7/corsair-vengeance-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-cmh32gx5m2d6000c36w",
+    "comments": [
+      "Looks and works well",
+      "Always used Corsair when I upgraded my PC, so I went with it again.",
+      "As happy with this RAM as one can be with RAM - only issue I've experienced so far is having the iCUE software play well with SignalRGB; I don't want to uninstall iCUE because it's necessary for my K55 RGB PRO Keyboard",
+      "Looks beautiful but there are obviously way better options out there in terms of performance. I didn't realize this wasn't CL30 until it was too late. Luckily my AMD system lets me tweak the shortcomings in BIOS so I can tune it myself.\nThe sticks are thick and have a heft to them, almost like steak fries, They're very pretty when they turn on, though.",
+      "top quality, although i would recomend the cl30 kit for AMD CPUs",
+      "Great ram, fast and the rgb looks fantastic",
+      "This RAM is so pretty to look at and performs really well for what I needed for this build, but unless you measure exactly for clearance beforehand, top-mounting a cooler above it is not a fun task. It truly is a chonk x2. Recommend measuring first as I did not do this and the clearance wasn't enough, so I had to move my cooler over (rookie mistake).",
+      "The Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 does exactly what it's supposed to and then some. Reliable, fast, and with a nice RGB flair, it enhances performance without a hitch. Perfect choice for any build.",
+      "I didn't do proper research before realizing I needed to buy this, as I didn't realize DDR5 wouldn't be backwards compatible with DDR4! Anyway, the price of memory loves fluctuating so I probably could've found a better deal but this is just the classic OG ram.",
+      "Fast, easy software and great looking. No Complaints."
+    ]
+  },
+  {
+    "name": "Silicon Power GAMING 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "price": 43.97,
+    "specs": {
+      "Manufacturer": "Silicon Power",
+      "Part #": "SP032GXLZU320BDAJ7",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$1.374",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-18-18-36",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(21 Ratings, 4.4 Average)",
+    "link": "https://pcpartpicker.com/product/B8QcCJ/silicon-power-gaming-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-sp032gxlzu320bdaj7",
+    "comments": [
+      "Could use a teeny bit extra cooling.",
+      "Everything worked",
+      "I bought it because it was the cheapest 32GB DDR4 RAM kit. It works. 'Nuff said.",
+      "It's nothing special and I don't understand the complaints against the heatspreader being misleading or anything special being on the RAM. Its good value and I'm satisfied that it works at advertised speeds once you enable X.M.P",
+      "It's ok. the heat spreader being on the side you can't see is annoying.",
+      "I mean its ram, it worked.",
+      "Great product, works just fine. Wish that they would have said that the base clock for this RAM was 2666 MHz without overlooking or enabling XMP.",
+      "Realible kit, hasn't given me any issues. Was able to get the XMP/EXPO profile to 3200 no problem.",
+      "Speed? Average. Looks? Plain. Price? Cheap.\nDoes what it needs to for a low cost, if you're on a budget it does the job just fine.",
+      "No armor, nothing special, bought it for the price."
+    ]
+  },
+  {
+    "name": "G.Skill Trident Z5 Royal Neo RGB 32 GB (2 x 16 GB) DDR5-6000 CL28 Memory",
+    "price": 149.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6000J2836G16GX2-TR5NS",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$4.687",
+      "Color": "Silver",
+      "First Word Latency": "9.333 ns",
+      "CAS Latency": "28",
+      "Voltage": "1.4 V",
+      "Timing": "28-36-36-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(9 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Hm6NnQ/gskill-trident-z5-royal-neo-rgb-32-gb-2-x-16-gb-ddr5-6000-cl28-memory-f5-6000j2836g16gx2-tr5ns",
+    "comments": [
+      "Definitely not the most cost effective RAM, you can get something cheaper with these same specs. But the aesthetic on this RAM is unmatched.",
+      "Pretty ram, good timings, and should be a great overclocker.",
+      "They look amazing and performance incredibly well with 6000 MT/s and CL28.",
+      "Gorgeous sticks of RAM.",
+      "Running EXPO without any problem. Real eye catchers.",
+      "Just like their DDR4 variants but an improvement in every way.",
+      "Great RGB and fast no issues",
+      "Arguably the best looking RAM on the market, and the times on this thing are pretty fast. 2nd time going with the Royal series, would NEVER change up on it.",
+      "best 6000MHz DDR5 ram"
+    ]
+  },
+  {
+    "name": "Patriot Viper Venom 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "price": 79.99,
+    "specs": {
+      "Manufacturer": "Patriot",
+      "Part #": "PVV532G600C36K",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.500",
+      "Color": "Black / White",
+      "First Word Latency": "12 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.25 V",
+      "Timing": "36-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(3 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/8fWzK8/patriot-viper-venom-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-pvv532g600c36k",
+    "comments": [
+      "very nice works well just wish i got the rgb ones lol",
+      "Recognized at the rated EXPO speeds without issue",
+      "Its Ram, it worked at 6000Mhz no problem and done what it needs to do\nKP-PCBuilds"
+    ]
+  },
+  {
+    "name": "Corsair Vengeance 16 GB (2 x 8 GB) DDR5-5200 CL40 Memory",
+    "price": 59.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK16GX5M2B5200C40",
+      "Speed": "DDR5-5200",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$3.749",
+      "Color": "Black",
+      "First Word Latency": "15.385 ns",
+      "CAS Latency": "40",
+      "Voltage": "1.25 V",
+      "Timing": "40-40-40-77",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(6 Ratings, 3.5 Average)",
+    "link": "https://pcpartpicker.com/product/H6rqqs/corsair-vengeance-16-gb-2-x-8-gb-ddr5-5200-cl40-memory-cmk16gx5m2b5200c40",
+    "comments": [
+      "On the lower end of DDR5 speeds. 16GB is the lowest amount of memory I would recommend at this time. It's RAM, it works. Don't pay more than about $85 (AUD) for this kit.",
+      "very slow",
+      "There isn't much choice for 16GB DDR5 kits so this was the best option. Personally I wouldn't buy a CL40 kit but it should be fine for the customer.",
+      "Very good RAM to start off with. But should consider upgrading in the future",
+      "I have not encountered significant issues with my ram, as most of my use of my computer ends up gpu or frame-limit bound, but if you're aiming to get the best value out of your pc, it's definitely worth it to go 32gb 6000 cl32 for around 40$ more.",
+      "It works just pricey"
+    ]
+  },
+  {
+    "name": "Kingston FURY Beast RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 119.99,
+    "specs": {
+      "Manufacturer": "Kingston",
+      "Part #": "KF560C30BBEAK2-32",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.750",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(9 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/NWhv6h/kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-kf560c30bbeak2-32",
+    "comments": [
+      "LED RGB is controlled by standalone software in windows, and I'd assume hard to control on other OS's. Heater makes the module a lot higher, and is higher on the other side. Its possible to take these off to make them a lot lower for SFF, and I'd suggest to use a heat gun or something similiar before slowely prying them off.",
+      "Low latency, good aesthetic, reasonable price. One thing to note, Kingston advertises this infrared technology. I chalked it up to a marketing gimmick. However, in my experience when running applications that control the rgb on the dimms I see a noticeable decrease in cpu utlization vs other DDR brands. I have seen this behavior with most motherboard rgb software (ASUS, Gigabyte, and MSI) and razer synapse. Your mileage may vary.",
+      "Basic RAM works just fine",
+      "Kingston FURY Beast RGB 32GB DDR5-6000 CL30 Review: Fast, Stylish, and Affordable\nThe Kingston FURY Beast RGB 32GB (2 x 16GB) DDR5-6000 CL30 is an outstanding choice for anyone building a high-performance PC, particularly when paired with a powerful processor like the AMD Ryzen 9800X3D. The speed and responsiveness of this memory are fantastic, offering seamless multitasking and high-bandwidth performance for both gaming and productivity tasks. With its DDR5-6000 speed and CL30 latency, it’s optimized to get the most out of Ryzen’s architecture, ensuring smooth and efficient operation across the board.\nAesthetically, the RGB lighting on the FURY Beast is a major highlight. The colors are vibrant and easily customizable, adding a touch of personality to the build. Whether you prefer a subtle glow or a more dynamic, flashy look, the RGB lighting can be tuned to fit your style perfectly.\nWhat really stands out, though, is the value. For 32GB of high-speed DDR5 memory, the price is incredibly competitive, especially given the performance and quality you're getting. In a world where memory prices can vary dramatically, Kingston has delivered a great balance between cost and performance with this kit.\nOverall, the Kingston FURY Beast RGB 32GB DDR5-6000 CL30 provides excellent speed, an eye-catching RGB experience, and great value for anyone looking to maximize the performance of their system without breaking the bank. It’s a perfect complement to a high-end setup like the Ryzen 9800X3D. Put as 4 stars, as had to install the Kingston RGB software, i couldnt see to control this in OpenRGB although maybe thats a lack of knowledge on my part.",
+      "Looks clean and performs great as well. Not much else to say really.",
+      "This RAM has been performing perfectly at the advertised speed. The LEDs are bright and fairly color accurate.",
+      "It's just RAM, you really cant go wrong these days. I loved the design and it worked perfectly.",
+      "Pros: Vibrant and accurate colours, fast speeds, looks great.\nCons: N/A"
+    ]
+  },
+  {
+    "name": "Corsair Dominator Titanium 64 GB (2 x 32 GB) DDR5-6600 CL32 Memory",
+    "price": 324.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMP64GX5M2X6600C32",
+      "Speed": "DDR5-6600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$5.078",
+      "Color": "Black",
+      "First Word Latency": "9.697 ns",
+      "CAS Latency": "32",
+      "Voltage": "1.4 V",
+      "Timing": "32-39-39-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/2pV2FT/corsair-dominator-titanium-64-gb-2-x-32-gb-ddr5-6600-cl32-memory-cmp64gx5m2x6600c32",
+    "comments": [
+      "Corsair has become my go-to for memory. I've owned a set from their Vengeance, Dominator Platinum, and now their Dominator Titanium line. XMP works every time out the box, are reliable, and look great! However, I do prefer the look of the Dominator Platinum's better. They are also a bit expensive compared to other brands."
+    ]
+  },
+  {
+    "name": "Patriot Viper Venom 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "price": 79.99,
+    "specs": {
+      "Manufacturer": "Patriot",
+      "Part #": "PVV532G640C32K",
+      "Speed": "DDR5-6400",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.500",
+      "Color": "Black / White",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "32",
+      "Voltage": "1.4 V",
+      "Timing": "32-40-40-84",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(4 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Yyqrxr/patriot-viper-venom-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-pvv532g640c32k",
+    "comments": [
+      "its ram, it worked, loaded xmp profile on my asrock b650 board no issue"
+    ]
+  },
+  {
+    "name": "G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "price": 114.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6400J3239G16GX2-TZ5RK",
+      "Speed": "DDR5-6400",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.593",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "32",
+      "Voltage": "1.4 V",
+      "Timing": "32-39-39-102",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(40 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/RXGbt6/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-f5-6400j3239g16gx2-tz5rk",
+    "comments": [
+      "Looks awesome, got it on sale, been using Gskill forever, no issues with their XMP.",
+      "Looks great and performs likewise! But the rgb is a little dim",
+      "Blazing fast. Noticeably quicker than the DDR4 4000/CL14 I upgraded from.",
+      "My only gripe is that I could not enable xmp, probably because these only come in pairs and not in 4 sticks.",
+      "Awesome RAM with great speed but installation was a bit more difficult because the top is a little sharp so pushing down the RAM sticks was uncomfortable.",
+      "Good fast ram, looks cool and the such, it does get kinda warm and im giving it 4 stars though because I ordered this ram off amazon and one of the sticks was faulty and had hardware issues.",
+      "G.Skill has had some great memory performance and great designs and for the speed the price is quite nice.",
+      "It's RAM, does it's job. RGB could have been a bit better, but overall no real complaints.",
+      "This RAM looks amazing, has awesome RGB, and performs great. Definitely a good choice, sure there is cheaper but it fit my budget and I personally think it’s very much worth it",
+      "Good looking and fast ram no complaints"
+    ]
+  },
+  {
+    "name": "Crucial Pro Overclocking 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "price": 99.99,
+    "specs": {
+      "Manufacturer": "Crucial",
+      "Part #": "CP2K16G60C36U5W",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.125",
+      "Color": "White",
+      "First Word Latency": "12 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.35 V",
+      "Timing": "36-38-38-80",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(6 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/63TZxr/crucial-pro-overclocking-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-cp2k16g60c36u5w",
+    "comments": [
+      "32gb 6000mhz is more than enough for any build",
+      "Cheapest kit I could find for 32GB of DDR5. Looks simplistic, I like that. Does well considering I got this 6000-CL36 for below £80. No issues when installing the RAM either.",
+      "Fast Speed and Fantastic price",
+      "No issues",
+      "Clean looking RAM that works",
+      "AMD EXPO Profiles and at a really good price/speed"
+    ]
+  },
+  {
+    "name": "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6400 CL36 Memory",
+    "price": 99.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMH32GX5M2B6400C36",
+      "Speed": "DDR5-6400",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.125",
+      "Color": "Black",
+      "First Word Latency": "11.25 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.4 V",
+      "Timing": "36-48-48-104",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(8 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/j6sV3C/corsair-vengeance-rgb-32-gb-2-x-16-gb-ddr5-6400-cl36-memory-cmh32gx5m2b6400c36",
+    "comments": [
+      "Very good RAM, High capacity for its price and very quick however the ARGB is a nightmare to control.",
+      "looks very cool and works really well",
+      "Fast and clean RGBs, although AMD ULCKs do kinda screw it's performance for an AMD build.\n(I'll refer you to \"Why Faster RAM is Slower\" video by Cataclysm Computers on YouTube for an explanation.)",
+      "Looks great inside and runs fast",
+      "Very fast and good looks very very good and almost every software can control rgb"
+    ]
+  },
+  {
+    "name": "Kingston FURY Beast 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "price": 64.98,
+    "specs": {
+      "Manufacturer": "Kingston",
+      "Part #": "KF432C16BBK2/32",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.031",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(15 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/3q2WGX/kingston-fury-beast-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-kf432c16bbk232",
+    "comments": [
+      "RAM seems completely stable under XMP 3200MhZ, and 32GB for the price is just amazing. I love the aesthetics as well, but keep in mind it may not fit some coolers (as I almost had with my Peerless Assassin 120) as its profile is... not small. That's the only possible downside though; amazing RAM kit!",
+      "good ram, don't have any problem, one of the nicer looking kits",
+      "Nice.",
+      "Cheap RAM without using RGB nonsense. Why not?",
+      "Purchased: 2024\nWorks well.\nI purchased this and only 2 sticks as it was on my Motherboard QVL List as working for 4 sticks of it. Thus it maximises stability as I wanted to test XMP again from the previous RAM I used.\nXMP worked well except for one game, being The Division 2 in DX12 mode which would crash on rare occasion. There was no way of knowing that it was XMP causing this without replacing my previous RAM and using trial and error, at the end of the day XMP no matter how stable will never be as good as JEDEC in terms of stability, therefore I always run JEDEC (Default) speeds which is 2400Mhz CL17 with these as it just makes life so much easier.\nTherefore I have the most stable memory I can possibly get for this motherboard, which IMO is important considering how vital RAM is to the constant functioning of the entire PC.... Stability is vitally important and instability can show up in almost any way and impossible to diagnose without trial and error.\nNo RAM test ever found any issues with my XMP settings for both this and previous RAM and yet I can confirm they absolutely do exist.",
+      "Always good.",
+      "Does ram stuff. Was relatively cheap. Hits advertised speeds. Looks clean.",
+      "32 GB is plenty of RAM, especially for regular tasks such as browsing. It's also fast enough for more intensive tasks.",
+      "Again, came with my default build.",
+      "One of the few 2x16 kits that explicitly identifies dual-rank vs single-rank. (This one is dual-rank.) Props to Kingston for giving full specs prior to buying."
+    ]
+  },
+  {
+    "name": "Kingston FURY Beast 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "price": 194.99,
+    "specs": {
+      "Manufacturer": "Kingston",
+      "Part #": "KF560C30BBEK2-64",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$3.047",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(4 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/3jFmP6/kingston-fury-beast-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-kf560c30bbek2-64",
+    "comments": [
+      "It's ram. It does the good ram things. It doesn't do the bad ram things.\nSeriously, pretty standard stuff. I like the non-led, short form factor. It runs EXPO 6000 CL30-36-36 @1.4V without issues. It's on MSI's QVL for x870e Tomahawk, that's the main reason why I went with this model. Could've gone with 32gb but the 64gb had a decent bundle discount offer that made the price difference negligible.",
+      "Affordable, fast and boring as hell. Easy to overclock.",
+      "Running EXPO I @6000mhz with no additional tinkering."
+    ]
+  },
+  {
+    "name": "G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "price": 32.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F4-3200C16D-16GVKB",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$2.062",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(236 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/Cf98TW/gskill-ripjaws-v-series-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-f4-3200c16d-16gvkb",
+    "comments": [
+      "Great set of RAM. Got it used off EBAY way back in November 2020. Have had no trouble with it after 4 years.",
+      "This kit is still going strong, 5 years later.",
+      "got mine for 10 bucks used 16 gigs 3200mh good cheap ram",
+      "Reliable RAM and 3200MHz Cl16 is Good even in 2024",
+      "Decent RAM.",
+      "RAM is RAM. It works. I'm no expert so I can't say much, but I've found it good nonetheless for the price.",
+      "Awesome deal for the price and works just like its supposed to.",
+      "this should be the meta ram",
+      "great value no problems at all.",
+      "It's memory, about all I can say is that it does it's job."
+    ]
+  },
+  {
+    "name": "Silicon Power XPOWER Zenith Gaming 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 89.97,
+    "specs": {
+      "Manufacturer": "Silicon Power",
+      "Part #": "SP032GXLWU60AFDG\nSU032GXLWU60AFDGSW\nSU032GXLWU60AFDGAB",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.812",
+      "Color": "White",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-38-38-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/ypRwrH/silicon-power-xpower-zenith-gaming-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-sp032gxlwu60afdg",
+    "comments": [
+      "RAM is RAM, it works and is pretty!",
+      "white"
+    ]
+  },
+  {
+    "name": "Silicon Power XPOWER Pulse Gaming 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "price": 77.99,
+    "specs": {
+      "Manufacturer": "Silicon Power",
+      "Part #": "SP032GXLWU60CFDJ\nSU032GXLWU60CFDJSN\nSU032GXLWU60CFDJBH",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.437",
+      "Color": "Black",
+      "First Word Latency": "12 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.35 V",
+      "Timing": "36-36-36-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/CZwD4D/silicon-power-xpower-pulse-gaming-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-sp032gxlwu60cfdj",
+    "comments": [
+      "Nothing flashy, but gets the job done."
+    ]
+  },
+  {
+    "name": "Crucial CP2K64G56C46U5 128 GB (2 x 64 GB) DDR5-5600 CL46 Memory",
+    "price": 310.95,
+    "specs": {
+      "Manufacturer": "Crucial",
+      "Part #": "CP2K64G56C46U5",
+      "Speed": "DDR5-5600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 64GB",
+      "Price / GB": "$2.429",
+      "Color": "Black",
+      "First Word Latency": "16.429 ns",
+      "CAS Latency": "46",
+      "Voltage": "1.1 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Z3wD4D/crucial-cp2k64g56c46u5-128-gb-2-x-64-gb-ddr5-5600-cl46-memory-cp2k64g56c46u5",
+    "comments": []
+  },
+  {
+    "name": "Corsair Vengeance RGB 128 GB (4 x 32 GB) DDR5-5600 CL40 Memory",
+    "price": 519.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMH128GX5M4B5600C40",
+      "Speed": "DDR5-5600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "4 x 32GB",
+      "Price / GB": "$4.062",
+      "Color": "Black",
+      "First Word Latency": "14.286 ns",
+      "CAS Latency": "40",
+      "Voltage": "1.25 V",
+      "Timing": "40-40-40-77",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/PNsV3C/corsair-vengeance-rgb-128-gb-4-x-32-gb-ddr5-5600-cl40-memory-cmh128gx5m4b5600c40",
+    "comments": []
+  },
+  {
+    "name": "G.Skill Trident Z5 RGB 48 GB (2 x 24 GB) DDR5-8400 CL40 Memory",
+    "price": 259.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-8400J4052G24GX2-TZ5RK",
+      "Speed": "DDR5-8400",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 24GB",
+      "Price / GB": "$5.416",
+      "Color": "Black",
+      "First Word Latency": "9.524 ns",
+      "CAS Latency": "40",
+      "Voltage": "1.4 V",
+      "Timing": "40-52-52-134",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/2VCZxr/gskill-trident-z5-rgb-48-gb-2-x-24-gb-ddr5-8400-cl40-memory-f5-8400j4052g24gx2-tz5rk",
+    "comments": []
+  },
+  {
+    "name": "G.Skill Ripjaws S5 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 99.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6000J3040F16GX2-RS5K",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.125",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-40-40-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(34 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/x4VmP6/gskill-ripjaws-s5-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-f5-6000j3040f16gx2-rs5k",
+    "comments": [
+      "I'm partial to G. Skill RAM. I've been using them for years and have never had any issues with them on any of my builds. This specific RAM I've bought twice now, once for a z690, and once for a z790. Basically just turned on the XMP and everything worked as it should.",
+      "Good RAM. Lots of access randomly.",
+      "I understand computer memory — Random Access Memory, or RAM — as a digital desk or clipboard: The more space you have, the more things you can have on it simultaneously without needing to open a drawer or walk over to a filing cabinet to get more papers, folders, and books to work on.\nUsually the more RAM you have the better because it means you can run, say, a video game at the same time as a voice chat application like Discord and a streaming application like OBS without having any of these slow any of the others down.\nMemory usually comes in pairs due to computing reasons, and this pair of G.SKILL Ripjaws S5 Series DDR5 RAM 32GB sticks are plenty for Interwebs Communotron 2023 to juggle several tasks like some forgotten runaway prodigy performing in a circus.",
+      "XMP works, and better now. I had it disabled for the longest time because of the boot time. Also because the system was unstable with XMP, undervolting, and PBO enabled. DDR5 boot times got better with bios updates as of 2025-01. Edit: Adding another pair of these did not work with MSI B650 GAMING PLUS WIFI ATX AM5 at the time of writing. I should have bought more ram the first time around.",
+      "These work with Expo. Installed and trained RAM. No issues. This is what RAM should do. Hits boost frequency. Bought this as it was on the MSI board compatible list as well.",
+      "These are built for intel, I accidentally got these for my AM5 system but clocking to the rated speed worked without issue and has given me no issues. Good price point too.",
+      "Great speed and timings for the price. Also low profile which is nice for space",
+      "Working as intended",
+      "Had a pair of G.skill Ripjaws before, two 8GB sticks, then I upgraded those to a pair of 16s. Never had an issue. Now I'm upgrading to DDR5 and the Ripjaws are with me again. No doubt they will perform well.",
+      "I would only recommend buying this ram kit when it is around the $80-$95 price range, as in my opinion it is more of a budget ram kit compared to others. If this ram kit is priced around $100+ at your time of reading, consider getting RAM from Corsair or Crucial, as they would also be around the $100+ range but will also be a better supported kit for overlocking and such.\nI had issues with overclocking my RAM to the full 6000MHz, but that could just be user error when I'm in the BIOS. Even at 4800MHz, it runs beautifully and I've had no issues other than the overclocking."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance 64 GB (2 x 32 GB) DDR5-6400 CL32 Memory",
+    "price": 264.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK64GX5M2B6400C32",
+      "Speed": "DDR5-6400",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$4.140",
+      "Color": "Black / Gray",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "32",
+      "Voltage": "1.4 V",
+      "Timing": "32-40-40-84",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(7 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/pnQKHx/corsair-vengeance-64-gb-2-x-32-gb-ddr5-6400-cl32-memory-cmk64gx5m2b6400c32",
+    "comments": [
+      "Very Good Memory with non-conflict temperatures are great and perform as expected, grab it under a deal for around $180 which make it a solid choice on my opinion.",
+      "Out-of-box, this RAM kit ran at 6400 MT/s with Intel XMP enabled. Smooth operations, no issues.",
+      "I bought this for another build I was doing for a friend but had clearance issues with my rgb version of this ram so I haven't really had time to write a proper review for it.\nWith that being said, this is the only thing that matters for me for when I am trading or when I have 200 chrome tabs open.",
+      "Crashed my system a few times until I dialed them in",
+      "super snappy and quick. Going from 32GB of relatively lower end DDR4 to 64gb of DDR5 at 6400mhz really is a game changer and since it's DDR5, I won't have to upgrade my RAM when I go for a new CPU in a few generations!",
+      "Works well in the Gigabyte Z790 AORUS Pro X board despite not being explicitly in the compatibility list: 6400 speed reached and stable.",
+      "Low Cas latency, and high clock speeds, needed for content creation build, in video editing and music encoding. Best Price around town"
+    ]
+  },
+  {
+    "name": "Crucial Classic 16 GB (2 x 8 GB) DDR5-5600 CL46 Memory",
+    "price": 43.99,
+    "specs": {
+      "Manufacturer": "Crucial",
+      "Part #": "CT2K8G56C46U5",
+      "Speed": "DDR5-5600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$2.749",
+      "Color": "Black",
+      "First Word Latency": "16.429 ns",
+      "CAS Latency": "46",
+      "Voltage": "1.1 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "No"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/y4BzK8/crucial-classic-16-gb-2-x-8-gb-ddr5-5600-cl46-memory-ct2k8g56c46u5",
+    "comments": [
+      "Works great!"
+    ]
+  },
+  {
+    "name": "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "price": 85.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK32GX5M2E6000C36",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.687",
+      "Color": "Black",
+      "First Word Latency": "12 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.4 V",
+      "Timing": "36-44-44-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(4 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/r7XV3C/corsair-vengeance-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-cmk32gx5m2e6000c36",
+    "comments": [
+      "Fast and comes from a trustworthy brand.",
+      "Does the job",
+      "Fantastic RAM with a great balance of speed and latency. XMP enabled without any issues, and it runs stable at 6000MHz. No complaints—highly recommended for Ryzen 7000 series builds.",
+      "Going from 8gb to 32gb is like night and day. I only hit about 16gb when gaming so plenty of room to work with in case I have something running in the background."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "price": 239.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK64GX5M2B6000C30",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$3.750",
+      "Color": "Black / Gray",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(7 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/8ZQKHx/corsair-vengeance-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-cmk64gx5m2b6000c30",
+    "comments": [
+      "Standard solid Corsair RAM. Low profile which was nice to have.",
+      "Works great, good clearance with my Noctua NH-D15, easily reaches 6000 MHz/CL30 with EXPO, could go up to 6200, but had instability at 6400.",
+      "I run these at 5600MHZ cl28 since my memory controller can't handle 6000mhz. Not a big deal. Performs well, or at least I don't suspect it bottlenecks me in anyway.",
+      "I understand running two of these kits together greatly worsens performance due to signal integrity reasons, but I've been able to get them to 4800 MHz fine so far. Board is rated for 4 sticks at 5200 so I should be within the realm of stability. Prime95 seems to be doing fine without any issue so fingers crossed.",
+      "Enabled EXPO and Passmark ram tests indicate they run reliably at their advertised speeds."
+    ]
+  },
+  {
+    "name": "Silicon Power SP016GBLFU320B22 16 GB (2 x 8 GB) DDR4-3200 CL22 Memory",
+    "price": 23.97,
+    "specs": {
+      "Manufacturer": "Silicon Power",
+      "Part #": "SP016GBLFU320B22",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$1.498",
+      "First Word Latency": "13.75 ns",
+      "CAS Latency": "22",
+      "Voltage": "1.2 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "No"
+    },
+    "rating": "(11 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/jfqPxr/silicon-power-sp016gblfu320b22-16-gb-2-x-8-gb-ddr4-3200-cl22-memory-sp016gblfu320b22",
+    "comments": [
+      "I received this RAM kit from a family member for Christmas and decided to put it in a budget build. It has an above-average CL latency for DDR4, but it didn't seem to impact gaming performance.",
+      "Same exact specs as the ram kit i got on aliexpress, but wouldn't work at anything above 2666mhz.",
+      "Extremely cost-efficient. Runs a bit slow though, but for this price it's good value.",
+      "Good enough ram, cheap, but not enough capacity for gaming or heavy workloads like AI or processing larger datasets.",
+      "really good works like every other ram!",
+      "Bends super easily, so be careful. Other than that its good.",
+      "Used these a couple times now. Not much to look at, but I kind of like the simple or understated look. They always pick up their XMP profiles without issue so what more could I ask for?",
+      "Sometimes simple is best, and these slotted in and got their XMP profile without any fuss",
+      "Too much CL timing? But the ram is okay.",
+      "Maybe too much for DDR4 CL timing, but it's good RAM."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance RGB Pro SL 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "price": 84.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMH32GX4M2D3600C18W",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.656",
+      "Color": "White / Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "18",
+      "Voltage": "1.35 V",
+      "Timing": "18-22-22-42",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(42 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/bjjNnQ/corsair-vengeance-rgb-pro-sl-32-gb-2-x-16-gb-ddr4-3600-cl18-memory-cmh32gx4m2d3600c18w",
+    "comments": [
+      "Stunning rgb, fast, no complaints.",
+      "Beautiful!",
+      "I bought this RAM before I decided to avoid Corsair products. That being said this ram performs well for my needs and the lighting on them is good too.",
+      "Extremely fast and good looking, software is good and easy to use aswell.",
+      "It's RAM. Grab if you need DDR4 and like their aesthetics.",
+      "Sadly this is one of the components I would swap out for sure , the memory rgb was a bit of a pita and the iCue software is meh at best there are brands of memory that would be better with this motherboard and would not require extra software to get the rgb to function. I think for the price corsair gets I would go with G.Skill",
+      "Corsair just make the best RGB stuff in my opinion",
+      "32 GB of nice looking ram!",
+      "No issues with this RAM so far. Looks great too.",
+      "What can I say, that's Corsair ram for you."
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Force Vulcan 32 GB (2 x 16 GB) DDR5-6000 CL38 Memory",
+    "price": 77.98,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "FLBD532G6000HC38ADC01",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.437",
+      "Color": "Black",
+      "First Word Latency": "12.667 ns",
+      "CAS Latency": "38",
+      "Voltage": "1.25 V",
+      "Timing": "38-38-38-78",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(3 Ratings, 4.3 Average)",
+    "link": "https://pcpartpicker.com/product/kgwmP6/teamgroup-t-force-vulcan-32-gb-2-x-16-gb-ddr5-6000-cl38-memory-flbd532g6000hc38adc01",
+    "comments": [
+      "Good ram, ran as advertised. Low profile allowed me to run it with a big air cooler.",
+      "Don't recommend as CL38, I bought because of cheap bundle. High quality though.",
+      "The standard for ‘budget’ RAM. Really stable and can handle a lot."
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Force Vulcan 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 89.99,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "FLBD532G6000HC30DC01",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.812",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(17 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/HNZXsY/teamgroup-t-force-vulcan-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-flbd532g6000hc30dc01",
+    "comments": [
+      "Fast DDR5 RAM, definitely recommend.",
+      "EXPO Profile 1 enabled and passed Windows Memory Diagnostic on a B650 Tomahawk.",
+      "Its RAM. Its cheap. It works.",
+      "Solid, fast, cheap, low profile RAM.",
+      "Great value ram just don't come in white.",
+      "Great RAM, haven't encountered any major issues yet. AMD EXPO works just fine and I'm getting the advertised speeds for a great price. Not the flashiest thing on the market in terms of aesthetics, however that is of little concern to me anyway, as it is covered by my huge CPU cooler (and the sticks are fairly low profile if you're worried about clearance)",
+      "uhh, honestly ram is ram. It booted first try, soooo... (also it was the cheapest 6000 cl30 at the time)",
+      "EXPO Profile 1 enabled and passed Windows Memory Diagnostic on a B650 Tomahawk.",
+      "Very quick and responsive for real-time usage (i.e. music production). Overclocking to full speed was instant and caused no issues (yet).",
+      "Does it's job perfectly."
+    ]
+  },
+  {
+    "name": "G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory",
+    "price": 67.98,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F4-3600C16D-32GVKC",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.124",
+      "Color": "Black",
+      "First Word Latency": "8.889 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-19-19-39",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(107 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/zcH8TW/gskill-ripjaws-v-32-gb-2-x-16-gb-ddr4-3600-memory-f4-3600c16d-32gvkc",
+    "comments": [
+      "The RAM was overkill for me - I would do fine with 16, but I guess it's nice to have some extra for just in case. However, my girlfriend uses After Effects, which runs better with more RAM. At first it was saying I only had 16GB, but that's because one of the sticks wasn't in all the way, so the error lies with me - not the RAM.",
+      "A very nice upgrade from two slow as hell 3200MHz CL18 16GB DDR4 kits. Stutters in games have been greatly reduced, would buy again.",
+      "This stuff has essentially halved in price since I last bought it, and it's still a great RAM kit. DDR4 is slowly losing relevance, but at least it's cheaper than ever.",
+      "DDR4 RAM has gotten a lot cheaper lately so i upgraded from a 16g T-Force Dark kit to this G.Skill 32g kit. It's capacity reduces my 1% lows a lot and it's speed is the sweet spot for Ryzen 5000. It also has lower latency than most 3600mhz kits.",
+      "Ram 👍",
+      "The go-to for DDR4 memory! This kit works great with the DOCP on my STRIX B550-F motherboard and the heat spreaders are just short enough to fit below the NH-D15 without having to adjust the fan position.",
+      "32 gigs, 3600 mhz perfect for ryzen and on sale at micro center for only 55 dollars. Yes please",
+      "Upgraded from the Micro Center bundle to get 2x16 instead of 2x8, and better frequency/timings. It's probably the snappiest DDR4 RAM you can get.",
+      "Good RAM, does the thing",
+      "Started off with 16GB, probably like most people. Then a weird sale (or maybe a price glitch) but the 32GB kit was being sold for the same price as the 16GB so I figured, why not? Now I have 48GB of RAM."
+    ]
+  },
+  {
+    "name": "Crucial Pro 32 GB (2 x 16 GB) DDR5-5600 CL46 Memory",
+    "price": 86.99,
+    "specs": {
+      "Manufacturer": "Crucial",
+      "Part #": "CP2K16G56C46U5",
+      "Speed": "DDR5-5600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.718",
+      "Color": "Black",
+      "First Word Latency": "16.429 ns",
+      "CAS Latency": "46",
+      "Voltage": "1.1 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(4 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/3L9wrH/crucial-pro-32-gb-2-x-16-gb-ddr5-5600-cl46-memory-cp2k16g56c46u5",
+    "comments": [
+      "It works great. If your PC doesn't boot please make sure your ram is all the way in!!!",
+      "I wish they had a white color version but they perform well for the price.",
+      "Probalbly more GBs than I actually need at this time, but didn't have many options here for price point with DDR5. Very fast, worth it",
+      "It's fast, loads Firefox with ease"
+    ]
+  },
+  {
+    "name": "G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory",
+    "price": 35.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F4-3600C16D-16GVKC",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$2.249",
+      "Color": "Black",
+      "First Word Latency": "8.889 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-19-19-39",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(200 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/jBZzK8/gskill-ripjaws-v-16-gb-2-x-8-gb-ddr4-3600-memory-f4-3600c16d-16gvkc",
+    "comments": [
+      "Good memory. I bought a second kit years later for half the price which was nice. Personally didn't feel a big difference as i don't have a bunch of background programs but i hear that games are requiring more and more ram so i will probably go 32 GB next time",
+      "Typical proven G.Skill quality: they pretty much always deserve a 5 out of 5",
+      "Good reasonably fast DDR4 RAM with the CL16. Cheap, too.",
+      "Have had these for ages honestly with no issues, love G.Skill",
+      "Good cheap ram, fast speed and low CL timings. All I can ask for.",
+      "G.Skill Ripjaws V is probably one of the best sets of DDR4 memory in terms of quality for the price.",
+      "Pretty cheap option for DDR4 which is now outdated",
+      "Solid",
+      "Working perfectly well. No problems to speak of yet. Excellent price.",
+      "If you'd told me a year ago we'd be able to get 32GB of memory for under $100 now I'd have laughed. Solid, no frills memory. Fast and does the job."
+    ]
+  },
+  {
+    "name": "Patriot Venom 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "price": 149.99,
+    "specs": {
+      "Manufacturer": "Patriot",
+      "Part #": "PVV564G600C30K",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$2.344",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-40-40-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/RHCZxr/patriot-venom-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-pvv564g600c30k",
+    "comments": [
+      "Work out of the box on the EXPO profile! At the moment of the buy, it was the 1.35V ram with the best timing for a 6000 mhz. Memory training was faster than expected.",
+      "Cheapest 64GB DDR5 CL30 6000MT/s RAM kit I could find anywhere online."
+    ]
+  },
+  {
+    "name": "OLOy ND4U1632161DJ0DA 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "OLOy",
+      "Part #": "ND4U1632161DJ0DA",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$1.406",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-20-20-38",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(3 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/CWCFf7/oloy-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-nd4u1632161dj0da",
+    "comments": [
+      "It does its job.",
+      "32GB...nice :)",
+      "Runs as it should..."
+    ]
+  },
+  {
+    "name": "Patriot Viper Steel 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "price": 58.99,
+    "specs": {
+      "Manufacturer": "Patriot",
+      "Part #": "PVS432G320C6K",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$1.843",
+      "Color": "Silver / Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-18-18-36",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(9 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/v3FKHx/patriot-viper-steel-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-pvs432g320c6k",
+    "comments": [
+      "Cheap and reliable.",
+      "theres not much to say about this ram, it does what it says, its fast and matches the colors of the motherboard, would have liked RGB ram but that just wasn't in the budget for me, 32GB is definitely overkill i only went 32GB cos i only have 1 16GB stick and there was a amazon day sale on coincidentally the same ram i had already bought + i wanted to dedicate more ram to my minecraft than my friends have in their ENTIRE PC (so a flex lol) rams cheap tho so i do recommend going 32GB just for the laughs",
+      "Good ram, got it cheap cl18 but I clocked it to 3733mhz with 1833Mhz Infinity Fabric which makes the latency pretty good.",
+      "A pleasant surprise. Bought this 32GB kit in 2020 for slightly more than £100 and discovered some overclocking headroom. I run this kit at 3466 CL16 which boosts system performance 8-10%. The silver and black heatsink is pretty attractive as well in my opinion.",
+      "everything I expected",
+      "Basic RAM; does what it needs to do.",
+      "happy with these memory parts. they look nice in the build and were very competitively priced."
+    ]
+  },
+  {
+    "name": "Corsair Dominator Titanium 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 184.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMP32GX5M2B6000C30W",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$5.781",
+      "Color": "White",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(8 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/vTjRsY/corsair-dominator-titanium-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-cmp32gx5m2b6000c30w",
+    "comments": [
+      "Yummy RAM. Lighting is sometimes not diffused amazingly, but good for the most part.",
+      "Great performance, great looks. Really good RGB dispersion on the sticks themself.",
+      "No issues, they work great, and they're so pretty!",
+      "Beautiful and great.",
+      "I know, corsair titanium? It's what I thought too. But after doing the math it's actually just fine for ddr5. I don't need 4 sticks, and the timings are just right for the speed. For those reasons I choose it, and honestly it's really good. Noticed a differnce right away compared to even G.Skill, which surprised me.",
+      "I mean, its fast, it has great cas latency and decent timings. The aesthetics are top notch and its white?!??! Although it is pricey, its definitely worth it considering the aesthetics with my personal build. Love ya corsair 💜",
+      "Looks and works nice. The only thing I would change about it is to allow different RGB colors for the front and sides.",
+      "could be prettier"
+    ]
+  },
+  {
+    "name": "Corsair Dominator Titanium 96 GB (2 x 48 GB) DDR5-6600 CL32 Memory",
+    "price": 405.02,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMP96GX5M2B6600C32",
+      "Speed": "DDR5-6600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 48GB",
+      "Price / GB": "$4.219",
+      "Color": "Black",
+      "First Word Latency": "9.697 ns",
+      "CAS Latency": "32",
+      "Voltage": "1.4 V",
+      "Timing": "32-39-39-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/ZsvD4D/corsair-dominator-titanium-96-gb-2-x-48-gb-ddr5-6600-cl32-memory-cmp96gx5m2b6600c32",
+    "comments": [
+      "Works flawlessly with XMP out of the box. All-metal housing (minus the plastic RGB topper, which I swapped for the fin kit)."
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Force Delta RGB 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "price": 109.58,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "TF4D432G3600HC18JDC01",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.424",
+      "Color": "White",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "18",
+      "Voltage": "1.35 V",
+      "Timing": "18-22-22-42",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(19 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/ZRpmP6/team-t-force-delta-rgb-32-gb-2-x-16-gb-ddr4-3600-cl18-memory-tf4d432g3600hc18jdc01",
+    "comments": [
+      "Decent price, RBG looks good, no complaints",
+      "Fast, pretty, a lot of it.",
+      "fast ram for its price, 60$ for these cuties, looks nice in the build!",
+      "It's memory. It's fast. It works and it looks nice. A splash of white inside the PC to set it apart from all the black components and match it with the case.",
+      "Couldn't go wrong with 32GB kits for the price and they look amazing.",
+      "Most bang for your buck especially if you’re going for a white build. Minus half a star because the LED on the ram are very weak and not bright which can throws off the whole color scheme due to a different shade of color when trying to match your fans. But not a deal breaker",
+      "Solid ram. Looks good in white. no issues setting XMP in bios. And didn't need to spend twice as much on Corsair for white ram",
+      "Teamgroup has always been my go to for ram. Cheap and reliable.",
+      "This was the cheapest RGB ram that fit my build theme. The colors are a little off but that should be the least of your concerns. Works fine.",
+      "Nothing much to say but that it's pretty good for what I need."
+    ]
+  },
+  {
+    "name": "Crucial Pro 64 GB (2 x 32 GB) DDR5-5600 CL46 Memory",
+    "price": 159.99,
+    "specs": {
+      "Manufacturer": "Crucial",
+      "Part #": "CP2K32G56C46U5",
+      "Speed": "DDR5-5600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$2.500",
+      "Color": "Black",
+      "First Word Latency": "16.429 ns",
+      "CAS Latency": "46",
+      "Voltage": "1.1 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(3 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/QP88TW/crucial-pro-64-gb-2-x-32-gb-ddr5-5600-cl46-memory-cp2k32g56c46u5",
+    "comments": [
+      "Great performance!!! Love the all black look too.",
+      "Cheaper than Corsair and better design for all black RAM in my opinion. Went from 32GB on my last build to 64GB in this one (also from DDR4 to DDR5) and I did notice a difference especially in editing."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 99.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK32GX5M2B6000Z30",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.125",
+      "Color": "Black / Silver",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(19 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/sQfxFT/corsair-vengeance-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-cmk32gx5m2b6000z30",
+    "comments": [
+      "Works well with MSI B650 Tomahawk WiFi motherboard. No issues running AMD EXPO. I would recommend this non-rgb version if you are using dual tower air cooler such as Thermalright Peerless Assassin or Phantom Spirit due to their shorter height that provides more clearance for the cooler.",
+      "On QVL list. 6000 optimal for infinity fabric. Corsair has good support/RMA. $",
+      "Fast and not too expensive.",
+      "No RGB = no iCue bloatware 😎",
+      "Very nice, ram is stable at 6000MHz.",
+      "Fast, works well, no issues so far. Probably should have bought lower profile ram as it slightly interferes with the cooler fans but its so minor it doesn't matter.",
+      "Great RAM.\nMy only issue is that I'm getting 2,994.6MHz UCLK for each RAM so I'm missing the .4 even when I set it in the BIOS to run 6000MHz total. I haven't tried to fiddle with voltage yet as I don't know anything about that yet, but I honestly don't know what could be setting it to that amount instead of 3000MHz each and I'm honestly not bothered by the miniscule loss.",
+      "EXPO turned on with no issues is the sweet spot for 7000 series and was only 90 pounds at time of purchase 32gb could be considered overkill but apps load quicker and during gaming with discord open it is about 17-18gb of ram usage",
+      "Nothing to say, except i got a BSOD after I set the EXPO profile. After a reboot, didn't happened again.",
+      "Works perfectly with EXPO enabled. Good price as well."
+    ]
+  },
+  {
+    "name": "Crucial Pro 32 GB (2 x 16 GB) DDR4-3200 CL22 Memory",
+    "price": 49.99,
+    "specs": {
+      "Manufacturer": "Crucial",
+      "Part #": "CP2K16G4DFRA32A",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$1.562",
+      "Color": "Black",
+      "First Word Latency": "13.75 ns",
+      "CAS Latency": "22",
+      "Voltage": "1.2 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(7 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/FRKscf/crucial-pro-32-gb-2-x-16-gb-ddr4-3200-cl22-memory-cp2k16g4dfra32a",
+    "comments": [
+      "Works, there is nothing more to say really.",
+      "I thought this was another set of 64 gb but didn't care enough to notice.",
+      "*see last review",
+      "Pretty deceptive in that it has a good speed but is massively let down by the high latency.",
+      "Unfortunately, one card was DoA, but Amazon was super quick to replace it. Haven't had any problems since, and they are noticeably faster than the 2133Mhz cards they replaced.",
+      "good for editing and some gaming, pretty overkill though.",
+      "Both were recognized, ran at rated speed with XMP and don't have RGB, I preferred it black."
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Force Delta RGB 64 GB (2 x 32 GB) DDR5-6000 CL38 Memory",
+    "price": 169.99,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "FF4D564G6000HC38ADC01",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$2.656",
+      "Color": "White",
+      "First Word Latency": "12.667 ns",
+      "CAS Latency": "38",
+      "Voltage": "1.35 V",
+      "Timing": "38-38-38-78",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(6 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/kmP8TW/teamgroup-t-force-delta-rgb-64-gb-2-x-32-gb-ddr5-6000-cl38-memory-ff4d564g6000hc38adc01",
+    "comments": [
+      "Great deal for the money, no complaints so far. Only time will tell how well they last, but for what they are I'm very happy. LED's are pretty and cute too. Hoping to get openRGB to start behaving so I can put some kind of cascading flag patterns on them or something.",
+      "Expensive, but def worth it for the match with my case. no problems at all with it and it's amazing that u can control and change the colour or pattern of the sticks.",
+      "Really pretty and works great!",
+      "RGB is super smooth compared to other sticks I've seen, and works well with OpenRGB and Motherboard software. EXPO (AMD version of XMP) does not work out of box with my motherboard, but I may just need to do a BIOS update.\nEdit: I was able to get the EXPO settings to work by selecting \"EXPO II\" and manually changing DRAM voltage to 1.400 (up from 1.300). I'm not sure if this is expected, and am curious if anyone else had any luck just using the default EXPO settings.\nEdit2: This specific model of RAM is not on the official AMD \"Overclocked Memory Compatibility List\", so that is likely why I had to customize my settings and the default EXPO did not work.",
+      "Super clean looking, does the job running at its advertised speed with EXPO first try.",
+      "Not as fast as I thought they would feel but very pretty and work great."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "price": 189.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK64GX5M2B6000Z30",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$2.969",
+      "Color": "Black / Gray",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(3 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/xfpQzy/corsair-vengeance-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-cmk64gx5m2b6000z30",
+    "comments": [
+      "Needed low profile RAM so the second fan of the CPU cooler fit, this one is perfect.",
+      "Plug and play. Operates at rated timings and transfer speeds."
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Force Vulcan Z 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "price": 46.99,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "TLZGD432G3200HC16FDC01",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$1.468",
+      "Color": "Gray",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-20-20-40",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(25 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/bcnypg/team-t-force-vulcan-z-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-tlzgd432g3200hc16fdc01",
+    "comments": [
+      "Good ram and very cheap. Looks great too",
+      "Great ram, at a great price.",
+      "32 GB of RAM is enough for gaming, streaming, and productivity. It adds to the versatility of the setup.",
+      "No issues yet, good ram and fairly affordable.",
+      "A little boring, but they work amazing.",
+      "Good cheap memory.",
+      "Ram is ram so I can't complain at all about how its been",
+      "While the color is odd, it matches with my founder's edition card nicely.",
+      "This is an excellent RAM kit, it does exactly what it says it does, and it does it well. The heat spreaders look very nice, are of high quality and perform well. Honestly not much else to add, its a RAM kit, it does what it says, and they're good quality, I recommend them.",
+      "32 gigs of ram that was in my junk drawer."
+    ]
+  },
+  {
+    "name": "Corsair Dominator Titanium 96 GB (2 x 48 GB) DDR5-6600 CL32 Memory",
+    "price": 450.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMP96GX5M2B6600C32W",
+      "Speed": "DDR5-6600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 48GB",
+      "Price / GB": "$4.698",
+      "Color": "White",
+      "First Word Latency": "9.697 ns",
+      "CAS Latency": "32",
+      "Voltage": "1.4 V",
+      "Timing": "32-39-39-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(2 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/Y49wrH/corsair-dominator-titanium-96-gb-2-x-48-gb-ddr5-6600-cl32-memory-cmp96gx5m2b6600c32w",
+    "comments": [
+      "For the price you pay, you'd expect the RGB to be distributed a little more evenly under the \"dominator\" text. Don't expect to be able to run the XMP profile on AM5, you should only get this kit if you are okay with manually tuning your RAM to reach 1:1 or this isn't going to perform better than 6000 CL30."
+    ]
+  },
+  {
+    "name": "G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-7200 CL34 Memory",
+    "price": 129.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-7200J3445G16GX2-TZ5RK",
+      "Speed": "DDR5-7200",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$4.062",
+      "Color": "Black",
+      "First Word Latency": "9.444 ns",
+      "CAS Latency": "34",
+      "Voltage": "1.4 V",
+      "Timing": "34-45-45-115",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(9 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/qxXJ7P/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-7200-cl34-memory-f5-7200j3445g16gx2-tz5rk",
+    "comments": [
+      "Fast. Would probably switch to a 6400 CL30 EXPO in the future.",
+      "Really fast memory and looks cool. For high end systems it’s great!",
+      "Not exactly this model, but a similar 7200 CL34 kit made for AMD Expo. Very fast. Consistently outperforms 6000 CL30 by a few frames in gaming.",
+      "Extremely easy and stable overclock, as promised by the XMP profile.",
+      "Clocked to 7200, pretty solid.",
+      "If it wasn't for the installation issues I had, I'm very happy with my choice. The price was not that high for the added performance.",
+      "Awesome, performant memory, works as expected with XMP 3.0 out of the box on Gigabyte Z790 Aorus Elite Ax ATX LGA1700, without even setting a profile under BIOS. Glad I came across this brand.\nPrior had Corsair Vengeance Pro 6400 32GB, where in a month one of sticks died, and had issue overall with memory from the very start.",
+      "It's fast; don't really notice any difference between 5600 or 6000 because I haven't tested them yet XD. Works with XMP Tweaked with no problems."
+    ]
+  },
+  {
+    "name": "Kingston FURY Beast RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 119.99,
+    "specs": {
+      "Manufacturer": "Kingston",
+      "Part #": "KF560C30BWEAK2-32",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.750",
+      "Color": "White",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(7 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/LjFmP6/kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-kf560c30bweak2-32",
+    "comments": [
+      "Solid RAM from Kingston as per usual. Mystic Light used for RGB control. Great deal around 115€",
+      "Looks dope and does what it should!",
+      "I really like the LEDs on these sticks and the general look of them. Cheap as well",
+      "Got a very good deal on this, but it took almost a month and a week to get to me because of Amazon shipping. Usually goes for ~125€, saw it for 99,9€ and pulled the trigger immediately. It looks gorgeous and fits in well with my build so I am happy :)",
+      "doesn't have enough light modes",
+      "Fury Beast Ram is good, it's Kingston, it's always good with no trouble. 10/10 brand right here at least in my experience. ARGB Software is easy to use."
+    ]
+  },
+  {
+    "name": "Silicon Power XPOWER Zenith Gaming 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "price": 89.97,
+    "specs": {
+      "Manufacturer": "Silicon Power",
+      "Part #": "SP032GXLWU60AFDE\nSU032GXLWU60AFDESK",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.812",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.35 V",
+      "Timing": "30-38-38-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/scFmP6/silicon-power-xpower-zenith-gaming-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-sp032gxlwu60afde",
+    "comments": [
+      "Runs at the rated speeds, and cheap compared to other ram kits that do the same.",
+      "it's ram\nit's cheap\nAMD EXPO worked and it was not DOA."
+    ]
+  },
+  {
+    "name": "TEAMGROUP T-Force Delta RGB 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+    "price": 38.99,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "TF4D416G3600HC18JDC01",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$2.437",
+      "Color": "White",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "18",
+      "Voltage": "1.35 V",
+      "Timing": "18-22-22-42",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(25 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/TBfFf7/team-t-force-delta-rgb-16-gb-2-x-8-gb-ddr4-3600-cl18-memory-tf4d416g3600hc18jdc01",
+    "comments": [
+      "Pretty, fast, and cheap",
+      "This ram is a Beast (im using that word way too much) It is fast and i can have a lot of tabs open at the same time! Im thinking of adding a additional 2 dimms so i can have 32 GB in total of RAM Memory.",
+      "A little overpriced cause it is white with RGB :( I wish I had gotten 32gb of ram instead without RGB. It is pretty good but the RGB doesn't exactly match my fan RGB. not sure if this is due to the software that I am using or what. I would recommend just getting 32gb of ram if RGB isn't super important to you.",
+      "Beautiful and fast",
+      "RGB looks really good, it is fast, 16gb which is plenty and great for the price!",
+      "A fast and beautiful kit with RGB lighting.",
+      "Looks great and performs great too. Don't have any complaints to give.",
+      "Fast, has RGB, looks good, great price!",
+      "Definitely ran worst with just these two.",
+      "Got it on sale and it's normally fast. Rgb is nice. Otherwise it's fine."
+    ]
+  },
+  {
+    "name": "G.Skill Aegis 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "price": 49.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F4-3200C16D-32GIS",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$1.562",
+      "Color": "Red / Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-18-18-38",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "No"
+    },
+    "rating": "(11 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/8BLwrH/gskill-aegis-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-f4-3200c16d-32gis",
+    "comments": [
+      "Looks cheap, works great, though I think I'd definitely go for an upgrade if buying again.",
+      "Has 3200MHZ and is suitable for geneal tasks",
+      "Decent budget 32gb 3200 c16 kit. Overclocked to 3466 16-20-20-30-520",
+      "Absolutly no complaints! This ram is perfect, it has a relatively low latency at 3200mhz speed and is a perfect fit with my Ryzen 7 5800x. I went with 32gb because I do some CPU intense work, not to mention google chrome on top of that!",
+      "No complaints. Speeds match what was sold to me. I haven't dug into the timing claims from what I was sold, but they definitely are lower latency than budget competitors. This is my 3rd go-round with G.Skill and I have yet to be disappointed.",
+      "Great, cheap RAM, nothing fancy about it. Heatsink is very thin",
+      "Just good, boring memory. Exactly what I was looking for. No lights, no fancy design, no nothing. Just as-advertised DDR4-3200 CL16 memory sticks, easily read by my motherboard, and providing great speed to my box. If you don't care about RGB, these sticks are perfect.",
+      "This RAM does what it says it does, and I was able to squeeze a bit more out of my kit when I put 1.4V through it. I was able to get it stable at 3600 17-19-20-9-37, so I'm pretty happy with that.",
+      "Can't really get the timings any tighter than advertised, and have had no luck getting a stable over clock. That said, these have been very compatible with my build running at 3200."
+    ]
+  },
+  {
+    "name": "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+    "price": 39.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK16GX4M2D3600C18",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$2.499",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "18",
+      "Voltage": "1.35 V",
+      "Timing": "18-22-22-42",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(131 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/VNJtt6/corsair-16-gb-2-x-8-gb-ddr4-3600-memory-cmk16gx4m2d3600c18",
+    "comments": [
+      "No issues whatsoever. Good quality and great speeds for the price. Don't forget to enable XMP in BIOS, so you can fully utilize the speed.",
+      "So good I got another kit!",
+      "RAM is RAM is RAM. This is RAM.",
+      "16gb 3600mhz for £30, perfect for the R5 5600X.\nXMP worked as well",
+      "Good value for the price - my motherboard supports RAM up to 3200MHz only but I bought 3600 MHz simply because the price was the same - you can buy 3200 if it is cheaper in your country.",
+      "It works! Nothing crazy about it. It just works great for a low price!",
+      "I bought it used, Hasn't given me problems, good RAM.\nNice and low profile for my big CPU cooler.\nI got it for 23 bucks but if you can save a little longer, you can get the CL16 version for just the smallest boost in performance.",
+      "great budget ram for am4",
+      "Don't know what to say, its just RAM.",
+      "Great DDR4 memory. Was the same price as the 3200mhz version , does not interfere with the CPU cooler."
+    ]
+  },
+  {
+    "name": "G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+    "price": 47.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F4-3600C18D-16GTZRX",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$2.999",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "18",
+      "Voltage": "1.35 V",
+      "Timing": "18-22-22-42",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(136 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/6jBTwP/gskill-trident-z-rgb-16gb-2-x-8gb-ddr4-3600-memory-f4-3600c18d-16gtzrx",
+    "comments": [
+      "Finest looking ram in my opinion. Trident Z rgb DDR4>>>> Trident Z5 rgb DDR5 (in terms of looks) proof me wrong.",
+      "No issues, 4 stars because I have somehow managed to cut myself putting them in multiple times when upgrading/doing maintenance\n4/5- pointy.",
+      "Great for budget gaming and looks cool with the RGB.",
+      "Pretty RGB and works great For games like BeamNG.drive I recommend 32gb",
+      "Perfect. In 2023 16gigs is enough For games like BeamNG.drive I recommend 32gb",
+      "Good RAM, sleek, and the RGB lighting looks great.",
+      "Looks amazing and good speeds",
+      "It's definitely RAM. The RGB is a bit obnoxious and I ended up just turning it off, but that's just a personal preference. In retrospect, I probably should have bought the 32 GB kit, but I picked these up near the end of the chip shortage when prices were still prohibitively high.",
+      "Nice ram, looks nice easy to install and control LEDs, no problems",
+      "great ram for cheap"
+    ]
+  },
+  {
+    "name": "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "price": 113.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK32GX5M2E6000Z36",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.562",
+      "Color": "Black",
+      "First Word Latency": "12 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.4 V",
+      "Timing": "36-44-44-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(4 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/GpNYcf/corsair-vengeance-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-cmk32gx5m2e6000z36",
+    "comments": [
+      "Decided not to go for RGB and I'm so glad I didn't. The metal black finish looks so good in the case",
+      "Good amount of RAM for my gaming PC. Enough clock and short enough CAS Latency.",
+      "No RGB and fast"
+    ]
+  },
+  {
+    "name": "G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "price": 56.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F4-3600C18D-32GVK",
+      "Speed": "DDR4-3600",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$1.781",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "18",
+      "Voltage": "1.35 V",
+      "Timing": "18-22-22-42",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(20 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/nvjNnQ/gskill-ripjaws-v-32-gb-2-x-16-gb-ddr4-3600-memory-f4-3600c18d-32gvk",
+    "comments": [
+      "I have been using Ripjaws for years. They are great in performance and reliability. No complaints!",
+      "Good kit. Hit there XMP with a click have been working fine. The heatspreaders are a little taller than other kits I've used so the front fan on my aircooler sits slightly high. This doesn't bother me though but be aware if this is something that would bother you.",
+      "I could have saved a little money with 2x8 GB and not noticed the difference anytime soon. Decided to give myself plenty of space to breathe with 2x16 GB. Great value at $75.",
+      "it works as it should",
+      "Good price : Value ratio. Sleek design for my minimal/discrete build.",
+      "Good memory at a good price with good aesthetics.",
+      "Cheap and reliable memory. Worth the money.",
+      "No complaints. XMP works fine on it.",
+      "No-frills and affordable 32GB dual-rank kit. Haven't tried to and likely wont try to tighten timings at all (the prevailing opinion out there is that this kit uses Samsung E-die), but I'm perfectly happy with 3600CL18, which is why I bought this kit and not the 3600CL16 kit.\nZero issues with the XMP profile, everything has been rock-solid stable, and again, it's a confirmed dual-rank kit with a manufacture date of November 2022 on the sticks.\nAlso, for those wondering, these modules fit under the Dark Rock Pro 4 front fan without having to adjust anything.",
+      "Cheap. Good. Looks Nice."
+    ]
+  },
+  {
+    "name": "Kingston FURY Beast 32 GB (2 x 16 GB) DDR5-5600 CL36 Memory",
+    "price": 89.99,
+    "specs": {
+      "Manufacturer": "Kingston",
+      "Part #": "KF556C36BBEK2-32",
+      "Speed": "DDR5-5600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.812",
+      "Color": "Black",
+      "First Word Latency": "12.857 ns",
+      "CAS Latency": "36",
+      "Voltage": "1.25 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(6 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/qs92FT/kingston-fury-beast-32-gb-2-x-16-gb-ddr5-5600-cl36-memory-kf556c36bbek2-32",
+    "comments": [
+      "fast ram, good enough timings. would have ended up with something a little flashier but i think that this kit is the theortical maximum height (35mm) that i could run the second fan on the cooler with the clearance between mobo and case. whatever it works well enough and the xmp is super simple.",
+      "shoved it in, turned on EXPO 1, worked perfectly.",
+      "Replaced my previous set with this, all my BIOS updating issues were fixed with this RAM. Runs EXPO smoothly on my B650 Aorus Elite AX board."
+    ]
+  },
+  {
+    "name": "G.Skill Aegis 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "price": 31.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F4-3200C16D-16GIS",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$1.999",
+      "Color": "Red / Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-18-18-38",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "No"
+    },
+    "rating": "(33 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/mcH8TW/gskill-aegis-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-f4-3200c16d-16gis",
+    "comments": [
+      "It doesn't have a heatspreader, just a sticker. But it still works great and has good specs.",
+      "Was affordable and ran at marketed speeds when placed in a proper motherboard.",
+      "Good ram.The problem was rthe installation,because the ram is sharp,also had boot issues with it.I reseated one of the sticks and fixed it",
+      "Nice kit of ram for my intended use. Loses one star cause it’s not the most beautiful thing but it was the cheapest 2*8gb kit with 3200 speed. Ram is ram",
+      "It's ram that works, doesn't really look very aesthetically pleasing but hey, it was like 50$\nThe reason we went with 3200 MHz even though the motherboard doesn't support it is since there was a price different of ~2$ from 2666 to 3200 so incase he would ever upgrade motherboard to something that does support >= 3200MHz the RAM would be able to go to 3200MHz",
+      "Ram is ram, what can I say? Never had any issues/crashes so i'm happy, only thing is the design (a bit \"old\") but for the price can't really complain.",
+      "ery noice",
+      "RAM: One of the RAM sticks was dead on arrival, and the G.skill RMA wants me to pay for shipping to Taiwan, which is more than a replacement 8gb stick, so i'm not very happy with that. The stick that works seems good though...",
+      "Great budget memory by a reliable brand! It doesn't have a heat sync like in the part picker list, it just has stickers. But at the time of building it was the same price as the 3000 MHz model (with the same timings) allowing me to get more performance per dollar!",
+      "Heat spreaders are a bit misleading in my opinion. Metal-based sticker shouldn't qualify for that although I know it's better than nothing (well, I hope so). It's still a good product as far as ram goes."
+    ]
+  },
+  {
+    "name": "Crucial CT2K8G48C40U5 16 GB (2 x 8 GB) DDR5-4800 CL40 Memory",
+    "price": 41.99,
+    "specs": {
+      "Manufacturer": "Crucial",
+      "Part #": "CT2K8G48C40U5",
+      "Speed": "DDR5-4800",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$2.624",
+      "Color": "Black",
+      "First Word Latency": "16.667 ns",
+      "CAS Latency": "40",
+      "Voltage": "1.1 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "No"
+    },
+    "rating": "(5 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/X7Z9TW/crucial-16-gb-2-x-8-gb-ddr5-4800-cl40-memory-ct2k8g48c40u5",
+    "comments": [
+      "meh, cheap ddr5. good ram for grandma",
+      "It works fine but im probably losing performance from 4 sticks, 4800 speeds and cl40",
+      "Although it is cheaper DDR5 and runs slower than other kits, it works fine with no issues.",
+      "Nothing to write home about. Stuck with these dimms because they were what's for dinner."
+    ]
+  },
+  {
+    "name": "G.Skill Trident Z5 Neo RGB 64 GB (2 x 32 GB) DDR5-6000 CL26 Memory",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6000J2636G32GX2-TZ5NR",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Color": "Black",
+      "First Word Latency": "8.667 ns",
+      "CAS Latency": "26",
+      "Voltage": "1.4 V",
+      "Timing": "26-36-36-96",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(2 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/j7XMnQ/gskill-trident-z5-neo-rgb-64-gb-2-x-32-gb-ddr5-6000-cl26-memory-f5-6000j2636g32gx2-tz5nr",
+    "comments": [
+      "I'm running DDR5 memory with low CAS latency, and it makes a noticeable difference in both gaming and productivity. Paired with my Ryzen 9 9950X3D and Gigabyte Aorus Pro X870E, the system feels incredibly responsive, with faster load times and smoother performance in CPU-intensive tasks. Enabling EXPO/XMP was simple, and it has been completely stable with no crashes or instability.\nThe low latency really shines in gaming, helping reduce frame dips and improve overall fluidity. Temps stay cool thanks to well-designed heatsinks, and overclocking headroom is solid for fine-tuning. If you're looking for fast, efficient DDR5 with tight timings, this kit has been a great pick for my build."
+    ]
+  },
+  {
+    "name": "Corsair Dominator Titanium 96 GB (2 x 48 GB) DDR5-7000 CL40 Memory",
+    "price": 479.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMP96GX5M2B7000C40",
+      "Speed": "DDR5-7000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 48GB",
+      "Price / GB": "$4.750",
+      "Color": "Black",
+      "First Word Latency": "11.429 ns",
+      "CAS Latency": "40",
+      "Voltage": "1.4 V",
+      "Timing": "40-52-52-114",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/KXy8TW/corsair-dominator-titanium-96-gb-2-x-48-gb-ddr5-7000-cl40-memory-cmp96gx5m2b7000c40",
+    "comments": []
+  },
+  {
+    "name": "TEAMGROUP T-Create Classic 32 GB (2 x 16 GB) DDR5-5600 CL46 Memory",
+    "price": 74.98,
+    "specs": {
+      "Manufacturer": "TEAMGROUP",
+      "Part #": "CTCCD532G5600HC46DC01",
+      "Speed": "DDR5-5600",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$2.343",
+      "Color": "Black",
+      "First Word Latency": "16.429 ns",
+      "CAS Latency": "46",
+      "Voltage": "1.1 V",
+      "Timing": "46-46-46-90",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(4 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/qk9wrH/teamgroup-t-create-classic-32-gb-2-x-16-gb-ddr5-5600-cl46-memory-ctccd532g5600hc46dc01",
+    "comments": [
+      "Some of the cheaper 32g RAM when I was looking around for RAM, has been working pleasantly for me with no issues.",
+      "Works great for some budget ram especially on sale, no complaints really.",
+      "I really like this kit. It’s Cheap and looks really nice.",
+      "This ram does have hynix chips in it. used buildzoid settings and also pushed it to 6000mhz with no problem\nedit: tweaked the timings and managed to do 30-38-38-30 at 6400mhz. did 3 hours of y-cruncher vst no errors although not stable enough to handle gaming"
+    ]
+  },
+  {
+    "name": "Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "price": 259.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMH64GX5M2B6000C30W",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$4.062",
+      "Color": "White / Silver",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "Timing": "30-36-36-76",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(7 Ratings, 4.6 Average)",
+    "link": "https://pcpartpicker.com/product/Nn9wrH/corsair-vengeance-rgb-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-cmh64gx5m2b6000c30w",
+    "comments": [
+      "Looks good and runs well.",
+      "Corsair Vengeance. Pricey RAM, but you absolutely get what you pay for.",
+      "Crashes my PC unless i disable it's RGB (crashes are random and once took a week or so, was not smart... and didn't check motherboard compatibility rip) but yes they work fine otherwise, if they didn't work at all i would of obviously returned them but they magically work, been 7 months now using them :)",
+      "This RAM not only looks great with its customizable RGB lighting but also performs exceptionally well. The 64 GB capacity ensures smooth performance in heavy multitasking and rendering tasks.",
+      "Went with 6000mhz with a CL30 as it has the best performance with AMD at the moment. Have been using Corsair Vengence Ram for my last 3 builds and haven't had a problem so stayed with them. Wanted white and RGB. Paid $230 off Amazon.",
+      "Infinity Fabric in AMD chips favors 6000mhz, going above faces stability issues. CL 30 was the lowest latency I could find for 6000. Corsair makes good ram. No questions best option. Only 4 stars cus they dont have this in EXPO, but XMP and EXPO (as far as Ive seen) have no major performance difference.",
+      "Awesome ram. While it may be 6000 mhz which isn’t the top tier, 64gb is what I was looking for and this takes care of dual channel which is good for ram. Plus it lights up."
+    ]
+  },
+  {
+    "name": "Timetec PINNACLE Konduit 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "price": 43.99,
+    "specs": {
+      "Manufacturer": "Timetec",
+      "Part #": "PKMD4U32C16CNHW16GK2",
+      "Speed": "DDR4-3200",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$1.375",
+      "Color": "White",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.35 V",
+      "Timing": "16-18-18-38",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/67XV3C/timetec-pinnacle-konduit-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-pkmd4u32c16cnhw16gk2",
+    "comments": [
+      "No complaints. For a 32 GB kit, the price is excellent. The DDR4-3200 CL16 XMP profile just works. The heatsinks have a nice look to them and they’re relatively low profile, perfect for a white themed PC build."
+    ]
+  },
+  {
+    "name": "G.Skill Trident Z5 Royal 64 GB (2 x 32 GB) DDR5-6400 CL32 Memory",
+    "price": 229.99,
+    "specs": {
+      "Manufacturer": "G.Skill",
+      "Part #": "F5-6400J3239G32GX2-TR5S",
+      "Speed": "DDR5-6400",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 32GB",
+      "Price / GB": "$3.594",
+      "Color": "Silver",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "32",
+      "Voltage": "1.4 V",
+      "Timing": "32-39-39-102",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(3 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Bj6NnQ/gskill-trident-z5-royal-64-gb-2-x-32-gb-ddr5-6400-cl32-memory-f5-6400j3239g32gx2-tr5s",
+    "comments": [
+      "Apart from not being able to enable my XMP profile once I first finished the build, was annoyed with them. Since though I have and it makes a world of difference imo, went from 4800 Mt/s to 6400 Mt/s. And they are gorgeous.",
+      "You're getting these for that boujee/clean look and that's what you'll get. Looks way better in person and the color LEDs pop. The price is something you'll have to decide if its worth it or not.",
+      "Great looking RAM. As of now no stability issues running at 6400 mhz even with at 7600x."
+    ]
+  },
+  {
+    "name": "Crucial Pro 32 GB (2 x 16 GB) DDR5-6400 CL38 Memory",
+    "price": 99.99,
+    "specs": {
+      "Manufacturer": "Crucial",
+      "Part #": "CP2K16G64C38U5B",
+      "Speed": "DDR5-6400",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 16GB",
+      "Price / GB": "$3.125",
+      "Color": "Black",
+      "First Word Latency": "11.875 ns",
+      "CAS Latency": "38",
+      "Voltage": "1.35 V",
+      "Timing": "38-40-40-84",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/TQjRsY/crucial-pro-32-gb-2-x-16-gb-ddr5-6400-cl38-memory-cp2k16g64c38u5b",
+    "comments": []
+  },
+  {
+    "name": "Corsair Vengeance LPX 8 GB (1 x 8 GB) DDR4-2400 CL16 Memory",
+    "price": 20.99,
+    "specs": {
+      "Manufacturer": "Corsair",
+      "Part #": "CMK8GX4M1A2400C16",
+      "Speed": "DDR4-2400",
+      "Form Factor": "288-pin DIMM (DDR4)",
+      "Modules": "1 x 8GB",
+      "Price / GB": "$2.624",
+      "Color": "Black / Yellow",
+      "First Word Latency": "13.333 ns",
+      "CAS Latency": "16",
+      "Voltage": "1.2 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "(48 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/sMbkcf/corsair-memory-cmk8gx4m1a2400c16",
+    "comments": [
+      "Very good quality and performance.",
+      "no issues here, xmp works great",
+      "Didn't realize it was low-profile so I was terrified when I was basically punching it into the slot.",
+      "Nothing to say, works aight.",
+      "I finally upgraded to 16 GB RAM, and the difference is HUGE. I was just having problems with Just Cause, but yesterday the RAM came and I put that bad boy in, and wow, there is a huge difference between 8 and 16 GB. (8GB RAM = 60 FPS, STANDING STILL, 16GB RAM = 80FPS, STANDING STILL)",
+      "i got these two back when ddr4 was really expensive so i only got 2400mhz. hasn't been so bad though",
+      "It was cheap.",
+      "I mean, it's RAM. Enough of it too. Still, you can get DDR4-3000 for almost the same price. For me, it was enough though.",
+      "Wouldn’t recommend for ryzen, as you need at least 3k ram for that, but this isn’t corsair’s fault, so I won’t dock stars. It’s ram, and it works.",
+      "Corsair vengeance LPX is an excellent budget DDR4 stick that runs fast. I got the 2400 because that's the max my M/B supports. Comes in a 3000 mhz version too"
+    ]
+  },
+  {
+    "name": "Kingston FURY Beast 16 GB (2 x 8 GB) DDR5-6000 CL30 Memory",
+    "price": 69.66,
+    "specs": {
+      "Manufacturer": "Kingston",
+      "Part #": "KF560C30BBEK2-16",
+      "Speed": "DDR5-6000",
+      "Form Factor": "288-pin DIMM (DDR5)",
+      "Modules": "2 x 8GB",
+      "Price / GB": "$4.354",
+      "Color": "Black",
+      "First Word Latency": "10 ns",
+      "CAS Latency": "30",
+      "Voltage": "1.4 V",
+      "ECC / Registered": "Non-ECC / Unbuffered",
+      "Heat Spreader": "Yes"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/vmsV3C/kingston-fury-beast-16-gb-2-x-8-gb-ddr5-6000-cl30-memory-kf560c30bbek2-16",
+    "comments": []
+  }
+]

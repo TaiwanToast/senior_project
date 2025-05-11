@@ -1,0 +1,972 @@
+[
+  {
+    "name": "ARCTIC Case Fan Hub Fan Controller",
+    "price": 9.99,
+    "specs": {
+      "Manufacturer": "ARCTIC",
+      "Model": "Case Fan Hub",
+      "Part #": "ACFAN00175A",
+      "Channels": "10",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "(9 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/cyNYcf/arctic-case-fan-hub-fan-controller-acfan00175a",
+    "comments": [
+      "It takes fan connections. In honesty, I didn't really need this, only made the unholy mess that are the PWM cable daisy chains a tad more managable.",
+      "Bought this in case i needed it as the mobo only has three fan headers, in the end i didn't need to use it",
+      "It's sata powered but attaches to a motherboard header to control the fans, its a lot smaller than I though but it works just fine.",
+      "I didn't even end up using it in my build (didn't realise I could daisy-chain). Good for its price though, you get 10 channels for 10 bucks.",
+      "Allows connecting up to 10 PWM fans, useful for managing multiple fans and ensuring optimal cable management.",
+      "Needed for my extra fans",
+      "Lifesaver",
+      "Really good fan hub and easy to set up"
+    ]
+  },
+  {
+    "name": "Lian Li UNI HUB – SL Controller Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lian Li",
+      "Model": "UNI HUB – SL Controller",
+      "Part #": "UF-IN-L-CONNECT3 WT\n12SL-CONT3",
+      "Channels": "4",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "(3 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/2YMMnQ/lian-li-uni-hub-sl-controller-fan-controller-uf-in-l-connect3-wt",
+    "comments": [
+      "Hub works fine.",
+      "Pros:\nMakes adding sets of Lian Li case fans together an ease\nL Connect 3 software is easy to use\nComes with cables for the fans to plug into this controller. Meaning you no longer need to plug the fans into a separate PWM and ARGB header, reducing total number of cables\nVery easy to setup in the case\nComes with a magnet you can stick to the back of this to mount into your case\nCons:\nRequires you to plug in two SATA power cables to power this and the fans\nRequires plugging in a Micro-USB into the controller, which has a USB 2.0 header on the other end to plug into the mother board\nMinor Grievances:\nThe Micro-USB to USB 2.0 header has to be plugged into the motherboard directly. It would not work with me when trying to plug it into the USB 2.0 ports on the Lian Li EDGE PSU\nFinal Thoughts:\nThis is a must of you are going to have large number of Lian Li fans in your PC case. However, if you are getting some of Lian Li's new \"Wireless\" fans you do not need this controller.",
+      "Fairly easy to use and has various options. Easy to connect multiple lights and controllers."
+    ]
+  },
+  {
+    "name": "NZXT RGB & Fan Controller (2022) Fan Controller",
+    "price": 34.1,
+    "specs": {
+      "Manufacturer": "NZXT",
+      "Model": "RGB & Fan Controller (2022)",
+      "Part #": "AC-CRFR0-B1",
+      "Channels": "3",
+      "Channel Wattage": "36 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "(11 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/vB8bt6/nzxt-rgb-fan-controller-2022-fan-controller-ac-crfr0-b1",
+    "comments": [
+      "A must for NZXT fans. Also would recommend a USB splitter from NZXT. It makes much easier to connect fans to mobo.",
+      "Very nice",
+      "Easy to use, install, hook into, and the NZXT software is easy to use.\nI did some research on fan controllers before buying one. This one does what it's supposed to do I plugged in my two single frame case fans into it. It was very easy to set up and I could have plugged the fans into my motherboard directly but it's easier to use a controller because you can control all the RGB and fan speeds (RPM) through the NZXT software.",
+      "Works just fine but I shouldn't have to buy it",
+      "The controller that came with my fans did not have enough hookups so had to buy this. Part of what NZXT does where you pay cheap but you have to buy more. Didn't want to buy this but needed to link up all my fans so was almost forced into it. NZXT CAM is a good software so there is some upside.",
+      "Very handy for connecting a bunch of NZXT fans. The controller is magnetic so it sticks to my case ( NZXT H9 Flow ). Be aware if you buy this, any other non NZXT RGB components will need additional RGB software. Running multiple RGB programs can cause issues!",
+      "does the job for nzxt fans",
+      "Very fidgety to setup easy to use but very annoying.",
+      "A good enough hub that controls 6 of my 9 fans. the other 3 are controlled with an included controller.",
+      "These were more of a necessity purchase for me. I really dislike that I HAD to get these for my fans RGB to work. I also had to get two because there just isn't that many RGB ports on these things. I wish there was some way around it, but for NZXT I just couldn't find one. At least on the bright side all the fans were ARGB and these made them individually work as they should so win some lose some I guess. I just wish the cheaper ARGB solutions weren't so convoluted."
+    ]
+  },
+  {
+    "name": "Razer RZ34-02140700-R3M1 Fan Controller",
+    "price": 49.99,
+    "specs": {
+      "Manufacturer": "Razer",
+      "Part #": "RZ34-02140700-R3M1",
+      "Channels": "8",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/Nrstt6/razer-rz34-02140700-r3m1-fan-controller-rz34-02140700-r3m1",
+    "comments": [
+      "This was not entirely necessary, though I was using one in the initial build. I bought it to work with SignalRGB cooling monitoring, but it now supports motherboard headers, so it's not longer really necessary. I group my fans in zones and combine fans into units so there are fewer headers needed."
+    ]
+  },
+  {
+    "name": "Noctua NA-FH1 Fan Controller",
+    "price": 36.95,
+    "specs": {
+      "Manufacturer": "Noctua",
+      "Part #": "NA-FH1",
+      "Channels": "8",
+      "Channel Wattage": "6 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "(3 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/mHYRsY/noctua-na-fh1-fan-controller-na-fh1",
+    "comments": [
+      "absolute necessity",
+      "Great controller, no problems or performance issues so far. Really important to run multiple fans and do not overload motherboard",
+      "Great little hub. Overpriced for sure, but cool that it lights up with each connector that's used I guess?"
+    ]
+  },
+  {
+    "name": "Thermalright TL-FAN and ARGB HUB x8 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Thermalright",
+      "Part #": "TL-FAN and ARGB HUB x8",
+      "Channels": "4",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "(16 Ratings, 4.9 Average)",
+    "link": "https://pcpartpicker.com/product/wfLdnQ/thermalright-tl-fan-and-argb-hub-x8-fan-controller-tl-fan-and-argb-hub-x8",
+    "comments": [
+      "Simple and easy to setup.",
+      "Easy connection, and great for manging all the fans connections",
+      "Bought two of these to handle all the fans in the case (12 in total). Your motherboard almost certainly won't handle 12 fans daisy chained together, as the power draw for the RGB (and maybe the PWM) will simply be too high.\nThey work great. Only minor complaint is that they take up a lot of space in the back of the case, which made cable routing a bit hard. Otherwise though the fans are running perfectly.\nImportant to note is that the controller has a single red connector in the corner. This is the port that determines the current fan speed. One fan should always be connected there.",
+      "Great Fan Hub, The Adhesive included falls of Quite Often Though.",
+      "For $15, it does what it says. Cannot control each individual fan's RGB or speed, but it's a cheap effective option.",
+      "Despite the reviews on Amazon, this RGB hub works great. It is exactly what I was looking for. It being remote controlled, I can change colors, brightness and fan speed without using any apps on my PC. It even changes the colors on my CPU cooler even though those fans are plugged into the moba. It has a magnetic back so it slaps right onto the case metal.",
+      "Despite the reviews on Amazon, this RGB hub works great. It is exactly what I was looking for. It being remote controlled, I can change colors, brightness and fan speed without using any apps on my PC. It even changes the colors on my CPU cooler even though those fans are plugged into the moba. It has a magnetic back so it slaps right onto the case metal.",
+      "donthavethis #offbrand #EZDIY4life #closestthingtoit",
+      "It's a 8 fan and 8 argb hub for next to nothing. Got it before I ordered the mobo, then thought I got plenty of argb headers, then couldn't get the fans to daisy chain argb and ended up using it anyways. Glad I had it",
+      "Perfect for getting all my fans plugged in - just be aware that it will all act as one fan which was fine for me."
+    ]
+  },
+  {
+    "name": "Noctua NV-FH2 Fan Controller",
+    "price": 49.95,
+    "specs": {
+      "Manufacturer": "Noctua",
+      "Part #": "NV-FH2",
+      "Channels": "8",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/s96NnQ/noctua-nv-fh2-fan-controller-nv-fh2",
+    "comments": [
+      "I purchased this fan hub while under the impression that I'd have issues with cable management with the six fans installed along with the CPU cooler... but honestly? I think I would've been fine without it if I just did a better job of routing the fan cables along the motherboard."
+    ]
+  },
+  {
+    "name": "Thermalright TL-FAN HUB X4 Fan Controller",
+    "price": 6.9,
+    "specs": {
+      "Manufacturer": "Thermalright",
+      "Part #": "TL-FAN HUB X4",
+      "Channels": "4",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/Gzrqqs/thermalright-tl-fan-hub-x4-fan-controller-tl-fan-hub-x4",
+    "comments": [
+      "Didn't realize that for my build this was not necessary, but I guess that if you need this, then it's fine. Don't expect plug-ins for RGB. Luckily, the Thermalright fans I bought come with the necessary cables for daisy-chaining everything, so all the fans run off a single connector for the power and RGB."
+    ]
+  },
+  {
+    "name": "Thermalright TL-FAN-HUB-Controller Fan Controller",
+    "price": 10.59,
+    "specs": {
+      "Manufacturer": "Thermalright",
+      "Part #": "TL-FAN-HUB-Controller",
+      "Channels": "4",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/DzV2FT/thermalright-tl-fan-hub-controller-fan-controller-tl-fan-hub-controller",
+    "comments": []
+  },
+  {
+    "name": "Thermalright TL-FAN-HUB Controller Rev.A Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Thermalright",
+      "Part #": "TL-FAN-HUB Controller Rev.A\nFAN-HUB-CONTROLLER REV.A",
+      "Channels": "10",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/MYZXsY/thermalright-tl-fan-hub-controller-reva-fan-controller-tl-fan-hub-controller-reva",
+    "comments": []
+  },
+  {
+    "name": "Thermaltake Commander FT Fan Controller",
+    "price": 54.98,
+    "specs": {
+      "Manufacturer": "Thermaltake",
+      "Model": "Commander FT",
+      "Part #": "AC-010-B51NAN-A1",
+      "Channels": "5",
+      "Channel Wattage": "10 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Type: Touch Screen Fan Controller\nScreen Size: 5.5\"\nPower Input: 12V\nFans Channels: 5\nIndividual Fan Wattage: 10W\nCombined Fan Wattage: 50W\nFan Speed Range: 0 - 9990RPM\nTemerture Sensor: 1\nFan Connector Supported: 3-pin / 4-pin\nPower Connector: (1) 4-pin Peripherial (Molex)\nWeight: 24g\nColor : Black\nTouch Screen Fan Speed Slider\nWarning Alarm with built-in Short Circuit Protection\nThermal Dynamics Readout\nEasily Switch between F / C\nSupports up to (5) Fan Simultaneously"
+    },
+    "rating": "(3 Ratings, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/XnnG3C/thermaltake-commander-ft-fan-controller-ac-010-b51nan-a1",
+    "comments": [
+      "Excellent contrôleur, je l'utilise depuis près d'un an avec six ventilateurs stickleflow 120 (les stickleflow consomment moins de 5 watt, environ 4,6 au maximum et le contrôleur commander FT peut fournir 10 watt par connecteur, ce qui m'a permis d'en brancher deux sur un même connecteur).",
+      "absolutely wonderful fan controller! Viewing angle is not even a thing. If you can see the controller, you can read it! intuitive controls, nice design, would definitely recommend to everyone! I bought an NZXT Sentry 3 for my last build, and hated it. Now that I've seen the Commander in action, I will be re-ordering another one to replace the Sentry.",
+      "I got the RGB Thermaltake 6 fans controller, note all fans are contralled by voltage, no PWM fan can be controlled. Actually if I put a PWM fan, the fact of changing the Voltage causes it to have like 3 speeds."
+    ]
+  },
+  {
+    "name": "Deepcool FH-04 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Deepcool",
+      "Model": "FH-04",
+      "Part #": "DP-F04PWM-HUB",
+      "Channels": "4",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "(3 Ratings, 4.7 Average)",
+    "link": "https://pcpartpicker.com/product/9DWJ7P/deepcool-fh-04-fan-controller-dp-f04pwm-hub",
+    "comments": [
+      "does what it needs to do",
+      "It's a fan hub, works well, can confirm",
+      "Turns one fan port into 4"
+    ]
+  },
+  {
+    "name": "Deepcool FH-10 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Deepcool",
+      "Model": "FH-10",
+      "Part #": "DP-F10PWM-HUB",
+      "Channels": "10",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/RmsV3C/deepcool-fh-10-fan-controller-dp-f10pwm-hub",
+    "comments": []
+  },
+  {
+    "name": "EZDIY-FAB US-PWM fan hub Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "EZDIY-FAB",
+      "Part #": "US-PWM fan hub",
+      "Channels": "10",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/Wf8Pxr/ezdiy-fab-us-pwm-fan-hub-fan-controller-us-pwm-fan-hub",
+    "comments": []
+  },
+  {
+    "name": "Deepcool SC790 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Deepcool",
+      "Model": "SC790",
+      "Part #": "R-SC790-BKNSNN-G",
+      "Channels": "6",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "Internal",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/kWpQzy/deepcool-sc790-fan-controller-r-sc790-bknsnn-g",
+    "comments": []
+  },
+  {
+    "name": "NZXT SENTRY 3 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "NZXT",
+      "Model": "SENTRY 3",
+      "Part #": "AC-SEN-3-B1",
+      "Channels": "5",
+      "Channel Wattage": "15 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Fan Connector: 3-Pin or 4-Pin\nFinish: Textured Injected Plastic\nIncluded Accessories: 4x M3 Screws\nConnections: 1x Molex, 1x Temperature Sensor, 5x PWM Male Fan Connectors\nMaximum Combined Wattage : 75 Watts\nBrightness Levels: On / Off\nControl Modes: Manual / Performance / Quiet\nFan Channel Quantity: 5 Channels\nFan Channel Wattage: 15 Watts\nTemperature Range: 0 to 120 C degree\nMinimum Power To Fans: 0%\nScreen Size: 5.4 Inches\nScreen Type: Capacitive Touch"
+    },
+    "rating": "(32 Ratings, 4.4 Average)",
+    "link": "https://pcpartpicker.com/product/dQ8Zxr/nzxt-fan-controller-acsen3b1",
+    "comments": [
+      "I ended up picking this up for $15 brand new on Craigslist, and It's honestly my favorite part of the system. It's like having a CAM display in the system, but for more lower-end cases. It is able to keep my fans at silence during idle periods, and quiet enough during gaming that the system is easily cancelled out by my headphones. Includes real-time temperature sensing which is cool. My one gripe is that some of the digital readings are difficult to read at certain angles.",
+      "Took me a bit to figure out how to use it, but after that, no issues.",
+      "What an absolute pain the butt to get this thing installed in my case. It is \"jerry-rigged\" to all hell in there but, it's in. This should not be listed as \"compatible\" with the MasterCase Pro5.\" I like having the fan curve at my finger tips though. All in all a good product from NZXT, if you want this sort of thing, you would be hard pressed to find a better fan controller.",
+      "Great fan hub! Handles all my fans well, but the power button is impossible to press!",
+      "The viewing angles aren't good if you have your case on the ground but otherwise it displays great.",
+      "No complaints. Just about all of the fans in my system are hooked up to this, and it works like a charm. The \"beep\" sound is really annoying, though.",
+      "Great fan controller. I wish it was a little more customizable though.",
+      "really wish this worked with the cam software in some way but it works fine for what i needed and if i really wanted a fan controller that work with the cam software then i should have got the grid+ v2 but hay it does not look as cool on you computer am i right.",
+      "No issues whatsoever. Absolutely amazing fan controller, and I completely recommend it to anyone with a compatible case. Touchscreen is easy to use, has a lot of features and connections, and overall looks really neat.",
+      "The casing doesn't support enough fans so I went for this. Pretty good fan controller, easy interface to control each of the fans."
+    ]
+  },
+  {
+    "name": "Kingwin FPX-001 Fan Controller",
+    "price": 15.99,
+    "specs": {
+      "Manufacturer": "Kingwin",
+      "Part #": "FPX-001",
+      "Channels": "4",
+      "Channel Wattage": "8 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "3.5\"",
+      "Features": "4 Channel Fan Controller\nLED Indicator for Power On/Off\nControl 4 Sets of Fans\nFit 3.5\" Bay\n3 Pin Fan Connections."
+    },
+    "rating": "(6 Ratings, 3.7 Average)",
+    "link": "https://pcpartpicker.com/product/xDphP6/kingwin-fan-controller-fpx001",
+    "comments": [
+      "This product exceeded my expectations except for one thing, the Molex pass-through. Once I installed it into my desktop, I booted it and noticed that one of the hard drives wasn't detected, the one that was using the pass-through. To prove that my theory was right, I used the Molex connector from the power supply to the Molex that was going to the undetected Hard Disk Drive. Then, I booted the computer again and this time, it was detected. Now, I need to ruin some of my neat cable management in order to connect it to my existing Molex cable from the Power Supply. To sum it all up, I discovered one minor flaw within this product and need to redo my cable management.",
+      "ahh cheap and gets the job done, limited power though.",
+      "Be prepared to have these baby's mostly cranked up... Yeah switching to water cooling soon...\nWWWWWWWRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
+      "OK for the purposes needed, but low fan capacity, non-changing LED's, and warm knobs are weird."
+    ]
+  },
+  {
+    "name": "NZXT Sentry LX Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "NZXT",
+      "Model": "Sentry LX",
+      "Part #": "SEN-001LX",
+      "Channels": "5",
+      "Channel Wattage": "6 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "2 x 5.25\"",
+      "Features": "Large dual 5.25\" LCD screen\nNZXT designed intuitive control, set and change fan speeds and settings on the fly\nAuto/Manual modes, let the LCD take control or set fan speeds to your liking\nTemperature alarm\nAluminum finish\nNZXT Designed graphical interface, easy to read and understand\nSaved Settings, calendar and fan settings are stored even during system off so settings don't need to be redone\nSupports up to 6Watt per channel\nSupports only 3pin fans"
+    },
+    "rating": "(15 Ratings, 3.5 Average)",
+    "link": "https://pcpartpicker.com/product/KNfp99/nzxt-fan-controller-sen001lx",
+    "comments": [
+      "Retro cool and works well if temperature sensors are placed correctly.",
+      "This thing looks cool, and if you want to turn your computer into a centerpiece, I'd recommend this thing. If you actually want to use it to control your fans, look somewhere else. The fan headers on your motherboard do a great job at that.\nThis thing does not know how to take full advantage of your fan's capabilities. (I don't think any fan controllers do) So unless you have more fans than you have fan headers, this thing is mostly cosmetic. Even then, you should get splitters for your fan controller, so that they will actually work properly.\nThe first one I got had a broken fan but Best Buy customer service is really great and they got me a replacement quick and easy. The fan also randomly starts beeping rarely -- it has a temperature alarm but apparently it randomly goes off even when disabled. Thankfully it doesn't last very long.\nTl;Dr - Seriously, don't buy this thing. It makes my computer look pretty cool and that's like really the only good thing about it.",
+      "Horrible. At this point, it is so dated, but, just in case, avoid like the plague. An absolutely terrible device. Right now, I only have it installed for the thermal probes, and because it covers two drive bays (as I no longer have the bay covers for the case). Do not trust this to handle the fans. It can't do it. Don't bother with the back-up battery; it eats them like candy.\nAvoid!",
+      "I like this controller but it took a bit of time to get it to stick with the settings after a restart. Another problem I seem to be running in to is that it will not let me put any fan over 1100 RPMS. I would like to be able to get them a little higher when the situation calls for it. It puts about 2 fans at 1100 and the other 2 go in and out of 800 to 1000 when they feel like it. I will be browsing around the manual and website to see if there is a fix to this. I like that I am able to change the speeds up to where they are at though. Also love the temp alarm that sounds off if it gets too high.\nI would suggest this to anyone looking to control their fan speeds. It is not the greatest but it is pretty neat. Love the build in clock too."
+    ]
+  },
+  {
+    "name": "Thermaltake Commander F6 RGB Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Thermaltake",
+      "Model": "Commander F6 RGB",
+      "Part #": "AC-024-BN1NAN-A1",
+      "Channels": "6",
+      "Channel Wattage": "0.03 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/9w3H99/thermaltake-commander-f6-rgb-fan-controller-ac-024-bn1nan-a1",
+    "comments": []
+  },
+  {
+    "name": "NZXT Sentry Mix 2 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "NZXT",
+      "Model": "Sentry Mix 2",
+      "Part #": "SEN-MIX2\nAC-SEN-MIX2-M1",
+      "Channels": "6",
+      "Channel Wattage": "30 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Fan Connector: 4-Pin\nFinish: Matte black bezel with glossy black sliders\nConnections: 2x Molex\nCable Finish: Black Rubber\nRGB Color Changing\nControl Method: Sliders\nFan Channel Quantity: 6\nFan Channel Wattage: 30 Watts\nMaximum Combined Wattage: 180 Watts\nIncluded Accessories: 4x M3 Screws.\nMatte-black faceplate with glossy-black sliders\n6 channels for complete airflow control\n30 watts per channel\nIntegrated color LED lighting with five different colors to choose from\nAll black cabling\nPWM sized connectors."
+    },
+    "rating": "(53 Ratings, 4.4 Average)",
+    "link": "https://pcpartpicker.com/product/tWW9TW/nzxt-fan-controller-senmix2",
+    "comments": [
+      "Not the best purchase, the white LED color is way off which is frustrating. I find myself using software to control my fans instead.",
+      "This fan controller has been really good at keeping my fans silenced when I need them too where the the sliders can be broken if you accidentally slide them too hard or pull them out.",
+      "This is a great fan controller. Not very fancy compared to a lot of them, but works great and you can hook up several fans to each switch. Has worked for me for 4 years without a single issue.",
+      "Controller works well enough, and it looks nice. But unfortunately the view angle is very small. I have to be standing directly in front of it to be able to read the display accurately. There is little in the way of instructions and how to actually work it's functions.",
+      "This fan controller is absolutely perfect. 6 channels, RGB lit sliders, and just really simple to use. Has a matt-black finish giving it a super sexy look. Unfortunately, it is no longer manufactured by NZXT. I found mine on ebay for $20, but NZXT does sell certified refurbished for around $35.",
+      "for what it is and what it does its very expensive, but it does compliment the case very nice.",
+      "Great little fan controller has more than enough connectors for all my fans works as advertised.",
+      "Individual control for noise-reduction was much easier with this. Also it has an Orange color setting.",
+      "Plenty of fan headers but the cables are very difficult to remove for cable management. I cut myself trying to get one off.",
+      "Nice fan controller but wish it had better cable management."
+    ]
+  },
+  {
+    "name": "Aerocool CoolTouch-R Black Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Aerocool",
+      "Part #": "CoolTouch-R Black",
+      "Channels": "4",
+      "Channel Wattage": "20 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Innovative \"Touch\" LCD technology\nControls 4 sets of fan speed individually\n3 Speed setting - Low/Mid/High\n7 LED backlight colors selection or turn off backlight completely\nSupport up to 20W per channel\nCan turn off speed completely\nCelsius/Fahrenheit switch for system temp. display\nUSB3.0 port\nCard reader supports most common card-SD/MMC/TF"
+    },
+    "rating": "(2 Ratings, 3.0 Average)",
+    "link": "https://pcpartpicker.com/product/ZB8Zxr/aerocool-fan-controller-cooltouchrblack",
+    "comments": [
+      "Cant really say much, works flawlessly and without this the case would be useless, I usually keep the side panel fan off until i get to play demanding stuff",
+      "Not recommended, broke while installing. Made with very poor quality parts."
+    ]
+  },
+  {
+    "name": "Silverstone FP59B Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Silverstone",
+      "Model": "FP59B",
+      "Part #": "SST-FP59B",
+      "Channels": "1",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/FXqBD3/silverstone-fp59b-fan-controller-sst-fp59b",
+    "comments": []
+  },
+  {
+    "name": "NZXT Sentry 2 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "NZXT",
+      "Model": "Sentry 2",
+      "Part #": "Sentry-2\nSEN2-001",
+      "Channels": "5",
+      "Channel Wattage": "10 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Features": "Touch screen interface\nFive fan control through an intuitive interface\nUltra fast selection and response time\nDisplay temperatures in both F and C\nLight switch turns off the meter when sleeping\nAutomatic and manual modes of control\nFull compatibility with all types of fans using voltage control\nWith a maximum of 10 Watts per channel, the Sentry 2 will support almost all high end fans\nTuned accuracy with only a tolerance of one degree\nSound alarm to alert when the temperature is over\nStored settings, the Sentry keeps your settings even after power off"
+    },
+    "rating": "(22 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/9f6BD3/nzxt-fan-controller-sentry2",
+    "comments": [
+      "Love it, however the beep when you touch the screen makes me want to strangle something.",
+      "For the price, this thing is pretty rad. It gives a simple readout of my system's temps and lets me adjust the fan speed on the fly if need be for individual fans.",
+      "Case has a 3 speed fan controller on it but we disabled it since the digital one looked much cooler per my nephew.",
+      "needed for the amount of fans (7 INCLUDING 212 EVO) I have running or not running at any given moment.",
+      "Sadly does not support 4pin fans but they do sell another fan controller that does. Overall this is a good fan controller for builds like the one I recently posted on this site and comes with a decent automatic fan control option with temperature sensors and temperature warning alarm"
+    ]
+  },
+  {
+    "name": "Aerocool Touch 2000 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Aerocool",
+      "Part #": "Touch 2000\nEN55345",
+      "Channels": "4",
+      "Channel Wattage": "6 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "2 x 5.25\"",
+      "Features": "LCD viewable area: 115 (W) x 57 (H) mm\nConnectors: 4 x 3-pin connectors/4 x heat sensors\nMax wattage per fan channel: 6W"
+    },
+    "rating": "(4 Ratings, 4.2 Average)",
+    "link": "https://pcpartpicker.com/product/J3qdnQ/aerocool-fan-controller-touch2000",
+    "comments": []
+  },
+  {
+    "name": "Lamptron Fanatic Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Model": "Fanatic",
+      "Part #": "FC-FANATIC-S",
+      "Channels": "5",
+      "Channel Wattage": "60 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "CNC milled solid aluminium panel of up to 3/4\"\n5 independant channels with 60W output per each channel\nA total of 300W output control capability across all channels\nRed LED indicates high RPM setting\nBlue LED indicates low RPM setting\nOff setting for all connected fans\n5 x 3-pin connector to fan, 1 x 4-pin molex connector to power supply\nNon-direct light technology LED voltage indicator avoids light interfere\nFits any standard 5.25\" drive bay (5-7/8\" x 1-5/8\")"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/XgR48d/lamptron-fan-controller-fcfanatics",
+    "comments": []
+  },
+  {
+    "name": "BitFenix Recon (White) Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "BitFenix",
+      "Model": "Recon (White)",
+      "Part #": "BFA-RCN-WS-RP",
+      "Channels": "5",
+      "Channel Wattage": "10 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Fan Channels x 5\nTemperature Channels x 5\nMax Watts / Channel 10W\nMeasurement Frequency Every 0.1 - 0.4 Seconds\nTemperature Alarm Range 30 Degrees -90 Degrees\nTemperature Range 0-100 Degrees\nInternet Connected for Mobile Devices\nTouchscreen Controls\nDual Processor Technology\nSystem Status Monitoring\nSFive Channel Thermal Control\nSystem Status Monitoring\nBitFenix SofTouch Bezel"
+    },
+    "rating": "(2 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/FTXfrH/bitfenix-fan-controller-bfarcnwsrp",
+    "comments": []
+  },
+  {
+    "name": "Lamptron FC9 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Model": "FC9",
+      "Part #": "FC-FC9B",
+      "Channels": "4",
+      "Channel Wattage": "50 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "CNC Milled Front Panel with lLaser Etched Logo and Channel Lettering\nCustomizable Channel LED's\nPower Output: Up to 50 watts per channel for 4 channels\nLED Color Available: White, Blue, Green, Cyan, Red, Purple, Yellow\nPanel Color Available: Black Anodized, or Silver\nDC Input: +12V via standard 4-pin molex male connector\nFan Connectors: 4 x 3-pin male connectors\nRecommended power supply wattage: 600w or higher"
+    },
+    "rating": "(1 Rating, 2.0 Average)",
+    "link": "https://pcpartpicker.com/product/NfJwrH/lamptron-fan-controller-fcfc9b",
+    "comments": [
+      "Seems to be made cheap, the handles are kinda crooked and one comes off if pulled. One of the fans will either be at max speed or completely off, not pleased with this but it gets the job done. LEDs on it are hardly visible. Looked fancy when I thought it worked lol"
+    ]
+  },
+  {
+    "name": "Verification",
+    "price": "N/A",
+    "specs": {},
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/MLh9TW/nzxt-fan-controller-sentrymesh",
+    "comments": []
+  },
+  {
+    "name": "BitFenix Recon (Black) Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "BitFenix",
+      "Model": "Recon (Black)",
+      "Part #": "BFA-RCN-KS-RP",
+      "Channels": "5",
+      "Channel Wattage": "10 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Fan Channels x 5\nTemperature Channels x 5\nMax Watts / Channel 10W\nMeasurement Frequency Every 0.1 - 0.4 Seconds\nTemperature Alarm Range 30 Degrees -90 Degrees\nTemperature Range 0-100 Degrees\nInternet Connected for Mobile Devices\nTouchscreen Controls\nDual Processor Technology\nSystem Status Monitoring\nSFive Channel Thermal Control\nSystem Status Monitoring\nBitFenix SofTouch Bezel"
+    },
+    "rating": "(11 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/6qDwrH/bitfenix-fan-controller-bfarcnksrp",
+    "comments": [
+      "Great for managing many fans inside the case",
+      "This thing is such a pain to wire, simply because there are so many freaking wires. After that's taken care of it seems to do the job well enough.",
+      "Works well to check temps and control fans. Also, people think that this is the most amazing part of my computer.\nI never got the internet access thing to work. Could just be my ignorance though",
+      "The software provided sucks. I just downloaded a software (forgot the name) and control all the fans from there. It loads up on startup, if you set up a startup profile you won't even have to touch it. Now it just sits there looking cool."
+    ]
+  },
+  {
+    "name": "Kingwin FPX-003 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Kingwin",
+      "Part #": "FPX-003",
+      "Channels": "4",
+      "Channel Wattage": "8 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Features": "ABS Front Bezel\nControls and Monitors 4 Sets of Fan Speeds and Temperatures\nFront All in One USB 2.0 Card Reader\nDisplay Temperatures in Both F and C\nUltra Fast Selection and Response Time\nAlarm Temperature Display\nOne eSATA Port\nFit 5.25\" Bay"
+    },
+    "rating": "(4 Ratings, 4.8 Average)",
+    "link": "https://pcpartpicker.com/product/MVh9TW/kingwin-fan-controller-fpx003",
+    "comments": [
+      "Works as intended, but I thought build quality cheap"
+    ]
+  },
+  {
+    "name": "Lamptron FC-FC5V2-B Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Part #": "FC-FC5V2-B",
+      "Channels": "4",
+      "Channel Wattage": "30 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Features": "Display shows fan RPM, voltage and temperature. 7 different colors for the digital display, anodized black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/w7ckcf/lamptron-fan-controller-fcfc5v2b",
+    "comments": []
+  },
+  {
+    "name": "Lamptron FC-FC5V3-BK Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Part #": "FC-FC5V3-BK",
+      "Channels": "6",
+      "Channel Wattage": "30 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Power Input : +12VDC (via standard 4-pin Molex)\nPower Output : up to 30W per channel x 6 channels\nControl Range : 0 - 12VDC\nFan Header : Molex Standard 3-pin x 6\nFront Panel Color : Black\nStart Boost, selectable 16 colors for the extra wide LCD display, 3 alarm different modes, 30W x 6 channels, knob based control\nThe FC5 V3 is a real step forward in the evolution of fan controllers. It is bound to become the new standard in this domain. With up to 30W for each of its 6 channels you can hook up some powerful fans for your system. The newly improved and wider LCD display displays RPM, temperature and voltage, and has 16 different colors to choose from for illumination. The FC5 V3 integrates all the commands directly on the front of the fan controller for quicker access to all functions. The smart Start Boost provides an initial 12V power for all the channels in order to power up all fans properly even if the fans are set at a minimum working voltage."
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/2GvRsY/lamptron-fan-controller-fcfc5v3bk",
+    "comments": []
+  },
+  {
+    "name": "Scythe Kaze Master Flat II Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Scythe",
+      "Model": "Kaze Master Flat II",
+      "Part #": "KM08-BK",
+      "Channels": "4",
+      "Channel Wattage": "36 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/h3yV3C/scythe-kaze-master-flat-ii-fan-controller-km08-bk",
+    "comments": []
+  },
+  {
+    "name": "Aerocool X-Vision Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Aerocool",
+      "Part #": "X-Vision",
+      "Channels": "5",
+      "Channel Wattage": "0.008 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/rGW9TW/aerocool-x-vision-fan-controller-x-vision",
+    "comments": []
+  },
+  {
+    "name": "Aerocool CoolTouch E Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Aerocool",
+      "Model": "CoolTouch E",
+      "Part #": "EN51547",
+      "Channels": "4",
+      "Channel Wattage": "20 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Color": "Black"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/JTvD4D/aerocool-cooltouch-e-fan-controller-en51547",
+    "comments": []
+  },
+  {
+    "name": "Aerocool CoolTouch E Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Aerocool",
+      "Model": "CoolTouch E",
+      "Part #": "EN51844",
+      "Channels": "4",
+      "Channel Wattage": "20 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Color": "White"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/vNJp99/aerocool-cooltouch-e-fan-controller-en51844",
+    "comments": []
+  },
+  {
+    "name": "Aerocool F6XT Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Aerocool",
+      "Part #": "F6XT\nEN55406",
+      "Channels": "6",
+      "Channel Wattage": "12 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Controls 6 sets of fan speeds\n3 Adjustable speeds: Low / Medium / High\nDual LED colors + LED off functions\nSupports up to 12W per channel\nSuitable for gamers and enthusiasts\nFan connectors: Molex 4 pins\nUSB 2.0 x 2\nMax. wattage per fan channel: 12W"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/B6TmP6/aerocool-fan-controller-f6xt",
+    "comments": []
+  },
+  {
+    "name": "Aerocool Touch-1000 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Aerocool",
+      "Part #": "Touch-1000\nEN55338",
+      "Channels": "4",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Features": "Connectors\n4 x 3-pin connectors\n4 x heat sensors\nStylish \"hair brushed\" alum front panel w/ Diamond cutting\nInnovative \"Touch\" LCD technology\nMonitors and controls 4 sets of temperature and fan speed individually\nSwitch between Celsius and Fahrenheit\nOverheating alarm temperature warning\n\"Lock\" function provided to prevent careless miss-touch"
+    },
+    "rating": "(2 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/j8Lypg/aerocool-fan-controller-touch1000",
+    "comments": []
+  },
+  {
+    "name": "Aerocool V12XT Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Aerocool",
+      "Part #": "V12XT\nEN55369",
+      "Channels": "4",
+      "Channel Wattage": "6 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "2 x 5.25\"",
+      "Features": "Large LCD screen\nLCD backlight on/off\nSwitch between Celsius and Fahrenheit\nOverheating alarm temperature warning\nHDD working display\n\"Lock\" function provided to prevent careless miss-touch\nLCD viewable area: 115 (W) x 57 (H) mm\nConnectors: 4 x 3-pin connectors / 4 x heat sensors\nMaterial: ABS front bezel w/ steel bracket\nMax wattage per fan channel: 6W"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/jXg323/aerocool-fan-controller-v12xt",
+    "comments": []
+  },
+  {
+    "name": "Gelid Solutions SpeedTouch6 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Gelid Solutions",
+      "Model": "SpeedTouch6",
+      "Part #": "FC-LC-01 SpeedTouch6",
+      "Channels": "6",
+      "Channel Wattage": "30 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Auto Control Range: 6.5V (25C or below) to 12V (50C or above)\nBrightness (Levels): 3\nControl Modes: Automatic / Manual\nDisplay Color: Blue\nFan Cable Lenght (mm): 600\nFan Channels: 6\nFan Connector: 4 Pin (supports 3 Pin & 4 Pin Fan)\nManual Control Range (V): 5 to 12\nMaterial: Aluminum Alloy\nMax. Wattage/ Fan Channel: 30W / Channel\nPower Interface: 4 Pin Molex\nScreen Size (mm): 4.45\" (W) x 1.02\" (H)\nTemperature Range (C): 0 - 100\nTemperature Sensors: 6\nTouch Screen Sensor: Capacitive\nWarranty (years): 2"
+    },
+    "rating": "(1 Rating, 3.0 Average)",
+    "link": "https://pcpartpicker.com/product/kWV48d/gelid-solutions-fan-controller-fclc01speedtouch6",
+    "comments": []
+  },
+  {
+    "name": "Thermaltake AC-001-BN1NAN-A1 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Thermaltake",
+      "Part #": "AC-001-BN1NAN-A1",
+      "Channels": "5",
+      "Channel Wattage": "8 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Cable Length: - 100mm Power cable\n- 600mm Fan cable\nConnector: 3-Pin x 5\n4-Pin power cable\n+12V\n4V - 10.5V"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/QGW9TW/thermaltake-fan-controller-ac001bn1nana1",
+    "comments": []
+  },
+  {
+    "name": "Lamptron FC2 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Model": "FC2",
+      "Part #": "FC-FC2-S",
+      "Channels": "6",
+      "Channel Wattage": "45 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "CNC milled solid aluminium panel of up to 3/4\"\n6-channel x 45W per channel power control with stepless RPM control\nBlue LED brightness intensifies as cooling fan's RPM climbs\n6 x 3-pin connector to fan, 1 x 4-pin molex connector to power supply\nFits any standard 5.25\" drive bay (5-7/8\" x 1-5/8\")"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/67kD4D/lamptron-fan-controller-fcfc2s",
+    "comments": []
+  },
+  {
+    "name": "Lamptron FC6 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Model": "FC6",
+      "Part #": "FC-FC6-B",
+      "Channels": "4",
+      "Channel Wattage": "10 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "LCD display with 7 changeable colors in Blue, Green, Red, Yellow, Cyan, Purple, and White\nTop line displays cooling fan RPM; bBottom line displays either temperature (Celsius or Fahrenheit), or fan voltage\nAlarm is triggered when temperature is over 70 degree C, or if the fan fails to work when voltage is over 6.5V\nIndustrial minimalism design with simple operation\nSolid Aluminum in black or silver front bezel finish\n4 channels stepless fan speed control with up to 10W per channel output\nStandard molex 4-pin connector to power supply\nStandard 3-pin connection to cooling fans"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/L67wrH/lamptron-fan-controller-fcfc6b",
+    "comments": [
+      "Really liked the look of the display on this controller, I felt it would look good with the build and it would be cool to know the temps of different areas of you pc case. I have only the intake and outtake fans manually controlled, as i would prefer to let the mother board determine the speed of the important stuff. Currently have the thermometer probes set so that i know the temps of the air coming into the front of the case, the bottom of the case, between the GPUs and the air leaving the back exhaust. Not that it's the most accurate way to track your component temps but cool gee wiz knowledge to have. A bit tricky to install as it involves all these small cables and maybe some reorganization but overall I think it looks dope and functions well."
+    ]
+  },
+  {
+    "name": "Lamptron FC Touch Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Model": "FC Touch",
+      "Part #": "FC-FCT-B",
+      "Channels": "6",
+      "Channel Wattage": "30 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "CNC milled front panel\nClean and streamlined interface\nStreamlined touch functionality to control your fans\nChoose between RPM or Voltages and Celsius or Fahrenheit for readout\nSet the channel in either Automatic or Manual control to control the fans"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/fJsKHx/lamptron-fan-controller-fcfctb",
+    "comments": []
+  },
+  {
+    "name": "Lamptron CW611-B Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Part #": "CW611-B",
+      "Channels": "6",
+      "Channel Wattage": "36 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Features": "Improved Extra Large LCD\nFully Compatioble with Fans, Pumps and Flow Meters\nCustomizable channels for Air and Water Cooling\nFull Flow Number Readout Display\nManual & Auto Control per Channel\nBacklight Adjustable 0-100%\nPower Reverse and Over-Load Protection"
+    },
+    "rating": "(2 Ratings, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/4YyFf7/lamptron-fan-controller-cw611b",
+    "comments": [
+      "Honestly, this was not my first choice of can controllers simply because I wouldn't spend the money and use the full feature set of this controller. However, having said that, this is a beautiful, simple and efficient fan controller to use. The digital display is excellent and minimalist, displays voltage or RPM, which fan is selected, % of selected fans V or RPM, thermisters temp is displayed in the top right per thermistor in C or F. Allows for liquid pumps, and different fans to be controlled automatically by thermistor temp or manually through voltage/RPM speeds. Although it fits well into my 5.25\" drive tray, the short brackets on the controller make it difficult to work with unless it's allowed to hang out the front, on my case there is only 1 screw hole that lines up from my optical drive tray and the controller brackets, so it hangs a bit loose. The screen cover and led monitor are a bit separated on my controller, so I occasionally have to press on the screen to properly illuminate the screen. Otherwise looks beautiful, works well, haven't been able to use thermistors without thermal adhesive/tape, also makes a loud beep on computer boot, but very easy to use.",
+      "For Delivering 36 watts per channel and not buckling underneath the wait of my delta fan this thing earns its gold stars.\nthat said I wish the construction on it was a bit more sturdy so that the display doesn't flex so easily, it would also benefit from an extended \"bracket\" for putting it into your 5.25 bay. The screws are annoying to screw into my case due to the fact that they hide behind the lip of where it opens up behind the panel. All in all though its a good piece even with its few quirks"
+    ]
+  },
+  {
+    "name": "Lamptron FC-FC2-B Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Part #": "FC-FC2-B",
+      "Channels": "6",
+      "Channel Wattage": "45 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Features": "Black\nCNC milled solid aluminium panel of up to 3/4\"\n6-channel x 45W per channel power control with stepless RPM control\nBlue LED brightness intensifies as cooling fan's RPM climbs\n6 x 3-pin connector to fan, 1 x 4-pin molex connector to power supply\nFits any standard 5.25\" drive bay (5-7/8\" x 1-5/8\")"
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/jJvRsY/lamptron-fan-controller-fcfc2b",
+    "comments": []
+  },
+  {
+    "name": "Lamptron FC-CF525-BK Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Part #": "FC-CF525-BK",
+      "Channels": "5",
+      "Channel Wattage": "60 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Power Input : +12VDC (via standard 4-pin Molex)\nPower Output : Up to 60W per channel x 5 channels\nControl Range : 0 - 12VDC\nFan Header : Molex Standard 3-pin x 5\nFront Panel Color : Black\n60W x 5 channels - The Most Powerful Fan Controller right now!! Knob based control\nThe CF525 provides a whooping 60W each through its 5 independent channels for a total of 300W for power hungry cooling devices. To put it in perspective, it can control 10 of the infamous Delta AFB1212GHE-CF00fans (29.4W for each) at full speed at the same time (2 per channel). You will probably need just one CF525 for your entire system's cooling requirement, but make sure you put a good quality 700W power supply alongside with this fan controller, and you will need a PCI-Express 8-pin header from the power supply to power the CF525"
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/bzmLrH/lamptron-fan-controller-fccf525bk",
+    "comments": [
+      "a Whopping 60w per channel, you could probably power 3 computers fans its so powerful."
+    ]
+  },
+  {
+    "name": "Lamptron FC-CM615-BK Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Part #": "FC-CM615-BK",
+      "Channels": "6",
+      "Channel Wattage": "15 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Features": "Power Input : +12VDC (via standard 4-pin Molex)\nPower Output : Up to 15W per channel x 6 channels\nControl Range : 0 - 12VDC\nFan Header : Molex Standard 3-pin x 6\nFront Panel Color : Black\nPower Supply : 500W or higher\nRemote connectivity with network and internet access via software compatible to Windows XP/7/8, Auto Fan Temperature Curve & full system status monitoring, Start Boost, 15W x 6 channels, LCD touch based control\nThis extra premium, touch based fan controller brings remote connectivity to your cooling needs with network and internet access to your new controller via software compatible with Windows XP, 7 and 8. When you are in front of your system, the CM615 features a wide touch screen for full control at your fingertips! The CM615 comes with 6 x 15W channels, and the unique Start-boost technology makes sure all your fans will start up properly when your PC does, along with Automatic Fan Temperature Curve and Full System Status Monitoring."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/WLW9TW/lamptron-fan-controller-fccm615bk",
+    "comments": []
+  },
+  {
+    "name": "Lamptron FC-FANATIC-B Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Lamptron",
+      "Part #": "FC-FANATIC-B",
+      "Channels": "5",
+      "Channel Wattage": "60 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "black\nCNC milled solid aluminium panel of up to 3/4\"\n5 independant channels with 60W output per each channel\nA total of 300W output control capability across all channels\nRed LED indicates high RPM setting\nBlue LED indicates low RPM setting\nOff setting for all connected fans\n5 x 3-pin connector to fan, 1 x 4-pin molex connector to power supply\nNon-direct light technology LED voltage indicator avoids light interfere\nFits any standard 5.25\" drive bay (5-7/8\" x 1-5/8\")"
+    },
+    "rating": "(1 Rating, 4.0 Average)",
+    "link": "https://pcpartpicker.com/product/2YphP6/lamptron-fan-controller-fcfanaticb",
+    "comments": []
+  },
+  {
+    "name": "Aerocool Touch 2100 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Aerocool",
+      "Model": "Touch 2100",
+      "Part #": "EN51965",
+      "Channels": "5",
+      "Channel Wattage": "25 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "2 x 5.25\"",
+      "Features": "Innovative \"Touch\" LCD technology.\nSupport up to maximum 25W per fan channel.\n7 LCD backlight colors selection or turn off backlight completely.\nMonitors and Controls 5 sets of temperature and fan speed individually.\nSwitch between Celsius and Fahrenheit.\nOverheating alarm temperature warming.\nFan working display.\n2 x USB3.0, Mic & Headphone."
+    },
+    "rating": "(1 Rating, 5.0 Average)",
+    "link": "https://pcpartpicker.com/product/DscMnQ/aerocool-fan-controller-en51965",
+    "comments": []
+  },
+  {
+    "name": "Aerocool Strike-X-X1000 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Aerocool",
+      "Model": "Strike-X-X1000",
+      "Part #": "EN55536",
+      "Channels": "5",
+      "Channel Wattage": "25 W",
+      "PWM (4-Pin)": "No",
+      "Form Factor": "5.25\"",
+      "Features": "Controls 5 sets of fans\nLED to indicate power or problem\nSupport up to maximum 25W per fan channel.\nFans can be turned off (0 RPM) completely.\nSafaty fuse built in to prevent damage to PCB from over powering.\nOverheating alarm.\nUSB 3.0 x 2 or USB 2.0 x 2 / Audio & Mic."
+    },
+    "rating": "N/A",
+    "link": "https://pcpartpicker.com/product/YD4NnQ/aerocool-fan-controller-en55536",
+    "comments": []
+  },
+  {
+    "name": "Deepcool ROCK MASTER V3.0 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Deepcool",
+      "Part #": "ROCK MASTER V3.0",
+      "Channels": "4",
+      "Channel Wattage": "10 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "Fan Control Panel\nMulti-functional Card Reader\nDual USB 3.0 Ports\n5.25\" Drive Bay Installation\nRated Voltage: 12V and 5V\nNos of Regulated Output : 4 lines\nMax Power input: <40W\nVol of Fan(12V) : 6.5~11.5V\nVol of Fan(5V): 2.5~4.5V\nColor of LED: Blue\n4 channels to adjust your fan speed to the most comfort.\n2 USB 3.0 extension ports.\nCF/SD/Micro SD card reader.\nFit into the 5.25\" bay, easy to install."
+    },
+    "rating": "(2 Ratings, 2.5 Average)",
+    "link": "https://pcpartpicker.com/product/8CBv6h/deepcool-rock-master-v30-fan-controller-rock-master-v30",
+    "comments": [
+      "Complete trash, don't buy it, died on me a month later.",
+      "This is multi purpose which is nice, I wanted a card reader and this just happened to be the right price point. It makes cable management interesting though."
+    ]
+  },
+  {
+    "name": "Kingwin FPX-005 Fan Controller",
+    "price": "N/A",
+    "specs": {
+      "Manufacturer": "Kingwin",
+      "Part #": "FPX-005",
+      "Channels": "5",
+      "Channel Wattage": "8 W",
+      "PWM (4-Pin)": "Yes",
+      "Form Factor": "5.25\"",
+      "Features": "5 Channel Fan Controller\nLED Indicator for Power On/Off\nControl 5 Sets of Fans\nFits 5.25” Bay\nIndependent Channel Sliders\nHoneycombed Mesh Grilled Front\nEasy Setup and Use\nCompact Design"
+    },
+    "rating": "(4 Ratings, 4.5 Average)",
+    "link": "https://pcpartpicker.com/product/qnQRsY/kingwin-fan-controller-fpx005",
+    "comments": [
+      "Pretty good quality fan controller. Does its purpose well.",
+      "short for a 5.25\" bay",
+      "Cheap fan controller. Not particularly pretty, but so far it's doing a good job. Unless it fails, this is a great item.",
+      "The mesh pattern and blue lights and slider switches match my system And anything that quiets the Deepcool fans is a necessity."
+    ]
+  }
+]
