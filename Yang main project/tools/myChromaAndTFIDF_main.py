@@ -11,13 +11,16 @@ import pymysql
 # ========================================
 import os
 import json
-import joblib
+# import joblib
 # import pypdf
 # ========================================
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+# from sklearn.feature_extraction.text import TfidfVectorizer
+# from sklearn.metrics.pairwise import cosine_similarity
 # ========================================
 # from ckip_transformers.nlp import CkipWordSegmenter, CkipPosTagger
+# ========================================
+import logging
+# import traceback
 
 class MyChromaAndTFIDF(object):
     def __init__(self, chroma_db_path: str = './chroma_db', tfidf_model_path: str = './tfidf_model', transformers_tokenizer_model: str = 'intfloat/e5-base'):
@@ -49,8 +52,16 @@ class MyChromaAndTFIDF(object):
             with open(self.__fileIndexPath, 'r') as f:
                 self.__fileList = list(json.load(f).keys())
         self.__fileCount = len(self.__fileList)
+        # ========================================
+        logging.basicConfig(
+            filename = 'debuger.log',              # 日誌檔名
+            level = logging.WARNING,            
+            format = '%(asctime)s [%(levelname)s] %(message)s',
+            datefmt = '%Y-%m-%d %H:%M:%S'
+        )
         print('MyChromaAndTFIDF initialized')
     
+    '''__storeVectorInChroma(self, chunks: list, file_name: str, store_name: str)
     def __storeVectorInChroma(self, chunks: list, file_name: str, store_name: str) -> None:
         for index, chunk in enumerate(chunks):
             self.__collection.add(
@@ -59,8 +70,9 @@ class MyChromaAndTFIDF(object):
                 metadatas=[{"text": chunk, "file_name": file_name, "store_name": store_name}]
             )
         return
+    '''
 
-    
+    '''__tfidfStoreData
     def __tfidfStoreData(self, vectorizer, matrix, fileIndex, fileStoreIndex) -> None:
         joblib.dump(vectorizer, self.__tfidfVectorizerPath)
         joblib.dump(matrix, self.__tfidfMatrixPath)
@@ -69,7 +81,9 @@ class MyChromaAndTFIDF(object):
         with open(self.__fileStoreIndexPath, 'w') as f:
             json.dump(fileStoreIndex, f)
         return
+    '''
 
+    '''__tfidfLoadData
     def __tfidfLoadData(self):
         if os.path.exists(self.__tfidfVectorizerPath):
             vectorizer = joblib.load(self.__tfidfVectorizerPath)
@@ -84,6 +98,8 @@ class MyChromaAndTFIDF(object):
             fileIndex = {}
             fileStoreIndex = {}
         return vectorizer, matrix, fileIndex, fileStoreIndex
+    '''
+
     '''__ckip_tokenize
     # def __ckip_tokenize(self, text: str) -> str:
     #     def clean(sentence_ws, sentence_pos):
@@ -105,6 +121,7 @@ class MyChromaAndTFIDF(object):
     '''
     
     def addFile(self, file_path: str) -> None:
+        '''textSpliter(text: str, chunkSize: int = 250, chunkOverlap: int = 20)
         def textSpliter(text: str, chunkSize: int = 250, chunkOverlap: int = 20) -> list:
             chunks = []
             flag = False
@@ -115,6 +132,8 @@ class MyChromaAndTFIDF(object):
                 else:
                     chunks.append(text[i-chunkOverlap:i+chunkSize])
             return chunks
+        '''
+
         '''addCSV(csv_path: str)
         def addCSV(csv_path: str) -> None:
             import pandas as pd
@@ -172,11 +191,12 @@ class MyChromaAndTFIDF(object):
                 comments = product["comments"]
 
                 specs_text = " ".join(f"{k}: {v}" for k, v in specs.items())
-                comments_text = " ".join(comments[:5])  # 可只選前幾則代表性評論
+                comments_text = " ".join(comments)  # 可只選前幾則代表性評論
 
                 full_text = f"passage: {name}. Specifications: {specs_text}. User comments: {comments_text}"
                 return full_text
             
+            '''encode_text(text)
             def encode_text(text):
                 inputs = self.__transformers_tokenizer(text, return_tensors="pt", truncation=True, padding=True)
                 with torch.no_grad():
@@ -184,7 +204,8 @@ class MyChromaAndTFIDF(object):
                     embeddings = outputs.last_hidden_state[:, 0]
                     embeddings = torch.nn.functional.normalize(embeddings, p=2, dim=1)  # L2 normalization
                 return embeddings[0]  # shape: (768,)
-            
+            '''
+
             def average_pool(last_hidden_states: Tensor, attention_mask: Tensor) -> Tensor:
                 last_hidden = last_hidden_states.masked_fill(~attention_mask[..., None].bool(), 0.0)
                 return last_hidden.sum(dim=1) / attention_mask.sum(dim=1)[..., None]
@@ -199,6 +220,10 @@ class MyChromaAndTFIDF(object):
                 for idx, product in enumerate(data):
                     name = product["name"]
                     url = product["link"]
+                    price = product["price"]
+                    specs = product['specs']
+                    rating = product['rating']
+                    comments = product['comments']
                     text = product_to_text(product)
 
                     encoded_input = self.__transformers_tokenizer(text, padding=True, truncation=True, return_tensors='pt')
@@ -219,6 +244,21 @@ class MyChromaAndTFIDF(object):
                             "url": url
                         }]
                     )
+
+                    # Store SQL
+                    sql_check = f'SELECT COUNT(*) FROM senior_project_2.products WHERE `name` = "{name}" and `link` = "{url}";'
+                    try:
+                        self.__mySQLCursor.execute(sql_check)
+                        result = self.__mySQLCursor.fetchone()
+                        if result['COUNT(*)'] == 0:
+                            # sql_insert = f'INSERT INTO senior_project_2.products (name, price, specs, rating, link, comments) VALUES ("{name}", "{price}", "%s","{rating}", "{url}", {comments});'
+                            self.__mySQLCursor.execute("INSERT INTO senior_project_2.products (`name`, `price`, `specs`, `rating`, `link`, `comments`) VALUES (%s, %s, %s, %s, %s, %s)", (name, price, json.dumps(specs), rating, url, json.dumps(comments)))
+                            self.__mySQLClient.commit()
+                    except pymysql.MySQLError as e:
+                        logging.error(f"Error fetching data from MySQL: {e}")
+                        self.__mySQLClient.rollback()
+                        continue
+
                     self.__fileCount += 1
                     self.__fileList.append(name)
 
@@ -352,16 +392,19 @@ class MyChromaAndTFIDF(object):
         # 去除同商品名稱重複（可換成唯一 ID 比較更嚴謹）
         unique_results = []
         seen_names = set()
+        seen_links = set()
 
-        for doc, metadata in zip(results["documents"][0], results["metadatas"][0]):
+        for doc, metadata, distances in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
             product_name = metadata["name"]
-            if product_name not in seen_names:
+            if product_name not in seen_names and metadata["url"] not in seen_links:
+                # 這裡可以加入其他條件來過濾重複
                 seen_names.add(product_name)
                 unique_results.append({
                     "name": product_name,
                     "url": metadata["url"],
+                    "distances": distances,
                 })
-
+        unique_results = sorted(unique_results, key=lambda x: x['distances'])
         top_k_unique = unique_results[:top_k]
         sql_result = []
         for i in top_k_unique:
@@ -370,17 +413,10 @@ class MyChromaAndTFIDF(object):
                 self.__mySQLCursor.execute(sql)
                 SQLresult = self.__mySQLCursor.fetchall()
                 if SQLresult:
-                    # sql_result.append({
-                    #     'name': SQLresult[0][0],
-                    #     'price': SQLresult[0][1],
-                    #     'spacs': SQLresult[0][2],
-                    #     'rating': SQLresult[0][3],
-                    #     'link': SQLresult[0][4],
-                    #     'comments': SQLresult[0][5]
-                    # })
+                    SQLresult[0]['distances'] = i['distances']
                     sql_result.append(SQLresult)
             except pymysql.MySQLError as e:
-                print(f"Error fetching data from MySQL: {e}")
+                logging.error(f"Error fetching data from MySQL: {e}")
                 self.__mySQLClient.rollback()
                 continue
         sql_result = json.dumps(sql_result, ensure_ascii=False, indent=4)
@@ -398,12 +434,25 @@ class MyChromaAndTFIDF(object):
         # self.__cromaClient.persist()
         
         # delete from TF-IDF
+        '''
         vectorizer, matrix, fileIndex = self.__tfidfLoadData()
         del fileIndex[file_name]
         document = list(fileIndex.values())
         vectorizer = TfidfVectorizer()
         matrix = vectorizer.fit_transform(document)
         self.__tfidfStoreData(vectorizer, matrix, fileIndex)
+        '''
+
+        # delete from MySQL
+        sql = f"DELETE FROM senior_project_2.products WHERE `name` = '{file_name}';"
+        try:
+            self.__mySQLCursor.execute(sql)
+            self.__mySQLClient.commit()
+        except pymysql.MySQLError as e:
+            # print(f"Error deleting data from MySQL: {e}")
+            logging.error(f"Error deleting data from MySQL: {e}")
+            self.__mySQLClient.rollback()
+            return
 
         print(f'Deleted {file_name}')
         self.__fileCount -= 1
